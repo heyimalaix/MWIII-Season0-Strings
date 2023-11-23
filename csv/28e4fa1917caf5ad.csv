@@ -73,7 +73,7 @@ cp_countdown_timer_alpha,1,,g,i,0,0,5,,determines if we should display the timer
 cp_objective_index,1,,g,i,0,0,99999,,0=Hide or 1=Show the objective widget,,,,
 cp_countdown_color,1,,g,i,0,0,5,,0=white 1=yellow 2=red 5='paused',,,,
 cp_objective_count,1,,g,i,-1,-1,9999999,,#used for the objective desc to count down enemies killed or things like that,,,,
-cp_objective_icon,1,,c,i,0,0,1,,nuke core icon, used for informing player something is in his possession,,,,
+cp_objective_icon,1,,c,i,0,0,1,,nuke core icon used for informing player something is in his possession,,,,
 cp_objective_desc_index,1,,g,i,1,1,8,,cp objective description step index,,,,
 cp_objective_sub_1_index,1,,g,i,0,0,99999,,Index that records each sub objective's Description,,,,
 cp_objective_sub_2_index,1,,g,i,0,0,99999,,Index that records each sub objective's Description,,,,
