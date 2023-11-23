@@ -1,0 +1,5 @@
+inherit,mp/loot/br/champion_mgl/lootset_root.csv,,,,
+reqAdd,weapon&[1-3],2,0,,# 2 uncommon weapon+
+reqAdd,ammo,1,0,,# 1 Ammo
+reqAdd,health,1,0,,# 1 armor plate
+reqAdd,plunder,1,0,100,# 1 cash drop

@@ -1,0 +1,5 @@
+inherit,mp/loot/br/dmz/lootset_military_container.csv
+tagReject,sealion
+tagReject,nosaba
+tagReject,delta
+tagReject,biobunker

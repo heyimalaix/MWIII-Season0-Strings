@@ -1,0 +1,8 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,,,
+chance,point,55,#     % of non-clustered points that will be populated,,
+chance,cluster,55,#     % of clusters that will be populated,,
+chance,clusterSolo,50,#     % of clusters that will become invalid after spawning one item (with dependencies),,
+reqAdd,plunder & [1],1,,,# required plunder
+reqAdd,brloot_gascan,2,,,
+reqAdd,defensive&!(lethal|tactical),1,,,
+tagBoost,defensive,100,,,

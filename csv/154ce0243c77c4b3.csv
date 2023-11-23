@@ -1,0 +1,9 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,,,
+chance,point,70,#     % of non-clustered points that will be populated,,
+chance,cluster,70,#     % of clusters that will be populated,,
+chance,clusterSolo,45,#     % of clusters that will become invalid after spawning one item (with dependencies),,
+reqAdd,weapon & [2-3],2,,,# required higher quality weapons
+reqAdd,offensive&!(lethal|tactical),1,,,
+reqAdd,defensive&!(lethal|tactical),1,,,
+tagBoost,offensive,100,,,
+tagBoost,defensive,100,,,

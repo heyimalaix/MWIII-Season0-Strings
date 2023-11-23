@@ -1,0 +1,5 @@
+inherit,mp/loot/br/default/lootset_root.csv,,,,
+reqAdd,weapon&[4],1,,,# 1 weapon
+reqAdd,plunder,1,,,
+reqAdd,defensive,2,,,# 1 killstreak
+reqAdd,brloot_gulag_token,1,,,# any item of epic or lege rarity

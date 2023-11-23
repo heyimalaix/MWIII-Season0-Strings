@@ -1,0 +1,4 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,
+reqAdd,plunder,4,5
+reqAdd,killstreak,1,1
+reqAdd,gear|plate_carrier,1,1

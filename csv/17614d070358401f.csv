@@ -1,0 +1,9 @@
+include,omnvars/mp/omnvars_scorestreaks.csv,,,,,,,,,,,,,
+include,omnvars/mp/omnvars_bombtimer.csv,,,,,,,,,,,,,
+include,omnvars/mp/omnvars_overtime.csv,,,,,,,,,,,,,
+include,omnvars/mp/omnvars_hardpoint.csv,,,,,,,,,,,,,
+ui_dmz_uav_tower_screen,1,,c,i,0,0,1,,,,,,,#0=off, 1=on
+ui_quest_circle_opacity_change,1,,c,i,0,0,1,,,,,,,#0=off, 1=on
+ui_hq_num_alive,1,,g,i,0,0,100,,,,,,,
+ui_hq_ownerteam,1,,g,i,-1,-1,2,,,,,,,
+ui_secure_overlay_active,1,,c,b,0,0,1,,,,,,,

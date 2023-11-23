@@ -1,0 +1,3 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,,,
+reqAdd,[2],3,,,# 3 rare+
+reqAdd,[1],5,,,# 5 uncommon+

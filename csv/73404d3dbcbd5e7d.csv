@@ -1,0 +1,9 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,,,
+chance,point,55,#     % of non-clustered points that will be populated,,
+chance,cluster,55,#     % of clusters that will be populated,,
+chance,clusterSolo,50,#     % of clusters that will become invalid after spawning one item (with dependencies),,
+reqLimit,tablet,2,,,
+option,allowdupes,0,#no dupes,,
+reqAdd,weapon,1,3,,#require a weapon
+reqAdd,brloot_armor_plate,1,1,,#require an armor plate
+reqAdd,tablet,1,,10,

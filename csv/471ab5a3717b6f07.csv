@@ -1,0 +1,255 @@
+US,United States of America,SIEA,0900PM
+NZ,New Zealand,SIEE,0300AM
+AU,Australia,SIEE,0500AM
+KR,South Korea,SIEJA,0700AM
+JP,Japan,SIEJ,0700AM
+HK,Hong Kong,SIEJA,0800AM
+MY,Malaysia,SIEJA,0800AM
+SG,Singapore,SIEJA,0800AM
+TW,Taiwan,SIEJA,0800AM
+ID,Indonesia,SIEJA,0900AM
+TH,Thailand,SIEJA,0900AM
+IN,India,SIEE,1030AM
+OM,Oman,SIEE,1200PM
+AE,United Arab Emirates,SIEE,1200PM
+BH,Bahrain,SIEE,0100PM
+KW,Kuwait,SIEE,0100PM
+QA,Qatar,SIEE,0100PM
+SA,Saudi Arabia,SIEE,0100PM
+TR,Turkey,SIEE,0100PM
+BG,Bulgaria,SIEE,0200PM
+FI,Finland,SIEE,0200PM
+GR,Greece,SIEE,0200PM
+RO,Romania,SIEE,0200PM
+CY,Cyprus,SIEE,0200PM
+IL,Israel,SIEE,0200PM
+LB,Lebanon,SIEE,0200PM
+UA,Ukraine,SIEE,0200PM
+ZA,South Africa,SIEE,0200PM
+AT,Austria,SIEE,0300PM
+BE,Belgium,SIEE,0300PM
+HR,Croatia,SIEE,0300PM
+CZ,Czechia,SIEE,0300PM
+DK,Denmark,SIEE,0300PM
+FR,France,SIEE,0300PM
+DE,Germany,SIEE,0300PM
+HU,Hungary,SIEE,0300PM
+IT,Italy,SIEE,0300PM
+LU,Luxembourg,SIEE,0300PM
+MT,Malta,SIEE,0300PM
+NL,Netherlands,SIEE,0300PM
+PL,Poland,SIEE,0300PM
+SK,Slovakia,SIEE,0300PM
+SI,Slovenia,SIEE,0300PM
+ES,Spain,SIEE,0300PM
+SE,Sweden,SIEE,0300PM
+NO,Norway,SIEE,0300PM
+EU,European Union,SIEE,0300PM
+CH,Switzerland,SIEE,0300PM
+PT,Portugal,SIEE,0400PM
+IE,Ireland,SIEE,0400PM
+GB,United Kingdom of Great Britain and Northern Ireland,SIEE,0400PM
+IS,Iceland,SIEE,0400PM
+BR,Brazil,SIEA,0700PM
+UY,Uruguay,SIEA,0700PM
+AR,Argentina,SIEA,0700PM
+CL,Chile,SIEA,0700PM
+PY,Paraguay,SIEA,0700PM
+BO,Bolivia,SIEA,0800PM
+PR,Puerto Rico,SIEA,0800PM
+VI,Virgin Islands (U.S.),SIEA,0800PM
+CA,Canada,SIEA,0900PM
+EC,Ecuador,SIEA,0900PM
+PA,Panama,SIEA,0900PM
+CO,Colombia,SIEA,0900PM
+PE,Peru,SIEA,0900PM
+MX,Mexico,SIEA,1000PM
+CR,Costa Rica,SIEA,1000PM
+SV,El Salvador,SIEA,1000PM
+HN,Honduras,SIEA,1000PM
+NI,Nicaragua,SIEA,1000PM
+GT,Guatemala,SIEA,1000PM
+AS,American Samoa,SIEE,0800PM
+FM,Micronesia (Federated States of),SIEE,0800PM
+NU,Niue,SIEE,0800PM
+WS,Samoa,SIEE,0800PM
+TK,Tokelau,SIEE,0800PM
+TO,Tonga,SIEE,0800PM
+UM,United States Minor Outlying Islands,SIEA,0800PM
+AQ,Antarctica,SIEE,0800PM
+CK,Cook Islands,SIEE,0800PM
+PF,French Polynesia,SIEE,0800PM
+PN,Pitcairn,SIEE,0800PM
+XK,Kosovo,SIEE,0800PM
+SB,Solomon Islands,SIEE,0800PM
+VU,Vanuatu,SIEE,0800PM
+NC,New Caledonia,SIEE,0800PM
+TV,Tuvalu,SIEE,0800PM
+MH,Marshall Islands,SIEE,0800PM
+KI,Kiribati,SIEE,0800PM
+NF,Norfolk Island,SIEE,0800PM
+NR,Nauru,SIEE,0800PM
+FJ,Fiji,SIEE,0800PM
+WF,Wallis and Futuna,SIEE,0800PM
+KP,North Korea,SIEJA,0800PM
+GU,Guam,SIEA,0800PM
+PW,Palau,SIEE,0800PM
+MP,Northern Mariana Islands,SIEA,0800PM
+PG,Papua New Guinea,SIEE,0800PM
+TL,Timor-Leste,SIEJA,0800PM
+MO,Macao,SIEJA,0800PM
+MN,Mongolia,SIEJA,0800PM
+PH,Philippines,SIEJA,0800PM
+BN,Brunei,SIEJA,0800PM
+CN,China,SIEJA,0800PM
+HM,Heard Island and McDonald Islands,SIEE,0800PM
+KM,Comoros,SIEE,0800PM
+DJ,Djibouti,SIEE,0800PM
+ER,Eritrea,SIEE,0800PM
+EE,Estonia,SIEE,0800PM
+ET,Ethiopia,SIEE,0800PM
+IQ,Iraq,SIEE,0800PM
+JO,Jordan,SIEE,0800PM
+KE,Kenya,SIEE,0800PM
+LV,Latvia,SIEE,0800PM
+LT,Lithuania,SIEE,0800PM
+MG,Madagascar,SIEE,0800PM
+MD,Moldova,SIEE,0800PM
+PS,Palestine, State of,SIEE,0800PM
+RU,Russian Federation,SIEE,0800PM
+SO,Somalia,SIEE,0800PM
+SY,Syrian Arab Republic,SIEE,0800PM
+TZ,Tanzania,SIEE,0800PM
+UG,Uganda,SIEE,0800PM
+YE,Yemen,SIEE,0800PM
+IR,Iran,SIEE,0800PM
+VA,Holy See,SIEE,0800PM
+LY,Libya,SIEE,0800PM
+LI,Liechtenstein,SIEE,0800PM
+MW,Malawi,SIEE,0800PM
+MC,Monaco,SIEE,0800PM
+LS,Lesotho,SIEE,0800M
+ME,Montenegro,SIEE,0800PM
+MZ,Mozambique,SIEE,0800PM
+NA,Namibia,SIEE,0800PM
+MK,North Macedonia,SIEE,0800PM
+SS,South Sudan,SIEE,0800PM
+SM,San Marino,SIEE,0800PM
+RS,Serbia,SIEE,0800PM
+SD,Sudan,SIEE,0800PM
+SJ,Svalbard and Jan Mayen,SIEE,0800PM
+ZM,Zambia,SIEE,0800PM
+ZW,Zimbabwe,SIEE,0800PM
+RW,Rwanda,SIEE,0800PM
+AL,Albania,SIEE,0800PM
+AD,Andorra,SIEE,0800PM
+BA,Bosnia & Herzegovina,SIEE,0800PM
+BW,Botswana,SIEE,0800PM
+BV,Bouvet Island,SIEE,0800PM
+BI,Burundi,SIEE,0800PM
+EA,Ceuta & Melilla,SIEE,0800PM
+EG,Egypt,SIEE,0800PM
+SZ,Eswatini,SIEE,0800PM
+GI,Gibraltar,SIEE,0800PM
+VN,Vietnam,SIEJA,0800PM
+KH,Cambodia,SIEJA,0800PM
+CX,Christmas Island,SIEE,0800PM
+LA,Lao People's Democratic Republic,SIEJA,0800PM
+NP,Nepal,SIEE,0800PM
+LK,Sri Lanka,SIEE,0800PM
+MM,Myanmar,SIEE,0800PM
+CC,Cocos (Keeling) Islands,SIEE,0800PM
+BD,Bangladesh,SIEE,0800PM
+BT,Bhutan,SIEE,0800PM
+IO,British Indian Ocean Territory,SIEE,0800PM
+KZ,Kazakhstan,SIEE,0800PM
+KG,Kyrgyzstan,SIEE,0800PM
+AM,Armenia,SIEE,0800PM
+AZ,Azerbaijan,SIEE,0800PM
+GE,Georgia,SIEE,0800PM
+MU,Mauritius,SIEE,0800PM
+RE,Réunion,SIEE,0800PM
+SC,Seychelles,SIEE,0800PM
+TF,French Southern Territories,SIEE,0800PM
+MV,Maldives,SIEE,0800PM
+PK,Pakistan,SIEE,0800PM
+TJ,Tajikistan,SIEE,0800PM
+TM,Turkmenistan,SIEE,0800PM
+UZ,Uzbekistan,SIEE,0800PM
+AF,Afghanistan,SIEE,0800PM
+AX,Åland Islands,SIEE,0800PM
+BY,Belarus,SIEE,0800PM
+AO,Angola,SIEE,0800PM
+DZ,Algeria,SIEE,0800PM
+BJ,Benin,SIEE,0800PM
+CM,Cameroon,SIEE,0800PM
+IC,Canary Islands,SIEE,0800PM
+CF,Central African Republic,SIEE,0800PM
+TD,Chad,SIEE,0800PM
+CG,Congo,SIEE,0800PM
+CD,Congo, Democratic Republic of the,SIEE,0800PM
+GQ,Equatorial Guinea,SIEE,0800PM
+FO,Faroe Islands,SIEE,0800PM
+GA,Gabon,SIEE,0800PM
+GG,Guernsey,SIEE,0800PM
+IM,Isle of Man,SIEE,0800PM
+JE,Jersey,SIEE,0800PM
+MA,Morocco,SIEE,0800PM
+NE,Niger,SIEE,0800PM
+NG,Nigeria,SIEE,0800PM
+TN,Tunisia,SIEE,0800PM
+EH,Western Sahara,SIEE,0800PM
+SL,Sierra Leone,SIEE,0800PM
+TG,Togo,SIEE,0800PM
+AC,Ascension Island,SIEE,0800PM
+BF,Burkina Faso,SIEE,0800PM
+CI,Côte d'Ivoire,SIEE,0800PM
+GM,Gambia,SIEE,0800PM
+GH,Ghana,SIEE,0800PM
+GN,Guinea,SIEE,0800PM
+GW,Guinea-Bissau,SIEE,0800PM
+LR,Liberia,SIEE,0800PM
+ML,Mali,SIEE,0800PM
+MR,Mauritania,SIEE,0800PM
+SH,Saint Helena, Ascension and Tristan da Cunha,SIEE,0800PM
+ST,Sao Tome and Principe,SIEE,0800PM
+SN,Senegal,SIEE,0800PM
+GL,Greenland,SIEA,0800PM
+PM,Saint Pierre and Miquelon,SIEA,0800PM
+BM,Bermuda,SIEA,0800PM
+AI,Anguilla,SIEA,0800PM
+AG,Antigua & Barbuda,SIEA,0800PM
+JM,Jamaica,SIEA,0800PM
+BZ,Belize,SIEA,0800PM
+AW,Aruba,SIEA,0800PM
+BB,Barbados,SIEA,0800PM
+GD,Grenada,SIEA,0800PM
+BQ,Bonaire, Sint Eustatius and Saba,SIEA,0800PM
+VG,British Virgin Islands,SIEA,0800PM
+KY,Cayman Islands,SIEA,0800PM
+CW,Curaçao,SIEA,0800PM
+DM,Dominica,SIEA,0800PM
+DO,Dominican Republic,SIEA,0800PM
+GP,Guadeloupe,SIEA,0800PM
+GY,Guyana,SIEE,0800PM
+MQ,Martinique,SIEA,0800PM
+YT,Mayotte,SIEA,0800PM
+MS,Montserrat,SIEE,0800PM
+AN,Netherland Antilles,SIEA,0800PM
+LC,Saint Lucia,SIEA,0800PM
+MF,Saint Martin (French part),SIEA,0800PM
+KN,Saint Kitts and Nevis,SIEA,0800PM
+SX,Sint Maarten (Dutch part),SIEE,0800PM
+TT,Trinidad and Tobago,SIEA,0800PM
+VE,Venezuela (Bolivarian Republic of),SIEA,0800PM
+VC,Saint Vincent and the Grenadines,SIEA,0800PM
+CV,Cape Verde,SIEE,0800PM
+GS,South Georgia and the South Sandwich Islands,SIEA,0800PM
+SR,Suriname,SIEA,0800PM
+FK,Falkland Islands (Malvinas),SIEA,0800PM
+GF,French Guiana,SIEA,0800PM
+BS,Bahamas,SIEA,0900PM
+CU,Cuba,SIEA,0900PM
+HT,Haiti,SIEE,0900PM
+TC,Turks and Caicos Islands,SIEA,0900PM
+BL,Saint Barthélemy,SIEA,1000PM

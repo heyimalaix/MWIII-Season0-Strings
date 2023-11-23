@@ -1,0 +1,5 @@
+inherit,mp/loot/br/mini_mgl/lootset_root.csv,,,,
+reqAdd,weapon&[1],1,,,# 1 uncommon weapon+
+reqAdd,,1,,,# 1 item
+reqAdd,ammo,1,,,# 1 Ammo
+reqAdd,plunder,1,,,# 1 plunder

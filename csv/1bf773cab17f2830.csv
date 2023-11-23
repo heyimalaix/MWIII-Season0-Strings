@@ -1,0 +1,9 @@
+inherit,mp/loot/br/dmz/lootset_radioactive_container.csv,
+tagReject,biolab,
+tagReject,saba,
+tagReject,sabacrashsite,
+tagReject,delta,
+tagReject,biobunker,
+item,brloot_valuable_sealion_vase_1,2
+item,brloot_valuable_sealion_vase_2,2
+item,brloot_valuable_sealion_vase_3,2

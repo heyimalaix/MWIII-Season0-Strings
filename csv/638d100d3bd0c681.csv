@@ -1,0 +1,6 @@
+choose,1,,,,,
+zone,testzone_inner_hot_solo,fortress,mp/loot/br/dmz/lootset_hotzone_on_test.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone
+choose,1,,,,,
+zone,testzone_inner_hot,fortress,mp/loot/br/dmz/lootset_hotzone_on_test.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone
+choose,1,,,,,
+zone,me_house_11,fortress,mp/loot/br/dmz/lootset_hotzone_on_test.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone

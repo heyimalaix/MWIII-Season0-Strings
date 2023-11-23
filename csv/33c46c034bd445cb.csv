@@ -1,0 +1,6 @@
+choose,2,,,,,
+zone,fortress_building_01,fortress,mp/loot/br/dmz/lootset_hotzone.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone
+zone,fortress_building_02,fortress,mp/loot/br/dmz/lootset_hotzone.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone
+zone,fortress_building_03,fortress,mp/loot/br/dmz/lootset_hotzone.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone
+zone,fortress_building_04,fortress,mp/loot/br/dmz/lootset_hotzone.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone
+zone,fortress_building_05,fortress,mp/loot/br/dmz/lootset_hotzone.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone

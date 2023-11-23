@@ -1,0 +1,5 @@
+inherit,mp/loot/br/dmz/lootset_duffel_bag_02.csv
+tagReject,sealion
+tagReject,nosaba
+tagReject,delta
+tagReject,biobunker

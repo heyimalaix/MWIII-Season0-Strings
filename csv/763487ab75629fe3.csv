@@ -1,0 +1,5 @@
+include,omnvars/cp/gametypes/omnvars_incursion.csv,,,,,,,,
+cp_detonation_code,1,,c,i,0,0,9999,,code displayed on device
+cp_detonation_color,1,,c,i,0,0,5,,color of  "wire" on bomb
+cp_detonation_fill,1,,c,f,0,0,1,1,depletion rate timer for detonation color change
+cp_detonation_timer,1,,g,t,0,,,1,main timer

@@ -1,0 +1,6 @@
+inherit,mp/loot/br/dmz/lootset_supply_drop.csv
+tagReject,biolab
+tagReject,saba
+tagReject,sabacrashsite
+tagReject,delta
+tagReject,biobunker

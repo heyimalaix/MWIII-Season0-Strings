@@ -1,0 +1,218 @@
+setchancecol,mp/loot/br/dmz/lootset_root.csv,2,,# root,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_global.csv,3,,# global,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_hotzone_on_test.csv,4,,# hotzone_on_test,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_hotzone_off_test.csv,5,,# hotzone_off_test,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_agent_backpack.csv,6,,# agent_backpack,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_gascan_zone.csv,7,,# gas_can,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_office_cabinet.csv,8,,# office_cabinet,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_supply_drop_samsite.csv,9,,# supply_drop_samsite,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_hospital.csv,10,,# saba_hospital,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_ambulance.csv,11,,# saba_ambulance,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_medicaltent.csv,12,,# saba_medicaltent,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_blackmarket.csv,13,,# saba_blackmarket,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_gasstation.csv,14,,# saba_gasstation,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_military.csv,15,,# saba_military,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_industrial.csv,16,,# saba_industrial,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_policestation.csv,17,,# saba_policestation,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_embassy.csv,18,,# saba_embassy,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_bank.csv,19,,# saba_bank,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_ship.csv,20,,# saba_ship,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_store.csv,21,,# saba_store,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_cache_base.csv,22,,# cache_base,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_cache_lege.csv,23,,# cache_lege,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_hotzone.csv,24,,# hotzone,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_locked_space_tier1.csv,25,,# ls_tier1,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_locked_space_tier2.csv,26,,# ls_tier2,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_locked_space_tier3.csv,27,,# ls_tier3,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_ls_weapon_tier1.csv,28,,# ls_w_tier1,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_ls_weapon_tier2.csv,29,,# ls_w_tier2,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_ls_weapon_tier3.csv,30,,# ls_w_tier3,,,,,,,,,,,,,,,,,,,,,,,,,,,
+setchancecol,mp/loot/br/dmz/lootset_saba_biobunker.csv,31,,# saba_biobunker,,,,,,,,,,,,,,,,,,,,,,,,,,,
+tagReject,nodmz,,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+Central Control,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+rollChance,ammo,,0,0,1,0,0,50,100,0,0,0,8,2,30,8,9,0,4,8,2,2,0,10,0,0,0,0,0,0,8
+rollChance,health,,0,0,0,0,0,100,31,0,0,0,4,2,30,6,3,10,2,3,5,31,0,10,0,0,0,0,0,0,6
+rollChance,plunder,,0,0,0,40,0,0,2,0,0,0,4,0,0,0,0,0,12,0,0,2,20,10,25,25,25,0,0,0,0
+rollChance,killstreak,,0,0,0,0,0,0,100,0,0,0,0,0,2,0,0,0,0,0,0,0,10,1,7,8,9,0,0,0,0
+rollChance,lethal,,0,0,0,20,0,20,13,0,0,0,7,1,30,0,5,0,0,8,4,13,130,5,0,0,0,0,0,0,0
+rollChance,tactical,,0,0,0,40,0,20,20,10,10,10,8,2,8,8,12,0,0,12,9,20,200,5,0,0,0,0,0,0,8
+rollChance,super,,0,0,0,0,0,0,10,3,3,3,3,4,15,8,7,0,0,6,0,10,100,3,0,0,0,0,0,0,8
+rollChance,weapon,,0,0,0,0,0,1,6,0,0,0,2,0,10,0,2,0,0,0,0,3,10,3,10,12,16,1,1,1,0
+rollChance,gear,,0,0,0,0,0,0,0,10,5,5,3,0,8,3,5,0,0,0,0,4,80,3,5,8,10,0,0,0,3
+rollChance,revive,,0,0,0,0,0,0,2,1,1,1,1,0,1,0,0,0,0,0,0,2,20,3,0,0,0,0,0,0,0
+rollChance,tablet,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rollChance,keycard,,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,25,0,5,0,0,0,0,0,0,0
+rollChance,key,,0,0,0,0,0,1,30,0,0,0,1,0,0,0,0,0,0,0,0,1,8,2,5,6,7,0,0,0,0
+rollChance,valuable,,25,0,0,16,0,200,0,20,20,20,25,16,35,36,16,15,20,22,25,0,5,25,25,25,25,0,0,0,36
+rollChance,xp,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rollChance,activitystarter,,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5
+rollChance,attachment,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rollChance,mission,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rollChance,personal,,0,0,0,4,0,20,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0
+rollChance,gascan,,0,0,0,0,100,0,0,0,0,0,4,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rollChance,plate_carrier,,0,10,10,0,0,0,10,0,0,0,4,0,10,0,4,10,1,0,0,6,6,3,5,10,15,0,0,0,0
+item,brloot_ammo_12g,,15,15,1,15,0,15,15,0,0,0,15,0,15,15,15,0,15,15,15,15,15,15,15,15,15,0,0,0,15
+item,brloot_ammo_50cal,,23,23,0,23,0,23,23,0,0,0,23,0,23,23,23,0,23,23,23,23,23,23,23,23,23,0,0,0,23
+item,brloot_ammo_762,,30,30,0,30,0,30,30,0,0,0,30,0,30,30,30,0,30,30,30,30,30,30,30,30,30,0,0,0,30
+item,brloot_ammo_919,,23,23,0,23,0,23,23,0,0,0,23,0,23,23,23,0,23,23,23,23,23,23,23,23,23,0,0,0,23
+item,brloot_ammo_rocket,,9,9,0,9,0,9,9,0,0,0,9,0,9,9,3,0,9,9,9,9,9,9,9,9,9,0,0,0,9
+item,brloot_equip_gasmask,,30,0,0,0,0,0,0,16,16,16,20,0,25,35,15,0,0,0,30,5,0,30,0,0,0,0,0,0,35
+item,brloot_equip_gasmask_durable,,0,0,0,0,0,0,0,3,3,3,5,0,5,3,2,0,0,0,0,0,5,0,0,0,0,0,0,0,3
+item,brloot_equip_iodine_pills,,15,0,0,0,0,0,0,28,28,28,10,0,5,0,0,0,0,0,15,3,0,15,0,0,0,0,0,0,0
+item,brloot_backpack_medium,,50,0,0,0,0,0,0,8,8,8,20,0,20,10,20,0,0,0,50,10,0,50,50,25,25,0,0,0,10
+item,brloot_backpack_large,,0,0,0,0,0,0,0,1,1,1,2,0,3,0,1,0,0,0,0,1,10,0,25,25,50,0,0,0,0
+item,brloot_plate_carrier_2,,10,0,0,0,0,0,0,0,0,0,10,0,12,0,12,12,1,0,0,10,25,10,1,1,0,0,0,0,0
+item,brloot_plate_carrier_3,,0,0,0,0,0,0,0,0,0,0,2,0,4,0,2,1,0,0,0,0,75,0,0,1,1,0,0,0,0
+item,brloot_self_revive,,1,1,1,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,100,100,100,1,1,1,0,0,0,0
+item,brloot_offhand_atmine,,1,45,45,1,0,1,1,0,0,0,5,0,8,2,2,0,0,2,0,1,1,1,1,1,1,0,0,0,2
+item,brloot_offhand_claymore,,1,30,30,1,0,1,1,0,0,0,5,0,8,2,2,0,0,1,0,1,1,1,1,1,1,0,0,0,2
+item,brloot_offhand_c4,,1,20,20,1,0,1,1,0,0,0,4,0,7,2,3,0,0,1,0,1,1,1,1,1,1,0,0,0,2
+item,brloot_offhand_frag,,1,10,10,1,0,1,1,0,0,0,2,0,12,1,12,0,0,2,0,1,1,1,1,1,1,0,0,0,1
+item,brloot_offhand_molotov,,1,0,0,1,0,1,1,0,0,0,2,0,0,6,1,0,0,3,0,1,1,1,1,1,1,0,0,0,6
+item,brloot_offhand_semtex,,1,0,0,1,0,1,1,0,0,0,4,0,8,1,0,0,0,0,0,1,1,1,1,1,1,0,0,0,1
+item,brloot_offhand_thermite,,1,0,0,1,0,1,1,0,0,0,2,0,6,4,0,0,0,0,0,1,1,1,1,1,1,0,0,0,4
+item,brloot_offhand_throwingknife,,1,0,0,1,0,1,1,0,0,0,2,0,0,4,5,0,0,6,0,1,1,1,1,1,1,0,0,0,4
+item,brloot_offhand_bunkerbuster,,1,0,0,1,0,1,1,0,0,0,4,0,9,1,0,0,0,1,0,1,1,1,1,1,1,0,0,0,1
+tagChance,0&tactical,,50,45,45,0,0,50,45,0,0,0,5,5,2,2,2,0,0,2,2,45,0,50,50,10,10,0,0,0,2
+tagChance,1&tactical,,30,30,30,0,0,30,30,0,0,0,3,3,5,5,5,0,0,5,5,30,5,30,30,50,30,0,0,0,5
+tagChance,2&tactical,,20,20,20,0,0,20,20,0,0,0,2,2,4,4,4,0,0,4,4,20,10,20,20,30,50,0,0,0,4
+tagChance,3&tactical,,0,10,10,0,0,0,10,0,0,0,1,0,1,1,1,0,0,1,1,10,40,0,0,20,30,0,0,0,1
+item,brloot_health_adrenaline,,0,100,100,50,0,0,100,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_offhand_binoculars,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_offhand_geigercounter,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_offhand_taccover,,0,0,0,0,0,0,1,0,0,0,6,0,15,1,6,0,0,0,0,1,1,1,1,1,1,0,0,0,1
+item,brloot_offhand_trophysystem,,0,0,0,0,0,0,1,0,0,0,6,1,15,2,0,0,0,0,0,1,1,1,1,1,1,0,0,0,2
+item,brloot_killstreak_recondrone,,0,0,0,0,0,0,1,0,0,0,3,1,6,2,2,0,0,0,0,1,1,1,1,1,1,0,0,0,2
+item,brloot_super_deadsilence,,0,0,0,0,0,0,5,0,0,0,10,1,8,1,1,0,0,0,0,1,1,1,1,1,1,0,0,0,1
+item,brloot_super_munitionsbox,,0,0,0,0,0,0,4,0,0,0,15,0,16,0,2,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+item,brloot_super_armorbox,,0,0,0,0,0,0,4,0,0,0,12,0,12,0,6,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+item,brloot_super_emppulse,,0,0,0,0,0,0,1,0,0,0,6,0,15,2,0,0,0,0,0,1,1,1,1,1,1,0,0,0,2
+item,brloot_super_battlerage,,0,0,0,0,0,0,1,2,3,1,3,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+item,brloot_super_tacticalcamera,,0,0,0,0,0,0,0,0,0,0,3,1,2,2,12,0,0,0,0,1,1,1,1,1,1,0,0,0,2
+item,brloot_super_stimpistol,,0,0,0,0,0,0,1,3,2,5,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+item,brloot_super_oxygenmask,,0,0,0,0,0,0,0,1,1,1,5,1,6,2,6,0,0,1,0,1,1,1,1,1,1,0,0,0,2
+tagChance,0&weapon,,0,0,0,0,0,300,30,0,0,0,50,0,25,0,50,0,0,0,0,40,0,0,0,0,0,0,0,0,0
+tagChance,1&weapon,,0,0,0,0,0,400,35,0,0,0,10,0,30,0,20,0,0,0,0,30,15,0,10,0,0,5,0,0,0
+tagChance,2&weapon,,0,0,0,0,0,200,20,0,0,0,5,0,25,0,10,0,0,0,0,20,40,0,20,30,10,10,20,5,0
+tagChance,3&weapon,,0,0,0,0,0,100,10,0,0,0,2,0,5,0,5,0,0,0,0,10,20,0,40,50,20,40,50,10,0
+tagChance,4&weapon,,0,0,0,0,0,1,5,0,0,0,1,0,2,0,1,0,0,0,0,1,2,0,0,5,40,0,5,40,0
+tagChance,health,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+item,brloot_plunder_cash_common_1,,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0
+item,brloot_plunder_cash_uncommon_1,,50,0,0,50,0,30,0,0,0,0,50,50,0,50,0,50,25,50,50,20,0,50,0,0,0,0,0,0,50
+item,brloot_plunder_cash_uncommon_2,,35,0,0,35,0,20,0,0,0,0,35,35,0,35,0,35,35,35,35,30,0,35,0,0,0,0,0,0,35
+item,brloot_plunder_cash_uncommon_3,,15,0,50,15,0,0,50,0,0,0,15,15,0,15,0,15,15,15,15,30,10,15,20,0,0,0,0,0,15
+item,brloot_plunder_cash_rare_1,,1,0,50,1,0,0,50,0,0,0,5,1,0,1,0,1,10,1,1,10,20,1,35,20,0,0,0,0,1
+item,brloot_plunder_cash_rare_2,,0,0,0,0,0,0,0,0,0,0,1,0,20,0,15,0,5,0,0,0,30,0,50,35,20,0,0,0,0
+item,brloot_plunder_cash_epic_1,,0,0,0,0,0,0,0,0,0,0,0,0,35,0,20,0,1,0,0,0,30,0,10,50,35,0,0,0,0
+item,brloot_plunder_cash_epic_2,,0,0,0,0,0,0,0,0,0,0,0,0,25,0,10,0,0,0,0,0,10,0,0,10,50,0,0,0,0
+item,brloot_plunder_cash_legendary_1,,0,1,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,1,0,0,0,10,0,0,0,0
+tagChance,0&killstreak,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0
+tagChance,1&killstreak,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0
+tagChance,2&killstreak,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,30,0,30,20,10,0,0,0,0
+tagChance,3&killstreak,,0,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,0,20,40,20,0,0,0,0
+tagChance,4&killstreak,,0,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,0,10,10,30,0,0,0,0
+item,brloot_access_card_blue,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_access_card_green,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_access_card_red,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_access_card_blue_stadium_parking,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_access_card_blue_stadium_executive,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_access_card_blue_stadium_concourse,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,loot_key_fortress,,0,100,100,0,0,0,40,20,20,20,20,0,0,0,0,0,0,0,0,60,40,0,0,0,0,0,0,0,0
+tagChance,0&noDrop,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tagChance,1&noDrop,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tagChance,2&noDrop,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tagChance,3&noDrop,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tagChance,4&noDrop,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_valuable_harddrive,,5,5,5,1,0,30,0,0,0,0,25,5,5,12,10,22,15,0,0,0,0,10,6,9,3,0,0,0,12
+item,brloot_valuable_goldbar,,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,5,1,0,0,0,1,3,6,10,0,0,0,0
+item,brloot_valuable_laptop,,5,5,5,0,0,100,0,5,0,0,24,5,5,10,10,14,12,0,5,0,0,8,5,15,15,0,0,0,10
+item,brloot_valuable_liquor,,5,5,5,5,0,10,0,6,0,0,25,12,5,6,1,0,5,20,24,0,0,3,5,12,6,0,0,0,6
+item,brloot_valuable_comicbook,,5,5,5,5,0,30,0,0,0,0,1,10,5,0,0,0,0,6,12,0,0,0,0,0,0,0,0,0,0
+item,brloot_valuable_folder,,5,5,5,5,0,200,0,15,0,2,22,0,12,0,25,36,35,15,10,0,0,10,10,18,15,0,0,0,0
+item,brloot_valuable_bandage,,5,5,5,5,0,0,0,38,15,15,0,10,25,0,10,0,0,12,0,0,0,10,0,0,0,0,0,0,0
+item,brloot_valuable_battery,,5,5,5,5,0,50,0,38,10,15,0,10,15,25,10,0,0,0,10,0,0,0,0,0,0,0,0,0,25
+item,brloot_valuable_game_console,,3,3,3,0,0,0,0,0,0,0,12,5,5,20,0,0,0,1,12,0,0,3,3,6,3,0,0,0,20
+item,brloot_valuable_lightbulb,,5,5,5,0,0,0,0,0,0,0,0,15,3,15,0,0,0,0,6,0,0,0,0,0,0,0,0,0,15
+item,brloot_valuable_toothpaste,,5,5,5,3,0,0,0,6,3,4,0,15,5,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+item,brloot_valuable_watch,,5,5,5,5,0,50,0,3,0,0,22,5,3,20,5,12,6,3,15,0,0,0,5,6,3,0,0,0,20
+item,brloot_valuable_wrench,,5,5,5,3,0,0,0,0,0,0,0,10,15,28,0,0,0,24,0,0,0,0,0,0,0,0,0,0,28
+item,brloot_valuable_lighter,,3,3,3,3,0,30,0,0,0,1,0,5,3,0,3,0,3,13,5,0,0,0,1,0,0,0,0,0,0
+item,brloot_valuable_thumb_drive,,5,5,5,5,0,100,0,2,0,2,0,0,5,10,15,20,16,0,5,0,0,5,5,6,3,0,0,0,10
+item,brloot_valuable_electrical_tape,,5,5,5,3,0,30,0,0,0,0,0,0,5,28,0,0,0,3,0,0,0,0,5,6,3,0,0,0,28
+item,brloot_valuable_screwdriver,,5,5,5,3,0,0,0,0,0,0,0,2,5,28,0,0,0,22,0,0,0,0,0,0,0,0,0,0,28
+item,brloot_valuable_comicbook_firsted,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+item,brloot_valuable_cannedfood,,3,3,3,3,0,0,0,5,0,5,25,15,15,0,0,0,0,20,5,0,0,0,0,0,0,0,0,0,0
+item,brloot_valuable_drill,,3,3,3,0,0,0,0,0,0,0,5,5,5,20,0,0,0,15,0,0,0,0,5,8,1,0,0,0,20
+item,brloot_valuable_electroniccomponents,,5,5,5,2,0,30,0,0,0,0,0,15,5,20,0,0,0,20,0,0,0,0,1,0,0,0,0,0,20
+item,brloot_valuable_folder_sensitive,,1,1,1,1,0,100,0,4,0,0,5,0,5,0,8,8,6,5,0,0,1,3,3,9,9,0,0,0,0
+item,brloot_valuable_folder_classified,,0,0,0,0,0,30,0,1,0,0,1,0,1,0,3,2,3,1,0,0,1,1,1,6,9,0,0,0,0
+item,brloot_valuable_freshwater,,5,5,5,5,0,10,0,6,4,5,1,22,25,0,10,12,12,40,30,0,0,0,0,0,0,0,0,0,0
+item,brloot_valuable_gunoil,,5,5,5,5,0,30,0,0,0,0,25,15,25,15,15,0,0,20,0,0,0,5,5,8,1,0,0,0,15
+item,brloot_valuable_harddrive_encrypted,,1,1,1,0,0,10,0,1,0,0,1,0,1,0,5,2,3,3,0,0,1,2,1,3,15,0,0,0,0
+item,brloot_valuable_importedtea,,3,3,3,5,0,0,0,6,0,0,25,12,10,0,0,12,5,8,12,0,0,0,4,9,6,0,0,0,0
+item,brloot_valuable_mre,,3,3,3,5,0,0,0,8,0,10,0,0,25,0,10,0,0,24,8,0,0,5,0,0,0,0,0,0,0
+item,brloot_valuable_soothinglotion,,3,3,3,5,0,10,0,24,4,6,0,5,5,0,0,12,5,8,24,0,0,0,0,0,0,0,0,0,0
+item,brloot_valuable_wine,,5,5,5,3,0,0,0,0,0,0,50,12,3,0,1,6,8,24,32,0,0,0,5,15,15,0,0,0,0
+item,brloot_valuable_wine_aged,,3,3,3,0,0,5,0,0,0,0,5,7,0,0,0,2,5,4,8,0,0,0,2,6,9,0,0,0,0
+item,brloot_valuable_wine_vintage,,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,1,3,2,5,0,0,0,1,3,6,0,0,0,0
+item,brloot_valuable_gold_skull,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3,0,0,0,1,0,0,1,3,0,0,0,0
+item,brloot_valuable_blow_torch,,5,5,5,2,0,0,0,0,0,0,0,5,5,20,0,0,0,0,0,0,0,0,1,1,1,0,0,0,20
+item,brloot_valuable_car_battery,,5,5,5,0,0,0,0,0,0,0,43,5,5,20,0,0,0,10,0,0,0,0,4,12,12,0,0,0,20
+item,brloot_valuable_jumper_cables,,5,5,5,3,0,0,0,0,0,0,0,10,10,20,0,0,0,15,0,0,0,0,2,3,0,0,0,0,20
+item,brloot_valuable_vcr,,5,5,5,0,0,0,0,0,0,0,0,5,5,20,5,2,0,2,5,0,0,0,4,6,3,0,0,0,20
+item,brloot_valuable_gpu,,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+item,brloot_planning_diagram_2,,1,1,1,5,0,50,0,1,0,1,25,0,12,0,3,2,0,7,0,0,0,2,1,3,3,0,0,0,0
+item,brloot_planning_diagram_3,,1,1,1,5,0,50,0,1,0,1,25,0,12,0,3,2,0,7,0,0,0,2,1,3,3,0,0,0,0
+item,brloot_planning_image_1,,1,1,1,5,0,50,0,1,0,1,25,0,12,0,3,2,0,7,0,0,0,2,1,3,3,0,0,0,0
+item,brloot_planning_image_2,,1,1,1,5,0,50,0,1,0,1,25,0,12,0,3,2,0,7,0,0,0,2,1,3,3,0,0,0,0
+item,brloot_planning_image_3,,1,1,1,5,0,50,0,1,0,1,25,0,12,0,3,2,0,7,0,0,0,2,1,3,3,0,0,0,0
+item,brloot_health_ifak,,5,5,5,5,0,0,0,25,15,15,0,5,25,0,15,0,0,15,0,0,0,10,0,0,0,0,0,0,0
+item,brloot_health_afak,,3,3,3,2,0,0,0,30,15,15,0,0,10,0,10,0,0,10,0,0,0,3,0,0,0,0,0,0,0
+item,brloot_health_med_bag,,1,1,1,1,0,0,0,25,8,8,0,0,5,0,3,0,0,5,0,0,0,1,0,6,6,0,0,0,0
+item,brloot_valuable_hydrogen_peroxide,,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_valuable_cephalexin,,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_valuable_hydrochloride,,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_valuable_acetone,,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_valuable_plastic_explosive,,1,1,1,5,0,0,0,0,0,0,10,0,5,5,3,0,0,10,0,0,0,0,0,0,0,0,0,0,5
+item,brloot_valuable_thumb_drive_encrypted,,1,1,1,0,0,10,0,1,0,0,1,0,1,0,5,2,3,3,0,0,1,2,1,3,15,0,0,0,0
+item,brloot_xp_dufflebag,,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+item,brloot_xp_purse,,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+item,brloot_activity_starter_combat,,3,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,3,0,0,3,0,0,0,0,0,0,3
+item,brloot_activity_starter_rescue,,3,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,0,0,2,0,0,0,0,0,0,2
+item,brloot_activity_starter_sabotage,,3,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,0,0,2,0,0,0,0,0,0,2
+item,brloot_activity_starter_hunt,,3,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,0,0,2,0,0,0,0,0,0,2
+item,brloot_activity_starter_vehicledrive,,3,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,3,0,0,3,0,0,0,0,0,0,3
+item,brloot_activity_starter_boatdrive,,3,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,3,0,0,3,0,0,0,0,0,0,3
+item,brloot_activity_starter_intel,,3,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,3,0,0,3,0,0,0,0,0,0,3
+item,brloot_activity_starter_radiation,,3,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,3,0,0,3,0,0,0,0,0,0,3
+item,brloot_activity_starter_trap,,3,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,3,0,0,3,0,0,0,0,0,0,3
+item,brloot_activity_starter_supply,,3,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,3,0,0,3,0,0,0,0,0,0,3
+item,brloot_activity_starter_convoy_attack,,3,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,3,0,0,3,0,0,0,0,0,0,3
+item,brloot_activity_starter_hacker_phone,,3,0,0,0,0,0,0,0,0,0,0,0,3,3,3,3,3,3,3,0,0,3,0,0,0,0,0,0,3
+item,brloot_attachment_scope,,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+item,brloot_attachment_back,,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+item,brloot_attachment_front,,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+item,brloot_attachment_mag,,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+item,brloot_attachment_muzzle,,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+item,brloot_attachment_other,,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+item,brloot_attachment_reargrip,,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+item,brloot_attachment_underbarrel,,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+item,dmz_intel_laptop,,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1
+item,brloot_personal_pictureofawoman,,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_personal_pictureofaman,,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_personal_pictureofachild,,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_personal_pictureofadog,,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_personal_pictureofacat,,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_personal_heartlocket,,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_personal_wornnecklace,,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_personal_oldwatch,,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_personal_vialofinsulin,,0,0,0,1,0,0,0,3,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_personal_cancermedication,,0,0,0,1,0,0,0,3,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_personal_toyknife,,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_personal_brokenglasses,,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_personal_origamihorse,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+item,brloot_personal_smalldoll,,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+item,brloot_gascan,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+pointFlagFilter,loot_spawn_large,0,large|medium|small,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+pointFlagFilter,loot_spawn_medium,0,medium|small,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+pointFlagFilter,loot_spawn_small,0,small,,,,,,,,,,,,,,,,,,,,,,,,,,,,

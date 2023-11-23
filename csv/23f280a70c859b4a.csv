@@ -1,0 +1,3 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,
+reqAdd,plunder,10,10
+reqAdd,plate_carrier,4,4

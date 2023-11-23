@@ -1,0 +1,5 @@
+inherit,mp/loot/br/dmz/biobunker/lootset_root.csv,,,
+reqAdd,weapon,1,,100
+reqAdd,(!weapon&!gear),1,,100
+reqAdd,(!weapon&!plate_carrier),1,,100
+reqAdd,gear|valuable|plate_carrier,1,,100

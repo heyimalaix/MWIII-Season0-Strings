@@ -1,0 +1,4 @@
+inherit,mp/loot/br/resurgence_mgl/lootset_root.csv,,,,
+reqAdd,[2-3],2,0,,# 2 items
+reqAdd,ammo,1,0,,# 1 Ammo
+reqAdd,health,1,0,,# 1 armor plate

@@ -1,0 +1,5 @@
+inherit,mp/loot/br/resurgence_mgl/lootset_root.csv,,,,
+reqAdd,weapon&[1],1,,,# 1 uncommon weapon+
+reqAdd,ammo,1,,,# 1 ammo
+reqAdd,plunder,1,,34,# 1 cash drop
+reqAdd,,1,,,# 1 item of any type, any rarity

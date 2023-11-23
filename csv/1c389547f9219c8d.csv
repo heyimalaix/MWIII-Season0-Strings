@@ -1,0 +1,6 @@
+inherit,mp/loot/br/dmz/lootset_utility_metal_crate.csv
+tagReject,biolab
+tagReject,saba
+tagReject,sabacrashsite
+tagReject,delta
+tagReject,biobunker

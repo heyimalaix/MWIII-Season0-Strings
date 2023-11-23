@@ -1,0 +1,3 @@
+inherit,mp/loot/br/dmz/lootset_saba_industrial.csv,,
+option,no_points_ground,1,
+reqAdd,brloot_black_mous_intel,16,16

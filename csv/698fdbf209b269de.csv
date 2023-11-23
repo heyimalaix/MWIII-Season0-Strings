@@ -1,0 +1,9 @@
+inherit,mp/loot/br/default/lootset_root.csv,,,,
+reqAdd,weapon,1,,,# 1 weapon
+reqAdd,support,1,,,# 1 item
+reqAdd,brloot_armor_plate,1,,,# 1 armor plate
+reqAdd,ammo,1,,,# 1 Ammo
+reqAdd,plunder,1,,,# 1 plunder
+reqAdd,brloot_killstreak_supply_sweep,1,,35,# 35% chance of supply sweep
+reqAdd,plate_carrier,1,,25,# 25% chance of a plate_carrier
+reqLimit,plate_carrier,1,,,# only spawn 1 plate carrier

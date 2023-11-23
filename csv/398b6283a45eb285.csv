@@ -1,0 +1,8 @@
+1,BuyMW,,,main_menu_warzone_blade_buy_mw,mm_blade_buy_mw_warzone
+2,SP,MENU_SP/CAMPAIGN,LUA_MENU/CAMPAIGN_DESC,main_menu_blade_sp,
+3,MP,LUA_MENU/MULTIPLAYER_CAPS,MENU_SP/DESC_MULTIPLAYER,main_menu_blade_mp,
+4,BR,MP_BR_FRONTEND/TITLE_CAPS,MP_BR_FRONTEND/DESC_BR,main_menu_blade_br,
+5,CP,LUA_MENU/COOP_CAPS,LUA_MENU/COOP_DESC,main_menu_blade_cp,
+6,Store,LUA_MENU/STORE_CAPS,,main_menu_blade_store,
+7,LP,LUA_MENU/LOCAL_PLAY_CAPS,,main_menu_blade_mp,
+8,Classified,LUA_MENU/CLASSIFIED,,main_menu_blade_classified_scrambled,

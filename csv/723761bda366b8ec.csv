@@ -1,0 +1,6 @@
+inherit,mp/loot/br/dmz/lootset_computer_tower.csv
+tagReject,biolab
+tagReject,saba
+tagReject,sabacrashsite
+tagReject,delta
+tagReject,biobunker

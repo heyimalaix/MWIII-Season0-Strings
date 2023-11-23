@@ -1,0 +1,9 @@
+inherit,mp/loot/br/default/lootset_root.csv,,,,
+reqAdd,weapon&[2-4],1,,,# 1 weapon from uncommon to legendary
+reqAdd,support,2,,,# 2 items
+reqAdd,brloot_armor_plate,2,,,# 2 armor plates
+reqAdd,ammo,1,,,# 1 Ammo
+reqAdd,plunder,1,,,# 1 plunder
+reqAdd,brloot_killstreak_supply_sweep,1,,30,# 30% chance of supply sweep
+reqAdd,plate_carrier,1,,50,# 50% chance of a plate_carrier
+reqLimit,plate_carrier,1,,,# only spawn 1 plate carrier

@@ -1,0 +1,5 @@
+inherit,mp/loot/br/dmz/biobunker/lootset_root.csv,,,
+reqAdd,,1,,100
+reqAdd,,1,,40
+reqAdd,,1,,20
+reqAdd,,1,,5

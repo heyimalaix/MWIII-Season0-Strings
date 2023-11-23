@@ -1,0 +1,4 @@
+inherit,mp/loot/br/champion_mgl/lootset_root.csv,
+reqAdd,[4]&weapon,2
+reqAdd,killstreak,1
+reqAdd,plunder,1

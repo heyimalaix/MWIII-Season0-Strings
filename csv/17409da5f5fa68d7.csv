@@ -1,0 +1,12 @@
+DEFAULT,Objective.objectiveBackgroundDefault
+NONE,Objective.objectiveBackgroundNone
+CARRY,Objective.objectiveBackgroundCarry
+MISSION,Objective.objectiveBackgroundMission
+MISSION_TRACKED,Objective.objectiveBackgroundMissionTracked
+POI,Objective.objectiveBackgroundPOI
+CIRCLE,Objective.objectiveBackgroundDefault
+DIAMOND,Objective.objectiveBackgroundDefault
+STRONGHOLD,Objective.objectiveBackgroundPOI
+SIDE_RELATIVE,Objective.iconLight
+PLUNDER_GREEN,Objective.objectiveBackgroundPlunderGreen
+PLUNDER_YELLOW,Objective.objectiveBackgroundPlunderYellow

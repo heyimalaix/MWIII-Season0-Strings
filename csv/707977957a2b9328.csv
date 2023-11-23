@@ -1,0 +1,3 @@
+inherit,mp/loot/core/risk/lootset_root.csv,,,,,,,
+req,,,2,,,,,# 1 item of any type, any rarity
+req,,plunder,1,,,,,# 1 cash drop

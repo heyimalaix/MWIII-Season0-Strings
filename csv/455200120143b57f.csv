@@ -1,0 +1,3 @@
+ui_open_crafting_menu_notify,1,,c,n,,,,,# notify lua to open crafting menu
+ui_crafting_purchase_response,1,,c,i,0,0,6,,# crafting purchase response value
+ui_crafting_purchase_response_notify,1,,c,n,,,,,# notify lua about crafting purchase response

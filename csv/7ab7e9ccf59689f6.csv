@@ -1,0 +1,15 @@
+tagReject,nodmz,100,,
+tagReject,nodrop,100,,
+rollChance,valuable,5,,
+item,brloot_valuable_electrical_tape,45,,
+item,brloot_valuable_electroniccomponents,175,,
+item,brloot_valuable_harddrive,75,,
+item,brloot_valuable_harddrive_encrypted,10,,
+item,brloot_valuable_thumb_drive,120,,
+item,brloot_valuable_gpu,1,,
+item,brloot_valuable_screwdriver,32,,
+item,brloot_valuable_thumb_drive_encrypted,15,,
+reqAdd,,1,0,100
+reqAdd,,1,0,30
+reqAdd,,1,0,10
+reqAdd,,1,0,5

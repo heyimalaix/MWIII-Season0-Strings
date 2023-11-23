@@ -1,0 +1,16 @@
+Executable,422.781
+OSAllocations,469.762
+TotalPages,4152.625
+FreePages,3608.875
+StreamLoggerCommit,11.750
+RenderTargets,16.062
+MemVirtual,0.812
+PMemCommitOnAlloc,489.938
+HavokPhysics,4.000
+StreamRead,17.188
+SDOtherCommit,0.250
+Filesystem,3.500
+DBAssetPools,0.250
+StreamTotal,3577.750
+StreamFree,3577.750
+FreeAfterBudgets,3608.875

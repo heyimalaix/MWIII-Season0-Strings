@@ -1,0 +1,3 @@
+ui_open_perk_choice_menu_notify,1,,c,n,,,,,# notify lua to open menu
+ui_perk_menu_purchase_response,1,,c,i,0,0,4,,# purchase response
+ui_perk_menu_purchase_response_notify,1,,c,n,,,,,# notify lua for purchase response

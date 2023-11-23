@@ -1,0 +1,5 @@
+inherit,mp/loot/br/truckwar/lootset_root.csv,,,,
+reqAdd,weapon,1,,,# 1 weapon
+reqAdd,ammo,1,,,# 1 ammo
+reqAdd,plunder,1,,,# 1 plunder
+reqAdd,brloot_equip_gasmask,1,,,

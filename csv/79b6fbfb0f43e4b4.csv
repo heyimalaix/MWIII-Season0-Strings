@@ -1,0 +1,10 @@
+inherit,mp/loot/br/default/lootset_root.csv,,,,
+reqAdd,weapon&[4],1,,,# 1 legendary weapon 
+reqAdd,support&!(lethal|tactical),1,,,# any item of epic or lege rarity
+reqAdd,support,1,,,# 50% chance for 1 more item
+reqAdd,brloot_armor_plate,2,,,# 2 armor plates
+reqAdd,ammo,1,,,# 1 Ammo
+reqAdd,plunder,1,,,# 1 plunder
+reqAdd,brloot_killstreak_supply_sweep,1,,50,# 50% chance of supply sweep
+reqAdd,plate_carrier,1,,,# 1 plate_carrier
+reqLimit,plate_carrier,1,,,# only spawn 1 plate carrier

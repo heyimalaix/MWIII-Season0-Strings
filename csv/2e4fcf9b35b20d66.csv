@@ -1,0 +1,7 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,,,
+tagReject,nocache,100,,,
+reqAdd,ammo,1,,,# required ammo
+reqAdd,plunder,1,1,,
+reqAdd,valuable,1,1,,# require a valuable
+reqAdd,brloot_armor_plate,1,,,# any item
+reqAdd,brloot_super_oxygenmask,1,1,,# chance for any item of any quality

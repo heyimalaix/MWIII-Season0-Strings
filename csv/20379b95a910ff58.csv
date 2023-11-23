@@ -1,0 +1,4 @@
+inherit,mp/loot/br/dmz/biolab/lootset_root.csv,,,,
+reqAdd,,2,,,# 2 item of any type, any rarity
+reqAdd,plunder,1,,,# 1 cash drop
+reqAdd,loot_key_green_door_worn,1,,,# 1 key card

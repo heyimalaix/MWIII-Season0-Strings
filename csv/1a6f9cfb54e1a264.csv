@@ -1,0 +1,4 @@
+inherit,mp/loot/br/classic/lootset_root.csv,,,,
+reqAdd,weapon&[2],1,,,# 1 weapon rare+
+reqAdd,ammo,1,,,# 1 Ammo
+reqAdd,health,1,,,# 2 Armor Plates

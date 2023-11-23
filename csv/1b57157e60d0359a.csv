@@ -1,0 +1,48 @@
+7386,iw9_leagueplay_progression,133,,,5|10|15|20|25|30|35|40|45|50,17531+19110+19118+19126+19134|17535+17519|17527+18063|17526+8958|17529+17520|17523+16690|17528+17439|17524+18062|17525+8929|17530+17515+19111+19119+19127+19135,,,League Play Progression,0,,,
+11952,iw9_wz_leagueplay_progression,216,,,5|10|15|20|25|30|35|40|45|50,21345+26830|21346+21330|21347+12392|21348+27568|21349+21331|21350+16813|21351+12441|21352+21189|21353+27569|21354+21332+27530+29325+29327+29326,,,League Play Progression,0,,,15
+7407,iw9_leagueplay_penalty,133,,,,,,,SyncToStats,0,,,
+11970,iw9_wz_leagueplay_penalty,216,,,,,,,SyncToStats,0,,,15
+11205,iw9_leagueplay_sr_penalty,133,,,,,,,SyncToStats,0,,,
+11971,iw9_wz_leagueplay_sr_penalty,216,,,,,,,SyncToStats,0,,,15
+11206,iw9_leagueplay_suspension,133,,,,,,,SyncToStats,0,,,
+11972,iw9_wz_leagueplay_suspension,216,,,,,,,SyncToStats,0,,,15
+9661,iw9_leagueplay_sr_integrity,133,,,,,,,Skill Rating Integrity,0,,,
+11973,iw9_wz_leagueplay_sr_integrity,216,,,,,,,Skill Rating Integrity,0,,,15
+11794,iw9_leagueplay_match_aar,133,,,,,,,Match AAR,0,,,
+11974,iw9_wz_leagueplay_match_aar,216,,,,,,,Match AAR,0,,,15
+13831,iw9_wz_leagueplay_match_sr_gains,216,,,,,,,Match SR Gains,0,,,15
+13832,iw9_wz_leagueplay_match_sr_loss,216,,,,,,,Match SR Loss,0,,,15
+7388,iw9_leagueplay_overall_stats,133,,,,,,,Overall Stats,0,,,
+11975,iw9_wz_leagueplay_overall_stats,216,,,,,,,Overall Stats,0,,,15
+7375,iw9_leagueplay_overall_best_stats,133,,,,,,,Overall Stats,0,,,
+11976,iw9_wz_leagueplay_overall_best_stats,216,,,,,,,Overall Stats,0,,,15
+7379,iw9_leagueplay_s1_skilldivision_stats,133,,,,,,,Skilldivision Stats,1,,,
+11985,iw9_wz_leagueplay_s1_skilldivision_stats,216,,,,,,,Skilldivision Stats,1,,,15
+7397,iw9_leagueplay_s2_skilldivision_stats,133,,,,,,,Skilldivision Stats,2,,,
+11986,iw9_wz_leagueplay_s2_skilldivision_stats,216,,,,,,,Skilldivision Stats,2,,,15
+7383,iw9_leagueplay_s3_skilldivision_stats,133,,,,,,,Skilldivision Stats,3,,,
+11987,iw9_wz_leagueplay_s3_skilldivision_stats,216,,,,,,,Skilldivision Stats,3,,,15
+7372,iw9_leagueplay_s4_skilldivision_stats,133,,,,,,,Skilldivision Stats,4,,,
+11988,iw9_wz_leagueplay_s4_skilldivision_stats,216,,,,,,,Skilldivision Stats,4,,,15
+7381,iw9_leagueplay_s5_skilldivision_stats,133,,,,,,,Skilldivision Stats,5,,,
+11989,iw9_wz_leagueplay_s5_skilldivision_stats,216,,,,,,,Skilldivision Stats,5,,,15
+7408,iw9_leagueplay_s1_win_stats,133,,,,,,,Win Stats,1,,,
+11992,iw9_wz_leagueplay_s1_win_stats,216,,,,,,,Win Stats,1,,,15
+7376,iw9_leagueplay_s2_win_stats,133,,,,,,,Win Stats,2,,,
+11993,iw9_wz_leagueplay_s2_win_stats,216,,,,,,,Win Stats,2,,,15
+7366,iw9_leagueplay_s3_win_stats,133,,,,,,,Win Stats,3,,,
+11994,iw9_wz_leagueplay_s3_win_stats,216,,,,,,,Win Stats,3,,,15
+7391,iw9_leagueplay_s4_win_stats,133,,,,,,,Win Stats,4,,,
+11995,iw9_wz_leagueplay_s4_win_stats,216,,,,,,,Win Stats,4,,,15
+7393,iw9_leagueplay_s5_win_stats,133,,,,,,,Win Stats,5,,,
+11996,iw9_wz_leagueplay_s5_win_stats,216,,,,,,,Win Stats,5,,,15
+7389,iw9_leagueplay_s1_hotstreak_stats,133,,,,,,,Hot Streak Stats,1,,,
+12000,iw9_wz_leagueplay_s1_hotstreak_stats,216,,,,,,,Hot Streak Stats,1,,,15
+7373,iw9_leagueplay_s2_hotstreak_stats,133,,,,,,,Hot Streak Stats,2,,,
+12001,iw9_wz_leagueplay_s2_hotstreak_stats,216,,,,,,,Hot Streak Stats,2,,,15
+7403,iw9_leagueplay_s3_hotstreak_stats,133,,,,,,,Hot Streak Stats,3,,,
+12002,iw9_wz_leagueplay_s3_hotstreak_stats,216,,,,,,,Hot Streak Stats,3,,,15
+7377,iw9_leagueplay_s4_hotstreak_stats,133,,,,,,,Hot Streak Stats,4,,,
+12003,iw9_wz_leagueplay_s4_hotstreak_stats,216,,,,,,,Hot Streak Stats,4,,,15
+7404,iw9_leagueplay_s5_hotstreak_stats,133,,,,,,,Hot Streak Stats,5,,,
+12004,iw9_wz_leagueplay_s5_hotstreak_stats,216,,,,,,,Hot Streak Stats,5,,,15

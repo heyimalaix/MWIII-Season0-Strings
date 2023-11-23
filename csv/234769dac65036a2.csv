@@ -1,0 +1,7 @@
+ui_dmg_num_state,1,,c,i,0,0,16,,,,,,,
+ui_dmg_num_amount,1,,c,i,0,0,1000000,,,,,,,
+ui_dmg_num_x,1,,c,i,0,-100000,100000,,,,,,,
+ui_dmg_num_y,1,,c,i,0,-100000,100000,,,,,,,
+ui_dmg_num_z,1,,c,i,0,-100000,100000,,,,,,,
+ui_dmg_num_element,1,,c,i,0,0,5,,,,,,,
+ui_dmg_num_notify,1,,c,n,,,,,,,,,,#notify damage number update

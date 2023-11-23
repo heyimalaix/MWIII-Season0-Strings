@@ -1,0 +1,7 @@
+inherit,mp/loot/br/default/lootset_root.csv,,,,
+reqAdd,,1,,,# chance for gear
+reqAdd,super&[0-1],1,,50,# chance for super
+reqAdd,health,1,,,
+reqAdd,weapon,1,,,
+reqAdd,ammo,1,,,
+reqAdd,plunder,1,,,

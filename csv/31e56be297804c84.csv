@@ -1,0 +1,10 @@
+cp_bomb_A_timer,1,,g,t,0,,,1
+cp_bomb_B_timer,1,,g,t,0,,,1
+cp_bomb_C_timer,1,,g,t,0,,,1
+cp_bomb_state,1,,g,i,0,0,72,
+cp_enemies_special,1,,g,i,-1,-1,99,
+cp_wavenum_redisplay,1,,g,i,-1,-1,10,
+cp_bomb_D_timer,1,,g,t,0,,,1
+cp_bomb_E_timer,1,,g,t,0,,,1
+cp_bomb_F_timer,1,,g,t,0,,,1
+cp_bomb_G_timer,1,,g,t,0,,,1

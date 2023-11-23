@@ -1,0 +1,2 @@
+ui_pap_current_ammomod,1,,c,i,0,0,10,,# current weapon ammo mod (0 means no mod)
+ui_current_weapon_tier,1,,c,i,0,0,5,,# current weapon tier

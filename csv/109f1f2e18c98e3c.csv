@@ -1,0 +1,13 @@
+ladderPointsPlacement,200
+ladderPointsWin,100
+ladderPointsLoss,-61
+ladderPointsBonusPoolStep,20
+ladderPenaltyFirstLeave,-50
+ladderPenaltyAdditionalLeave,0
+srPenaltyFirstLeave,first_quit
+srPenaltyAdditionalLeave,additional_quit
+srPenaltyLobbyLeave,first_quit
+aeDisconnectPenaltyKey,dc_sr_pen
+aeDisconnectRollbacksKey,rollbacks
+aeDisconnectPrevRollbacksKey,p_rollbacks
+aeDisconnectLobbyIDKey,lobby

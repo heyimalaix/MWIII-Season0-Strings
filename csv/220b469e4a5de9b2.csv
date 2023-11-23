@@ -1,0 +1,3 @@
+inherit,mp/loot/br/default/lootset_root.csv,,
+tagReject,nogulag,100,
+reqAdd,gulagcircle1 | gulagcircle2 | gulagcircle3 | gulagcircle4 ,5,5

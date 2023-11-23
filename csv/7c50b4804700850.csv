@@ -1,0 +1,15 @@
+dwstore_alert_all,2,1,3,0,0
+dwstore_alert_all_stack,2,1,3,0,1
+dwstore_alert_frontend,2,1,1,0,0
+dwstore_alert_frontend_stack,2,1,1,0,1
+nostore_alert_all,0,1,3,0,0
+nostore_alert_all_stack,0,1,3,0,1
+nostore_alert_frontend,0,1,1,0,0
+localstore_alert_all,1,1,3,0,0
+localstore_alert_all_stack,1,1,3,0,1
+localstore_alert_frontend,1,1,1,0,0
+localstore_alert_frontend_stack,1,1,1,0,1
+localstore_alert_none,1,1,0,0,0
+localstore_alert_none_stack,1,1,0,0,1
+dwstore_alert_all_rm_read,2,1,3,2,0
+nostore_noalert,0,0,0,0,0

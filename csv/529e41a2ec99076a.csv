@@ -1,0 +1,28 @@
+1,3945,crosswind,otter,7,-1,cp_armsdealer_2,,0,#-1 needed for lua here, means nothing
+2,3945,kuvalda,golem,1,,cp_landlord_2,,0,
+3,3945,headhunter,alice,10,,cp_landlord,,0,
+4,3945,paladin,rodion,6,,cp_arms_dealer,,0,
+5,3945,all_operations,zane,,,,,0,
+6,3945,juggernauts,syd,,,,,0,
+7,3945,downtown_1,,4,,cp_dwn_twn_2,,0,
+8,3945,downtown_2,,5,,cp_dwn_twn_2,,0,
+9,3945,downtown_3,,,5,cp_dwn_twn_2,,0,
+10,3945,crosswind_mod,,8,,cp_armsdealer_2,,3000,#modified crosswind
+11,3945,brimstone_mod,,9,,cp_smuggler_2,,3000,#modified brimstone
+12,3945,downtown_4,,,4,cp_dwn_twn_2,,0,
+13,3945,justreward_mod,,11,,cp_dwn_twn_2,,3000,#modified Just Reward
+14,3945,kuvalda_mod,,12,,cp_landlord_2,,3000,#modified Kuvalda
+15,3945,smuggler,,3,,cp_smuggler_2,,0,
+16,3945,harbinger,,2,,cp_smuggler,,0,
+17,3945,brimstone_mod_vet,,14,,cp_smuggler_2,,3000,#modified brimstone vet
+18,3945,crosswind_mod_vet,,13,,cp_armsdealer_2,,3000,#modified crosswind vet
+19,3945,justreward_mod_vet,,15,,cp_dwn_twn_2,,3000,#modified Just Reward vet
+20,3945,kuvalda_mod_vet,,16,,cp_landlord_2,,3000,#modified Kuvalda vet
+21,3945,paladin_mod,,17,,cp_arms_dealer,,4000,#modified paladin
+22,3945,paladin_mod_vet,,18,,cp_arms_dealer,,4000,#modified paladin vet
+23,3945,strongbox_mod,,19,,cp_dwn_twn_2,,4000,#modified strongbox
+24,3945,strongbox_mod_vet,,20,,cp_landlord_2,,4000,#modified strongbox vet
+25,3945,harbinger_mod,,21,,cp_smuggler,,4000,#modified harbinger
+26,3945,harbinger_mod_vet,,22,,cp_smuggler,,4000,#modified harbinger vet
+27,3945,headhunter_mod,,23,,cp_landlord,,4000,#modified headhunter
+28,3945,headhunter_mod_vet,,24,,cp_landlord,,4000,#modified headhunter vet

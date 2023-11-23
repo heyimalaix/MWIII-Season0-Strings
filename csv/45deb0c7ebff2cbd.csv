@@ -1,0 +1,5 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,
+reqAdd,plunder,3,4
+reqAdd,super,1,1
+reqAdd,killstreak,1,1
+reqAdd,brloot_gascan_palfa,1,1

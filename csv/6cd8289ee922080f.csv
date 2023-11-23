@@ -1,0 +1,4 @@
+ui_visibility_perks,1,,c,b,1,0,1,,,,,1,,
+ui_active_perks_1,1,,c,i,0,0,1073741823,,,,,1,, #max 30 bits
+ui_active_perks_2,1,,c,i,0,0,1073741823,,,,,1,, #max 30 bits
+ui_active_perks_3,1,,c,i,0,0,1073741823,,,,,1,, #max 30 bits

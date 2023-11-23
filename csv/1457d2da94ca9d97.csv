@@ -1,0 +1,8 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,,,
+tagReject,nocache,100,,,
+reqAdd,weapon&[4],1,,,# require a tier 4 weapon
+reqAdd,ammo,1,,,# required ammo
+reqAdd,brPowerItem,1,,,# any item of epic or lege rarity
+reqAdd,brPowerItem,1,,50,# chance for any item of higher quality
+reqAdd,plunder,1,1,,
+reqLimit,perkpack,1,1,,

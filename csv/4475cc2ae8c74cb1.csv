@@ -1,0 +1,4 @@
+raids1_reward_blueprint_veteran,WEAPON/SH_MBRAVO_V3,loot_icon_weapon_sh_mbravo_v3,LUA_MENU_CP/RAID_WEAPON_BLUEPRINT,1,,11826
+raids2_reward_blueprint_veteran,WEAPON/SM_BETA_V7,loot_icon_weapon_sm_beta_v7,LUA_MENU_CP/RAID_WEAPON_BLUEPRINT,2,,23649
+raids3_reward_camo_veteran,LUA_MENU_CP/REWARD_RAID_CAMO_VETERAN,ui_camo_q_03,LUA_MENU_CP/RAID_CAMO,3,,29357
+raids4_reward_veteran,,,,4,,

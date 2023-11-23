@@ -1,0 +1,5 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,,,
+reqAdd,,1,,,# chance for gear
+reqAdd,health,1,,,
+reqAdd,weapon,1,,,
+reqAdd,ammo,1,,,

@@ -1,0 +1,17 @@
+choose,1,,,,,
+zone,marina_hotzone_01,fortress,mp/loot/br/default/strongholds/lootset_stronghold_black.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_blacksite.csv,,#Zone
+choose,1,,,,,
+zone,city_hotzone_02,fortress,mp/loot/br/default/strongholds/lootset_stronghold_high.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_stronghold.csv,,#Zone
+choose,1,,,,,
+zone,oldtown_hotzone_03,fortress,mp/loot/br/default/strongholds/lootset_stronghold_high.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_stronghold.csv,,#Zone
+zone,oldtown_hotzone_02,fortress,mp/loot/br/default/strongholds/lootset_stronghold_high.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_stronghold.csv,,#Zone
+choose,1,,,,,
+zone,marina_hotzone_06,fortress,mp/loot/br/default/strongholds/lootset_stronghold_high.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_stronghold.csv,,#Zone
+choose,1,,,,,
+zone,resort_hotzone_10,fortress,mp/loot/br/default/strongholds/lootset_stronghold_high.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_stronghold.csv,,#Zone
+zone,resort_hotzone_11,fortress,mp/loot/br/default/strongholds/lootset_stronghold_high.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_stronghold.csv,,#Zone
+choose,4,,,,,
+zone,suburbs_hotzone_06,fortress,mp/loot/br/default/strongholds/lootset_stronghold_high.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_stronghold.csv,,#Zone
+zone,suburbs_hotzone_07,fortress,mp/loot/br/default/strongholds/lootset_stronghold_high.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_stronghold.csv,,#Zone
+zone,suburbs_hotzone_09,fortress,mp/loot/br/default/strongholds/lootset_stronghold_high.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_stronghold.csv,,#Zone
+zone,suburbs_hotzone_10,fortress,mp/loot/br/default/strongholds/lootset_stronghold_high.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_stronghold.csv,,#Zone

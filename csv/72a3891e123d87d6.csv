@@ -1,0 +1,6 @@
+inherit,mp/loot/br/default/lootset_root.csv,,
+reqAdd,plunder,3,4
+reqAdd,super&!brloot_super_reinforcement_flare,2,2
+reqAdd,gear|plate_carrier|perkpack,1,2
+reqLimit,perkpack,1,
+reqLimit,gear,1,

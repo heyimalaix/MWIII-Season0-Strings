@@ -1,0 +1,4 @@
+include,omnvars/cp/gametypes/omnvars_incursion.csv,,,,,,,
+ui_special_veh_health_percent,1,0,g,i,0,0,100,1
+ui_special_vehicle_health_hide,1,0,c,i,0,0,1,
+ui_disable_inventory,1,,c,i,0,0,1,

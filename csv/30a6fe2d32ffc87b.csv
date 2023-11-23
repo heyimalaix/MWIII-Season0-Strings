@@ -1,0 +1,55 @@
+22100,jup_leagueplay_s1_end_season_sd_placement,181,,,3|6|9|12|15|18|19,,,,,Season End SD,Season End SD,1,,,,0
+22102,jup_leagueplay_s2_end_season_sd_placement,181,,,3|6|9|12|15|18|19,,,,,Season End SD,Season End SD,2,,,,0
+22104,jup_leagueplay_s3_end_season_sd_placement,181,,,3|6|9|12|15|18|19,,,,,Season End SD,Season End SD,3,,,,0
+22108,jup_leagueplay_s4_end_season_sd_placement,181,,,3|6|9|12|15|18|19,,,,,Season End SD,Season End SD,4,,,,0
+22109,jup_leagueplay_s5_end_season_sd_placement,181,,,3|6|9|12|15|18|19,,,,,Season End SD,Season End SD,5,,,,0
+22110,jup_leagueplay_s6_end_season_sd_placement,181,,,3|6|9|12|15|18|19,,,,,Season End SD,Season End SD,6,,,,0
+22111,jup_leagueplay_career_end_season_sd_placement,181,,,9|12|15|18|19|20,,,,,Career Season End SD,Career Season End SD,<NOT SET>,,,,0
+22112,jup_leagueplay_s1_challenge_wins,181,,,5|10|25|50|75|100,,,,,Seasonal,Seasonal,1,,,,0
+22118,jup_leagueplay_s2_challenge_wins,181,,,5|10|25|50|75|100,,,,,Seasonal,Seasonal,2,,,,0
+22119,jup_leagueplay_s3_challenge_wins,181,,,5|10|25|50|75|100,,,,,Seasonal,Seasonal,3,,,,0
+22120,jup_leagueplay_s4_challenge_wins,181,,,5|10|25|50|75|100,,,,,Seasonal,Seasonal,4,,,,0
+22121,jup_leagueplay_s5_challenge_wins,181,,,5|10|25|50|75|100,,,,,Seasonal,Seasonal,5,,,,0
+22122,jup_leagueplay_s6_challenge_wins,181,,,5|10|25|50|75|100,,,,,Seasonal,Seasonal,6,,,,0
+22190,jup_leagueplay_s1_end_season_top250_placement,181,,,1|250,,,,,Season End Top250,Season End Top250,1,,,,0
+22197,jup_leagueplay_s2_end_season_top250_placement,181,,,1|250,,,,,Season End Top250,Season End Top250,2,,,,0
+22198,jup_leagueplay_s3_end_season_top250_placement,181,,,1|250,,,,,Season End Top250,Season End Top250,3,,,,0
+22199,jup_leagueplay_s4_end_season_top250_placement,181,,,1|250,,,,,Season End Top250,Season End Top250,4,,,,0
+22200,jup_leagueplay_s5_end_season_top250_placement,181,,,1|250,,,,,Season End Top250,Season End Top250,5,,,,0
+22201,jup_leagueplay_s6_end_season_top250_placement,181,,,1|250,,,,,Season End Top250,Season End Top250,6,,,,0
+22364,jup_wz_leagueplay_s1_end_season_sd_placement,252,,,3|6|9|12|15|18|19,,,,,Season End SD,Season End SD,1,,,,0
+22370,jup_wz_leagueplay_s2_end_season_sd_placement,252,,,3|6|9|12|15|18|19,,,,,Season End SD,Season End SD,2,,,,0
+22371,jup_wz_leagueplay_s3_end_season_sd_placement,252,,,3|6|9|12|15|18|19,,,,,Season End SD,Season End SD,3,,,,0
+22372,jup_wz_leagueplay_s4_end_season_sd_placement,252,,,3|6|9|12|15|18|19,,,,,Season End SD,Season End SD,4,,,,0
+22373,jup_wz_leagueplay_s5_end_season_sd_placement,252,,,3|6|9|12|15|18|19,,,,,Season End SD,Season End SD,5,,,,0
+22374,jup_wz_leagueplay_s6_end_season_sd_placement,252,,,3|6|9|12|15|18|19,,,,,Season End SD,Season End SD,6,,,,0
+22375,jup_wz_leagueplay_s1_end_season_top250_placement,252,,,1|250,,,,,Season End Top250,Season End Top250,1,,,,0
+22381,jup_wz_leagueplay_s2_end_season_top250_placement,252,,,1|250,,,,,Season End Top250,Season End Top250,2,,,,0
+22382,jup_wz_leagueplay_s3_end_season_top250_placement,252,,,1|250,,,,,Season End Top250,Season End Top250,3,,,,0
+22383,jup_wz_leagueplay_s4_end_season_top250_placement,252,,,1|250,,,,,Season End Top250,Season End Top250,4,,,,0
+22384,jup_wz_leagueplay_s5_end_season_top250_placement,252,,,1|250,,,,,Season End Top250,Season End Top250,5,,,,0
+22386,jup_wz_leagueplay_s6_end_season_top250_placement,252,,,1|250,,,,,Season End Top250,Season End Top250,6,,,,0
+22387,jup_wz_leagueplay_s1_challenge_kills,252,,,25|250|1000,,,,,Seasonal,Seasonal,1,,,,0
+22393,jup_wz_leagueplay_s2_challenge_kills,252,,,25|250|1000,,,,,Seasonal,Seasonal,2,,,,0
+22394,jup_wz_leagueplay_s3_challenge_kills,252,,,25|250|1000,,,,,Seasonal,Seasonal,3,,,,0
+22395,jup_wz_leagueplay_s4_challenge_kills,252,,,25|250|1000,,,,,Seasonal,Seasonal,4,,,,0
+22396,jup_wz_leagueplay_s5_challenge_kills,252,,,25|250|1000,,,,,Seasonal,Seasonal,5,,,,0
+22397,jup_wz_leagueplay_s6_challenge_kills,252,,,25|250|1000,,,,,Seasonal,Seasonal,6,,,,0
+22398,jup_wz_leagueplay_s1_challenge_placement_top15,252,,,25,,2500,2500,2500,Seasonal,Seasonal,1,,,,0
+22410,jup_wz_leagueplay_s2_challenge_placement_top15,252,,,25,,2500,2500,2500,Seasonal,Seasonal,2,,,,0
+22411,jup_wz_leagueplay_s3_challenge_placement_top15,252,,,25,,2500,2500,2500,Seasonal,Seasonal,3,,,,0
+22412,jup_wz_leagueplay_s4_challenge_placement_top15,252,,,25,,2500,2500,2500,Seasonal,Seasonal,4,,,,0
+22413,jup_wz_leagueplay_s5_challenge_placement_top15,252,,,25,,2500,2500,2500,Seasonal,Seasonal,5,,,,0
+22414,jup_wz_leagueplay_s6_challenge_placement_top15,252,,,25,,2500,2500,2500,Seasonal,Seasonal,6,,,,0
+22415,jup_wz_leagueplay_s1_challenge_placement_top5,252,,,25,,2500,2500,2500,Seasonal,Seasonal,1,,,,0
+22416,jup_wz_leagueplay_s2_challenge_placement_top5,252,,,25,,2500,2500,2500,Seasonal,Seasonal,2,,,,0
+22417,jup_wz_leagueplay_s3_challenge_placement_top5,252,,,25,,2500,2500,2500,Seasonal,Seasonal,3,,,,0
+22418,jup_wz_leagueplay_s4_challenge_placement_top5,252,,,25,,2500,2500,2500,Seasonal,Seasonal,4,,,,0
+22419,jup_wz_leagueplay_s5_challenge_placement_top5,252,,,25,,2500,2500,2500,Seasonal,Seasonal,5,,,,0
+22420,jup_wz_leagueplay_s6_challenge_placement_top5,252,,,25,,2500,2500,2500,Seasonal,Seasonal,6,,,,0
+22400,jup_wz_leagueplay_s1_challenge_placement_top1,252,,,1,,2500,2500,2500,Seasonal,Seasonal,1,,,,0
+22422,jup_wz_leagueplay_s2_challenge_placement_top1,252,,,1,,2500,2500,2500,Seasonal,Seasonal,2,,,,0
+22423,jup_wz_leagueplay_s3_challenge_placement_top1,252,,,1,,2500,2500,2500,Seasonal,Seasonal,3,,,,0
+22424,jup_wz_leagueplay_s4_challenge_placement_top1,252,,,1,,2500,2500,2500,Seasonal,Seasonal,4,,,,0
+22425,jup_wz_leagueplay_s5_challenge_placement_top1,252,,,1,,2500,2500,2500,Seasonal,Seasonal,5,,,,0
+22426,jup_wz_leagueplay_s6_challenge_placement_top1,252,,,1,,2500,2500,2500,Seasonal,Seasonal,6,,,,0

@@ -1,0 +1,6 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,,,
+chance,point,80,#     % of non-clustered points that will be populated,,
+chance,cluster,80,#     % of clusters that will be populated,,
+chance,clusterSolo,40,#     % of clusters that will become invalid after spawning one item (with dependencies),,
+reqLimit,tablet,2,,,
+reqAdd,tablet,1,,,#require a tablet

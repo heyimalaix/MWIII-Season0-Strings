@@ -1,0 +1,6 @@
+inherit,mp/loot/core/gwai/lootset_root.csv,,
+chance,point,50,#     % of non-clustered points that will be populated
+chance,cluster,50,#     % of clusters that will be populated
+chance,clusterSolo,25,#     % of clusters that will become invalid after spawning one item (with dependencies)
+req,,weapon,1
+req,brloot_armor_plate,health,1

@@ -1,0 +1,280 @@
+0,3,65535,11362,972|3036,11,,,#iw9_ar_schotel with grip_angled09|laserbox_ads01
+1,3,65535,11362,1376|3133|2350,11,,,#iw9_ar_schotel with comp_br_03|holo01|stock_ar_heavy_p05
+2,3,65535,11362,3528|1727|2770|2756|2144,11,,,#iw9_ar_schotel with bar_br_long_p05|comp_br_06|grip_vert02|hybrid02|laserbox_ads03
+3,3,65535,11339,3366|2383,11,,,#iw9_ar_golf3 with grip_angled01|stock_lm_p02
+4,3,65535,11339,3228|3366|2383,11,,,#iw9_ar_golf3 with flash_br_03|grip_angled01|stock_lm_p02
+5,3,65535,11339,3545|2726|3228|3366|2383,11,,,#iw9_ar_golf3 with mag_sn_large_p02|arscope01|flash_br_03|grip_angled01|stock_lm_p02
+6,3,65535,11357,676|3808,11,,,#iw9_br_msecho with laserbox_ads02|mag_br_small_p01
+7,3,65535,11357,1455|676|3808,11,,,#iw9_br_msecho with grip_vertshort04|laserbox_ads02|mag_br_small_p01
+8,3,65535,11357,623|2253|676|879|1455,11,,,#iw9_br_msecho with flash_dm_03|fourx01|laserbox_ads02|mag_br_large_p01|grip_vertshort04
+9,3,65535,11336,1457|2465,11,,,#iw9_br_soscar14 with comp_br_04|iw9_minireddot04
+10,3,65535,11336,3745|2617,11,,,#iw9_br_soscar14 with grip_angled13|holo04
+11,3,65535,11336,2873|972|2894|2138|3606,11,,,#iw9_br_soscar14 with bar_br_heavy_p18|grip_angled09|hybrid06|mag_br_large_p18|silencer05_br
+12,3,65535,11350,2109|3724,11,,,#iw9_dm_mike14 with grip_angled05|stock_dm_tac_p18
+13,3,65535,11350,2162|3468|3036,11,,,#iw9_dm_mike14 with flash_br_01|fourx02|laserbox_ads01
+14,3,65535,11350,3228|3720|3745|3234|3724,11,,,#iw9_dm_mike14 with flash_br_03|fourxtherm01|grip_angled13|mag_sn_large_p18|stock_dm_tac_p18
+15,3,65535,11330,2162|3036,11,,,#iw9_dm_mike24 with flash_br_01|laserbox_ads01
+16,3,65535,11330,847|573|1811,11,,,#iw9_dm_mike24 with bar_dm_light_p20|bolt_lgt_p20|dmscope01
+17,3,65535,11330,1777|652|973|871|3631,11,,,#iw9_dm_mike24 with ERROR(1777)|bolt_hvy_p20|dmscope02|stockr_dm_heavy_p20|ammo_762n_ap
+18,3,65535,11349,3545,11,,,#iw9_dm_pgolf1 with mag_sn_large_p02
+19,3,65535,11349,3545|3925,11,,,#iw9_dm_pgolf1 with mag_sn_large_p02|grip_vert04
+20,3,65535,11349,1019|3301|1727|3925|3545,11,,,#iw9_dm_pgolf1 with arscope_vz01|iw9_arscope_vz01|comp_br_06|grip_vert04|mag_sn_large_p02
+21,3,65535,11316,3237|3371|2281,11,,,#iw9_dm_sa700 with flash_br_02|pgrip_tac_p20|reflex01
+22,3,65535,11316,7955|1162|3371|7953,11,,,#iw9_dm_sa700 with ammo_308w_ap|fourx05|pgrip_tac_p20|stock_dm_tactical_p20
+23,3,65535,11316,2162|2743|2407|3343|2522,11,,,#iw9_dm_sa700 with flash_br_01|fourx04|laserbox_ads04|pgrip_ass_p20|mag_dm_p20
+24,3,65535,11329,639|1390,11,,,#iw9_dm_sbeta with lasercyl_ads02|lever_light_p19
+25,3,65535,11329,1361|2375|2253,11,,,#iw9_dm_sbeta with comb_tactical_p19|flash_dm_02|fourx01
+26,3,65535,11329,3246|2743|595|3059|2608,11,,,#iw9_dm_sbeta with bar_dm_hvylong_p19|fourx04|lasercyl_ads03|lever_heavy_p19|silencer04_dm
+27,3,65535,11312,1302|3240,11,,,#iw9_dm_scromeo with grip_angled03|pgrip_ass_p05
+28,3,65535,11312,1376|1162|676,11,,,#iw9_dm_scromeo with comp_br_03|fourx05|laserbox_ads02
+29,3,65535,11312,3772|3076|3237|1939|2350,11,,,#iw9_dm_scromeo with ammo_65c_hv|dmscope_therm01|flash_br_02|mag_sn_large_p05|stock_ar_heavy_p05
+30,3,65535,11348,2210|2490,11,,,#iw9_dm_la700 with bipod01|stockr_sn_tactical_p20
+31,3,65535,11348,3595|2370|2375,11,,,#iw9_dm_la700 with bar_sn_light_p20|bipod02|flash_dm_02
+32,3,65535,11348,573|973|3145|2490|3275,11,,,#iw9_dm_la700 with bolt_lgt_p20|dmscope02|silencer03_dm|stockr_sn_tactical_p20|xmag_sn_p20
+33,3,65535,11340,1204|3770|2650,11,,,#iw9_dm_xmike2010 with comp_dm_01|pgrip_aim_p20|stock_sn_tactical_p20
+34,3,65535,11340,2856|1701|3036|3770,11,,,#iw9_dm_xmike2010 with ammo_300wm_ap|bar_sn_p20|laserbox_ads01|pgrip_aim_p20
+35,3,65535,11340,2370|652|3371|3263,11,,,#iw9_dm_xmike2010 with bipod02|bolt_hvy_p20|pgrip_tac_p20|silencer05_dm
+36,3,65535,11358,3802|676,11,,,#iw9_sn_limax with grip_angled07|laserbox_ads02
+37,3,65535,11358,994|1243|1227,11,,,#iw9_sn_limax with ammo_50b_db|bar_sn_heavy_p22|flash_sn_02
+38,3,65535,11358,3360|2210|676|2424|3664,11,,,#iw9_sn_limax with ammo_50b_he|bipod01|laserbox_ads02|pgrip_aim_p22|stock_sn_light_p22
+39,3,65535,11317,2370|3410,11,,,#iw9_sn_mromeo with bipod02|comp_dm_02
+40,3,65535,11317,3475|2738|729,11,,,#iw9_sn_mromeo with bar_sn_long_p21|bolt_hvy_p21|pgrip_tac_p21
+41,3,65535,11317,11255|2048|1389|2261|2890,11,,,#iw9_sn_mromeo with ammo_300nm_ap|barsil_sn_long_p21|bolt_lgt_p21|mag_sn_large_p21|stock_sn_tactical_p21
+42,3,65535,11313,3088|2669,11,,,#iw9_sh_charlie725 with charlie725_choke01|stockr_sh_assault_p14
+43,3,65535,11313,3697|3356|2722,11,,,#iw9_sh_charlie725 with bar_sh_short_p14|grip_vert03|stockno_sh_p14
+44,3,65535,11313,811|2556|2715|1118|3587,11,,,#iw9_sh_charlie725 with bar_sh_long_p14|charlie725_choke04|grip_vertshort05|guard_tactical_p14|stockr_sh_tactical_p14
+45,3,65535,11356,3488|3639|1923,11,,,#iw9_sh_mbravo with bartube_sh_light_p13|guard_light_p13|tube_8_12g_mbravo
+46,3,65535,11356,1750|3303|639|1923,11,,,#iw9_sh_mbravo with choke_sh01|iw9_minireddot06|lasercyl_ads02|tube_8_12g_mbravo
+47,3,65535,11356,2026|3400|1817|3910|1394,11,,,#iw9_sh_mbravo with bartube_sh_long_p13|choke_sh04|guard_tactical_p13|lasercyl_ads04|stock_sh_heavy_p13
+48,3,65535,11366,1305|3229,11,,,#iw9_sh_mike1014 with breacher_sh_01|comb_heavy_p12
+49,3,65535,11366,1245|3319|3321,11,,,#iw9_sh_mike1014 with bar_sh_heavy_p12|bolt_hvy_p12|ammo_12g_db
+50,3,65535,11366,3321|3319|3229|574|2652,11,,,#iw9_sh_mike1014 with ammo_12g_db|bolt_hvy_p12|comb_heavy_p12|reflex02|silencer03_sh
+51,3,65535,11328,1662|1409,11,,,#iw9_sh_mviktor with choke_sh03|bartube_sh_hvylong_p13
+52,3,65535,11328,1106|1764|1394,11,,,#iw9_sh_mviktor with comp_sh_02|mag_sh_large_p13|stock_sh_heavy_p13
+53,3,65535,11328,3910|1795|1662|3366|3488,11,,,#iw9_sh_mviktor with lasercyl_ads04|mag_sh_small_p13|choke_sh03|grip_angled01|bartube_sh_light_p13
+54,3,65535,11324,2502|1915|1440,11,,,#iw9_pi_decho with flash_decho_01|iw9_minireddot02|mag_pi_large_p25
+55,3,65535,11324,2149|3133|2004|1919|2220,11,,,#iw9_pi_decho with comp_decho_03|holo01|mag_pi_xlarge_p25|pgrip_ass_p25|trigger_hair_p25
+56,3,65535,11324,2010|867|1440,11,,,#iw9_pi_decho with bar_pi_hvylong_p25|comp_decho_01|mag_pi_large_p25
+57,3,65535,11307,1161|3303,11,,,#iw9_pi_golf17 with mag_pi_large_p24|iw9_minireddot06
+58,3,65535,11307,3906|2089|1833,11,,,#iw9_pi_golf17 with bar_pi_heavy_p24|comp_pi_04|trigger_heavy_p24
+59,3,65535,11307,997|1724|2526|1952|1392,11,,,#iw9_pi_golf17 with laserpstl_ads02|mag_pi_xlarge_p24|iw9_minireddot05|silencer03_pi|trigger_light_p24
+60,3,65535,11361,958,11,,,#iw9_pi_golf18 with pgrip_ass_p24
+61,3,65535,11361,630|2892|1161,11,,,#iw9_pi_golf18 with ammo_9p_hp|comp_pi_03|mag_pi_large_p24
+62,3,65535,11361,2372|3883|1724|1362,11,,,#iw9_pi_golf18 with comp_pi_05|laserpstl_hip02|mag_pi_xlarge_p24|pgrip_tac_p24
+63,3,65535,11367,2367|3248,11,,,#iw9_pi_swhiskey with bar_pi_heavy_p26|trigger_heavy_p26
+64,3,65535,11367,3732|2203|3462,11,,,#iw9_pi_swhiskey with bar_pi_light_p26|pgrip_tac_p26|trigger_hair_p26
+65,3,65535,11367,2794|2531|3732|1788|3462,11,,,#iw9_pi_swhiskey with akimbo_swhiskey|ammo_500sw_ss|bar_pi_light_p26|laserhip_bright_p26|trigger_hair_p26
+66,3,65535,11318,1758|2780,11,,,#iw9_lm_ahotel with flash_ar_03|grip_vertshort01
+67,3,65535,11318,1315|3010|639,11,,,#iw9_lm_ahotel with bar_lm_heavy_p03|grip_angled02|lasercyl_ads02
+68,3,65535,11318,1315|2027|3356|2432|2588,11,,,#iw9_lm_ahotel with bar_lm_heavy_p03|comp_ar_04|grip_vert03|holo05|mag_lm_large_p03
+69,3,65535,11331,3816|1856,11,,,#iw9_lm_foxtrot with comp_ar_01|stock_ar_assault_p01
+70,3,65535,11331,1825|3754|2947,11,,,#iw9_lm_foxtrot with belt_lm_large_p01|pgrip_ass_p01|reflex08
+71,3,65535,11331,1825|3468|599|676|1122,11,,,#iw9_lm_foxtrot with belt_lm_large_p01|fourx02|grip_angled11|laserbox_ads02|silencer02_ar
+72,3,65535,11342,3237|3659,11,,,#iw9_lm_kilo21 with flash_br_02|grip_vertshort03
+73,3,65535,11342,714|2432,11,,,#iw9_lm_kilo21 with belt_lm_large_p02|holo05
+74,3,65535,11342,2644|714|1376|2770|1423,11,,,#iw9_lm_kilo21 with bar_lm_long_p02|belt_lm_large_p02|comp_br_03|grip_vert02|stock_ar_assault_p02
+75,3,65535,11303,2598|3228,11,,,#iw9_lm_ngolf7 with bipod_ngolf7|flash_br_03
+76,3,65535,11303,3795|1796|1686,11,,,#iw9_lm_ngolf7 with stock_sm_lgttactical_p10|pgrip_ass_p17|reflex04
+77,3,65535,11303,1004|2598|3228|1947|2980,11,,,#iw9_lm_ngolf7 with ammo_762n_db|bipod_ngolf7|flash_br_03|fourxtherm04|stock_lm_light_p17
+78,3,65535,11360,3261|3258,11,,,#iw9_lm_rkilo with breacher_br_01|grip_angled04
+79,3,65535,11360,1382|2770|1044,11,,,#iw9_lm_rkilo with drum_lm_large_p04|grip_vert02|reflex07
+80,3,65535,11360,650|1376|1382|1138|2617,11,,,#iw9_lm_rkilo with bar_lm_long_p04|comp_br_03|drum_lm_large_p04|grip_vert05|holo04
+81,3,65535,11314,2584|1954,11,,,#iw9_lm_slima with comp_dm_03|gripside_med_p16
+82,3,65535,11314,676|1342|2215,11,,,#iw9_lm_slima with laserbox_ads02|pgrip_ass_p16|reflex05
+83,3,65535,11314,1321|880|1906|2584|2907,11,,,#iw9_lm_slima with bar_lm_hvy_p16|belt_lm_large_p16|bipod_slima|comp_dm_03|hybrid03
+84,3,65535,11354,3925|1915,11,,,#iw9_ar_mike4 with grip_vert04|iw9_minireddot02
+85,3,65535,11354,2534|3821|3185,11,,,#iw9_ar_mike4 with bar_ar_longhvy_p01|comp_ar_06|grip_angled12
+86,3,65535,11354,575|1138|1348|2407|1063,11,,,#iw9_ar_mike4 with bar_ar_shorthvy_p01|grip_vert05|hybrid05|laserbox_ads04|silencer05_ar
+87,3,65535,11325,3536|3821,11,,,#iw9_ar_mike16 with bar_ar_heavy_p01|comp_ar_06
+88,3,65535,11325,2770|3133|2144,11,,,#iw9_ar_mike16 with grip_vert02|holo01|laserbox_ads03
+89,3,65535,11325,3600|2046|1203|766|775,11,,,#iw9_ar_mike16 with comp_ar_08|grip_vertshort02|holo02|mag_ar_large_p01|stock_sn_p01
+90,3,65535,8592,,15,,,#loot_key_policestation
+91,3,65535,10530,,15,,,#loot_key_airport_lounge
+92,3,65535,10564,,15,,,#loot_key_baggage_handling
+93,3,65535,10470,,15,,,#loot_key_end_runway
+94,3,65535,8577,,15,,,#loot_key_undershack
+95,3,65535,10517,,15,,,#loot_key_powerstation_container
+96,3,65535,10493,,15,,,#loot_key_gravesite_container
+97,3,65535,10492,,15,,,#loot_key_waterpit_container
+98,3,65535,8543,,15,,,#loot_key_mobile_office
+99,3,65535,10545,,15,,,#loot_key_underwater_ship
+100,3,65535,8571,,15,,,#loot_key_fortbarrack1
+101,3,65535,10510,,15,,,#loot_key_clocktower_container
+102,3,65535,8472,,15,,,#loot_key_hydro_storage
+103,3,65535,10569,,15,,,#loot_key_hydro_island_room
+104,3,65535,8390,,15,,,#loot_key_hotel_room2
+105,3,65535,8455,,15,,,#loot_key_crane_building
+106,3,65535,10559,,15,,,#loot_key_secret_comms
+107,3,65535,10453,,15,,,#loot_key_control_tower
+108,3,65535,10467,,15,,,#loot_key_exhume_warehouse
+109,3,65535,8557,,15,,,#loot_key_fortress
+110,3,65535,8394,,15,,,#loot_key_poppyhome
+111,3,65535,10492,,15,,,#loot_key_waterpit_container
+112,3,65535,10514,,15,,,#loot_key_fort
+113,3,65535,8550,,15,,,#loot_key_resort_entrance
+114,3,65535,10508,,15,,,#loot_key_police_academy
+115,3,65535,10464,,15,,,#loot_key_embassy
+116,3,65535,9072,,15,,,#loot_key_gold_door
+117,3,65535,9071,,15,,,#loot_key_red_door
+118,3,65535,9070,,15,,,#loot_key_blue_door
+119,3,65535,9073,,15,,,#loot_key_green_door
+120,3,65535,9074,,15,,,#loot_key_black_door
+121,3,65535,21928,,15,,,#loot_key_crash_wp_case
+122,3,65535,19440,,15,,,#loot_key_sealion_hotel_workers_office_fridge
+123,3,65535,19364,,15,,,#loot_key_sealion_castle
+124,3,65535,19370,,15,,,#loot_key_sealion_cityhall
+125,3,65535,19431,,15,,,#loot_key_sealion_castle_armory
+126,3,65535,19311,,15,,,#loot_key_sealion_water_treatment_control_center
+127,3,65535,11163,,15,,,#loot_key_red_door_used
+128,3,65535,11166,,15,,,#loot_key_blue_door_used
+129,3,65535,11159,,15,,,#loot_key_green_door_used
+130,3,65535,11160,,15,,,#loot_key_black_door_used
+131,3,65535,21929,,15,,,#loot_key_crash_wp_case_used
+132,3,65535,19441,,15,,,#loot_key_sealion_hotel_workers_office_fridge_used
+133,3,65535,19365,,15,,,#loot_key_sealion_castle_used
+134,3,65535,19368,,15,,,#loot_key_sealion_cityhall_used
+135,3,65535,19432,,15,,,#loot_key_sealion_castle_armory_used
+136,3,65535,19312,,15,,,#loot_key_sealion_water_treatment_control_center_used
+137,3,65535,11161,,15,,,#loot_key_red_door_worn
+138,3,65535,11165,,15,,,#loot_key_blue_door_worn
+139,3,65535,11162,,15,,,#loot_key_green_door_worn
+140,3,65535,11164,,15,,,#loot_key_black_door_worn
+141,3,65535,26086,,15,,,#loot_key_crash_wp_case_worn
+142,3,65535,19442,,15,,,#loot_key_sealion_hotel_workers_office_fridge_worn
+143,3,65535,19366,,15,,,#loot_key_sealion_castle_worn
+144,3,65535,19369,,15,,,#loot_key_sealion_cityhall_worn
+145,3,65535,19433,,15,,,#loot_key_sealion_castle_armory_worn
+146,3,65535,19313,,15,,,#loot_key_sealion_water_treatment_control_center_worn
+147,3,65535,8484,,15,,,#loot_key_policestation_worn
+148,3,65535,10513,,15,,,#loot_key_airport_lounge_used
+149,3,65535,10549,,15,,,#loot_key_underwater_ship_used
+150,3,65535,8449,,15,,,#loot_key_car_shop_used
+151,3,65535,8552,,15,,,#loot_key_hotel_room2_worn
+152,3,65535,10448,,15,,,#loot_key_waterpit_container_used
+153,3,65535,11372,3908|2236|3600|2270|899,11,,,#iw9_ar_augolf with bgrip_lgt_p03|comb_heavy_p03|comp_ar_08|ERROR(2270)|pgrip_ass_p03
+154,3,65535,11372,1309|2109|2617|3910|899,11,,,#iw9_ar_augolf with flash_ar_04|grip_angled05|holo04|lasercyl_ads04|pgrip_ass_p03
+155,3,65535,11372,875|899|574|1064,11,,,#iw9_ar_augolf with bargrip_ar_long_p03|pgrip_ass_p03|reflex02|mag_ar_large_p03
+156,3,65535,11372,2120|1838|1896|1541|3787,11,,,#iw9_ar_augolf with bar_ar_light_p03|comb_tactical_p03|lasercyl_ads05|pgrip_tac_p03|stock_sm_p03
+157,3,65535,11372,2236|1288|2253|3010|2543,11,,,#iw9_ar_augolf with comb_heavy_p03|barsil_lm_p03|fourx01|grip_angled02|mag_sn_p03
+158,3,65535,11305,2485|3162|574|3599,11,,,#iw9_ar_akilo with bar_ar_heavy_p04|grip_vert01|reflex02|silencer04_br
+159,3,65535,11305,2109|676|2245|3644,11,,,#iw9_ar_akilo with grip_angled05|laserbox_ads02|pgrip_tac_p04|stock_ar_light_p04
+160,3,65535,11305,1873|3237|1138|1957|1044,11,,,#iw9_ar_akilo with bar_lm_light_p04|flash_br_02|grip_vert05|mag_ar_large_p04|reflex07
+161,3,65535,11305,690|3237|2465|849|3131,11,,,#iw9_ar_akilo with bar_ar_hvylong_p04|flash_br_02|iw9_minireddot04|pgrip_ass_p04|stock_lmg_p04
+162,3,65535,11305,3258|1060|2245|2433|1534,11,,,#iw9_ar_akilo with grip_angled04|laserbox_ads05|pgrip_tac_p04|silencer01_br|stock_sm_tactical_p04
+163,3,65535,11331,2215|2027|3801|1702,11,,,#iw9_lm_foxtrot with reflex05|comp_ar_04|ERROR(3801)|ammo_556n_ap
+164,3,65535,11331,1825|3816|3468|2887|1221,11,,,#iw9_lm_foxtrot with belt_lm_large_p01|comp_ar_01|fourx02|stock_ar_light_p01|pgrip_aim_p01
+165,3,65535,11331,929|1990|2432|2407|3754,11,,,#iw9_lm_foxtrot with bar_lm_long_p01|grip_vertshort07|holo05|laserbox_ads04|pgrip_ass_p01
+166,3,65535,11331,1868|3597|2407|951,11,,,#iw9_lm_foxtrot with stock_ar_tactical_p01|silencer01_ar|laserbox_ads04|bar_lm_short_p01
+167,3,65535,11331,929|1138|2465|1221|1063,11,,,#iw9_lm_foxtrot with bar_lm_long_p01|grip_vert05|iw9_minireddot04|pgrip_aim_p01|silencer05_ar
+168,3,65535,11362,2911|3503|2407|3240|2289,11,,,#iw9_ar_schotel with iw9_minireddot01|bar_br_short_p05|laserbox_ads04|pgrip_ass_p05|stock_ar_tactical_p05
+169,3,65535,11362,3528|3468|1735|3599|2350,11,,,#iw9_ar_schotel with bar_br_long_p05|fourx02|grip_angled08|silencer04_br|stock_ar_heavy_p05
+170,3,65535,11362,3503|2715|2168|3599|2350,11,,,#iw9_ar_schotel with bar_br_short_p05|grip_vertshort05|laserbox_hip04|silencer04_br|stock_ar_heavy_p05
+171,3,65535,11362,1348|803|3258|2169|2350,11,,,#iw9_ar_schotel with hybrid05|drum_br_p05|grip_angled04|silencer03_br|stock_ar_heavy_p05
+172,3,65535,11362,2857|3503|1060|1628|2289,11,,,#iw9_ar_schotel with grip_angled10|bar_br_short_p05|laserbox_ads05|pgrip_tac_p05|stock_ar_tactical_p05
+173,3,65535,11307,,11,,,#iw9_pi_golf17
+174,3,65535,11353,,11,,,#iw9_me_riotshield
+175,3,65535,11337,,11,,,#iw9_la_juliet
+176,3,65535,8371,,15,,,#loot_key_hotel_room1
+177,3,65535,19299,,15,,,#loot_key_sealion_hotel_room_403
+178,3,65535,19302,,15,,,#loot_key_sealion_lab_office
+179,3,65535,24138,,15,,,#loot_key_skeleton
+180,3,65535,24139,,15,,,#loot_key_skeleton_used
+181,3,65535,24140,,15,,,#loot_key_skeleton_worn
+182,3,65535,29251,,15,,,#loot_key_biobunker_fortress
+183,3,65535,29252,,15,,,#loot_key_biobunker_fortress_used
+184,3,65535,29253,,15,,,#loot_key_biobunker_fortress_worn
+185,3,65535,11307,1161|1362|1833|3123|3052,11,,,#iw9_pi_golf17 with mag_pi_large_p24|pgrip_tac_p24|trigger_heavy_p24|silencer01_pi|flashlight_pstl01
+186,3,65535,11373,1001|2236|2396|1541|1896,11,,,#iw9_sm_apapa with mag_sm_large_p03|comb_heavy_p03|comp_sm_08|pgrip_tac_p03|lasercyl_ads05
+187,3,65535,11374,1726|2897|3659|3559|2055,11,,,#iw9_sm_papa90 with barsil_sm_long_p07|lasercyl_hip01|grip_vertshort03|pgrip_ass_p07|comb_heavy_p07
+188,3,65535,11315,2929|3795|3041|2086|2041,11,,,#iw9_sm_victor with barsil_sm_hvylong_p10|stock_sm_lgttactical_p10|mag_small_p10|pgrip_ass_p10|holotherm01
+189,3,65535,11331,951|1868|1546|1623|2407,11,,,#iw9_lm_foxtrot with bar_lm_short_p01|stock_ar_tactical_p01|silencer04_ar|pgrip_tac_p01|laserbox_ads04
+190,3,65535,11314,11255|856|3026|2480|2585,11,,,#iw9_lm_slima with ammo_300nm_ap|holorange01|gripside_large_p16|belt_lm_small_p16|comp_dm_05
+191,3,65535,11345,1686|3222|1932|1507|1686,11,,,#iw9_ar_mcbravo with reflex04|bar_ar_lgt_short_p08|stock_ar_tactical_p08|silencer07_br|reflex04
+192,3,65535,11372,2120|3787|1838|1541|1896,11,,,#iw9_ar_augolf with bar_ar_light_p03|stock_sm_p03|comb_tactical_p03|pgrip_tac_p03|lasercyl_ads05
+193,3,65535,11354,766|873|3597|1623|2465,11,,,#iw9_ar_mike4 with mag_ar_large_p01|stock_sm_p01|silencer01_ar|pgrip_tac_p01|iw9_minireddot04
+194,3,65535,11328,1896|1817|1764|1409|2992,11,,,#iw9_sh_mviktor with lasercyl_ads05|guard_tactical_p13|mag_sh_large_p13|bartube_sh_hvylong_p13|choke_sh02
+195,3,65535,22228,639|22216|3145|23954,11,,,#iw9_sn_india with lasercyl_ads02|pgrip_p53|silencer03_dm|bolt_lgt_p53
+196,3,65535,11359,2454|856|2078|3130,11,,,#iw9_sn_alpha50 with stock_sn_tac_p23|holorange01|mag_sn_xlarge_p23|bar_sn_short_p23
+197,3,65535,11330,847|1863|3468|3599|573,11,,,#iw9_dm_mike24 with bar_dm_light_p20|stockr_dm_tactical_p20|fourx02|silencer04_br|bolt_lgt_p20
+198,3,65535,11329,1361|3233|1882|662|1390,11,,,#iw9_dm_sbeta with comb_tactical_p19|stockr_dm_tactical_p19|hybridtherm01|silencer06_dm|lever_light_p19
+199,3,65535,26615,,15,,,#loot_key_de_bike_parking_02
+200,3,65535,26609,,15,,,#loot_key_de_animal_care
+201,3,65535,26630,,15,,,#loot_key_de_cruise_terminal
+202,3,65535,26624,,15,,,#loot_key_de_homeboat_08
+203,3,65535,22036,,15,,,#loot_key_delta_firestation
+204,3,65535,26621,,15,,,#loot_key_de_waterhome_04
+205,3,65535,26579,,15,,,#loot_key_de_city_hall
+206,3,65535,26591,,15,,,#loot_key_de_shopping_mall
+207,3,65535,26603,,15,,,#loot_key_de_stage_01
+208,3,65535,26606,,15,,,#loot_key_de_windmill
+209,7,0,31582,,13,,,#dmz_feature
+210,7,1,31582,,13,,,#dmz_feature
+211,7,2,31582,,13,,,#dmz_feature
+212,7,3,31582,,13,,,#dmz_feature
+213,7,4,31582,,13,,,#dmz_feature
+214,7,5,31582,,13,,,#dmz_feature
+215,7,6,31582,,13,,,#dmz_feature
+216,7,7,31582,,13,,,#dmz_feature
+217,7,8,31582,,13,,,#dmz_feature
+218,7,9,31582,,13,,,#dmz_feature
+219,7,10,31582,,13,,,#dmz_feature
+220,7,11,31582,,13,,,#dmz_feature
+221,7,12,31582,,13,,,#dmz_feature
+222,7,13,31582,,13,,,#dmz_feature
+223,7,14,31582,,13,,,#dmz_feature
+224,7,15,31582,,13,,,#dmz_feature
+225,7,16,31582,,13,,,#dmz_feature
+226,7,17,31582,,13,,,#dmz_feature
+227,7,18,31582,,13,,,#dmz_feature
+228,7,19,31582,,13,,,#dmz_feature
+229,7,20,31582,,13,,,#dmz_feature
+230,7,21,31582,,13,,,#dmz_feature
+231,7,22,31582,,13,,,#dmz_feature
+232,7,23,31582,,13,,,#dmz_feature
+233,7,24,31582,,13,,,#dmz_feature
+234,7,25,31582,,13,,,#dmz_feature
+235,7,26,31582,,13,,,#dmz_feature
+236,7,27,31582,,13,,,#dmz_feature
+237,7,28,31582,,13,,,#dmz_feature
+238,1,5,31582,,16,,,#dmz_feature
+239,3,65535,11333,,11,,,#iw9_la_mike32
+240,3,65535,22033,,15,,,#loot_key_delta_cityhall
+241,3,65535,22027,,15,,,#loot_key_delta_aquarium
+242,3,65535,22060,,15,,,#loot_key_delta_terminal
+243,3,65535,8460,,15,,,#loot_key_smugglers_warehouse
+244,3,65535,11359,2313|2571|3504|2675,11,,,iw9_sn_alpha50 with ammo_50b_hv|dmscope_vz02|lasercyl_hip03|silencer05_sn
+245,3,65535,13531,15433|15445|1106|2897|15437,11,,,iw9_sh_vecho with bar_sh_hvylong_p04|bolt_lgt_p04|comp_sh_02|lasercyl_hip01|mag_sh_large_p04
+246,3,65535,11354,3356|1882|3568|1546|23938,11,,,iw9_ar_mike4 with grip_vert03|hybridtherm01|mag_ar_xlarge_p01|silencer04_ar|ub_gl_drill
+247,3,65535,16976,1004|18186|2770|1822|3606,11,,,iw9_dm_stango25 with ammo_762n_db|drum_dm_p01|grip_vert02|hybridscope_ar01|silencer05_br
+248,3,65535,24089,26224|2555|26233|2476|26220,11,,,iw9_pi_tango9 with bar_pi_heavy_p49|comp_sm_03|drum_pi_p49|laserpstl_hip01|stockp_pi_tactical_p49
+249,3,65535,22002,1457|3185|2617|23551|1219,11,,,iw9_br_ngsierra with comp_br_04|grip_angled12|holo04|pgrip_ass_p42|ub_gl01
+250,3,65535,24472,867|1455|2004|1919,11,,,iw9_pi_dechoauto with comp_decho_01|grip_vertshort04|mag_pi_xlarge_p25|pgrip_ass_p25
+251,3,65535,11335,1914|2277|3185|2041|1989,11,,,iw9_sm_mpapax with bar_sm_long_p08|drum_sm_p08|grip_angled12|holotherm01|silencer05_sm
+252,3,65535,16017,,11,,,iw9_me_sword01 with 
+253,3,65535,14657,16950|1203|16952|16944|621,11,,,iw9_ar_acharlie300 with bar_ar_lgtshort_p43|holo02|mag_ar_heavy_p43|pgrip_ass_p43|silencer06_ar
+254,3,65535,11322,3296|640|3570|1120,11,,,iw9_dm_crossbow with ammo_bolt_he|bar_dm_hvyass_p38|stock_dm_hvyass_p38|wire_lgt_p38
+255,3,65535,11314,2584|1954|1882|1342|3290,11,,,iw9_lm_slima with comp_dm_03|gripside_med_p16|hybridtherm01|pgrip_ass_p16|stock_lm_assault_p16
+256,3,65535,11352,3702|3722|11259|3102|2946,11,,,iw9_pi_papa220 with bar_pi_light_p27|mag_pi_large_p27|pgrip_snp_p27|silencer02_pi|trigger_hair_p27
+257,3,65535,22228,22224|23948|23954|23956|3454,11,,,iw9_sn_india with ammo_408c_hv|bar_sn_light_p53|bolt_lgt_p53|guard_tac_p53|silencer02_dm
+258,3,65535,11315,2698|1510|3299|2617|1883,11,,,iw9_sm_victor with bar_sm_lgtshort_p10|comp_sm_05|drum_p10|holo04|pgrip_aim_p10
+259,3,65535,11366,1245|1662|1789|2523|2603,11,,,iw9_sh_mike1014 with bar_sh_heavy_p12|choke_sh03|guard_heavy_p12|pgrip_ass_p12|stockr_sh_heavy_p12
+260,3,65535,11312,2830|2907|1939|3240|3606,11,,,iw9_dm_scromeo with bar_sn_short_p05|hybrid03|mag_sn_large_p05|pgrip_ass_p05|silencer05_br
+261,3,65535,11362,1735|3133|3240|3599|24711,11,,,iw9_ar_schotel with grip_angled08|holo01|pgrip_ass_p05|silencer04_br|ub_gl_drill_scharlie
+262,3,65535,11311,1202|1302|1266|3104|2310,11,,,iw9_sm_mpapa7 with comp_sm_02|grip_angled03|lasercyl_hip02|mag_sm_large_p09|pgrip_tac_p09
+263,3,65535,11340,2686|573|2571|2407|2650,11,,,iw9_dm_xmike2010 with ammo_300wm_hv|bolt_lgt_p20|dmscope_vz02|laserbox_ads04|stock_sn_tactical_p20
+264,3,65535,11346,3720|1302|932|1122|23938,11,,,iw9_ar_mcharlie with fourxtherm01|grip_angled03|mag_ar_large_p08|silencer02_ar|ub_gl_drill
+265,3,65535,24089,26222|26234|26236|26230|2348,11,,,iw9_pi_tango9 with bar_pi_short_p49|drum_pi_large_p49|grip_vert_p49|pgrip_tac_p49|silencer04_sm
+266,3,65535,11374,1144|1655|3559|2507,11,,,iw9_sm_papa90 with comb_ergo_p07|comp_sm_07|pgrip_ass_p07|railreflex_sm_reflex_p07
+267,3,65535,11317,11249|1389|729|3145|1425,11,,,iw9_sn_mromeo with ammo_300nm_hv|bolt_lgt_p21|pgrip_tac_p21|silencer03_dm|snscope_vz01
+268,3,65535,11339,1735|1203|2623|3606|3558,11,,,iw9_ar_golf3 with grip_angled08|holo02|pgrip_br_aim_p02|silencer05_br|ub_glmini01
+269,3,65535,24472,3019|29640|2004|1919,11,,,iw9_pi_dechoauto with barcomp_pi_p25|iw9_akimbo_dechoauto|mag_pi_xlarge_p25|pgrip_ass_p25
+270,3,65535,11313,3697|3336|3802|1436|1556,11,,,iw9_sh_charlie725 with bar_sh_short_p14|comp_charlie725_02|grip_angled07|guard_heavy_p14|laserir_cyl
+271,7,29,31582,,13,,,#dmz_feature start_plates
+272,7,30,31582,,13,,,#dmz_feature self_revive_start
+273,7,31,31582,,13,,,#dmz_feature armor_box_unlocked
+274,7,32,31582,,13,,,#dmz_feature rebreather_unlocked
+275,8,65535,9261,,13,4|20208,,#stim pistol
+276,8,65535,24000,,13,4|20211,,#tempered plate carrier
+277,8,65535,33033,,13,4|20214,,#battle rage shelf revive
+278,8,65535,8590,,13,4|20217,,#durable gasmask
+279,8,65535,9145,,13,4|20219,,#uav

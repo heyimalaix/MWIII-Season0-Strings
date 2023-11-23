@@ -1,0 +1,10 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,,,
+tagReject,nocache,100,,,
+reqAdd,ammo,1,,,# required ammo
+reqAdd,valuable,1,1,,# require a weapon
+reqAdd,plunder,1,,,
+reqAdd,,1,,,# any item
+reqAdd,,1,,50,# chance for any item of any quality
+reqLimit,brloot_armor_plate,1,1,,# limit plates
+reqLimit,ammo,1,1,,
+reqLimit,plunder,2,2,,

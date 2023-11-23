@@ -1,0 +1,8 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,,,
+chance,point,75,#     % of non-clustered points that will be populated,,
+chance,cluster,75,#     % of clusters that will be populated,,
+chance,clusterSolo,35,#     % of clusters that will become invalid after spawning one item (with dependencies),,
+reqLimit,tablet,2,,,
+reqAdd,plunder & [1],1,,,# required plunder
+reqAdd,defensive&!(lethal|tactical),1,1,,
+tagBoost,defensive,100,,,

@@ -1,0 +1,5 @@
+inherit,mp/loot/br/mini_mgl/newplayer/lootset_root.csv,,,,
+reqAdd,weapon&[2],1,,,# 1 weapon rare+
+reqAdd,ammo,1,,,# 1 Ammo
+reqAdd,health,1,,,# 1 Armor Plates
+reqAdd,plunder,1,,,# 1 plunder

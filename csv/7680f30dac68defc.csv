@@ -1,0 +1,13 @@
+inherit,mp/loot/br/dmz/biobunker/lootset_root.csv,,
+option,no_points_ground,,
+chance,point,60,#     % of non-clustered points that will be populated
+chance,cluster,60,#     % of clusters that will be populated
+chance,clusterSolo,10,#     % of clusters that will become invalid after spawning one item (with dependencies)
+reqAdd,,1,
+item,brloot_valuable_bunker_server_tape_common,21,
+item,brloot_valuable_bunker_server_tape_uncommon,12,
+item,brloot_valuable_bunker_server_tape_rare,6,
+item,brloot_valuable_bunker_server_tape_epic,3,
+item,brloot_valuable_bunker_board_common,17,
+item,brloot_valuable_bunker_board_uncommon,8,
+item,brloot_valuable_bunker_board_epic,1,

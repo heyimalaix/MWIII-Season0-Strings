@@ -1,0 +1,25 @@
+ui_veh_vehicle,1,1,c,i,-1,-1,32,,,,,,,#ID of the clients current vehicle.
+ui_br_vehicles_spawned,1,,g,a,0,,,,,,,,,#bit field of vehicles enabled in current match. 
+ui_veh_current_seat,1,1,c,i,-1,-1,32,,,,,,,#ID for the client's current seat in a vehicle. Last bit is 1 if we can lean out, 0 if we cannot
+ui_veh_next_seat,1,0,c,i,-1,-1,16,,,,,,,#ID for the client's next seat in a vehicle (if they switch).
+ui_veh_occupant_0,1,0,c,i,-1,-1,199,,,,,1,,#Entity Number of the client at index 0.
+ui_veh_occupant_1,1,0,c,i,-1,-1,199,,,,,,,#Entity Number of the client at index 1.
+ui_veh_occupant_2,1,0,c,i,-1,-1,199,,,,,,,#Entity Number of the client at index 2.
+ui_veh_occupant_3,1,0,c,i,-1,-1,199,,,,,,,#Entity Number of the client at index 3.
+ui_veh_occupant_4,1,0,c,i,-1,-1,199,,,,,,,#Entity Number of the client at index 4.
+ui_veh_occupant_5,1,0,c,i,-1,-1,199,,,,,,,#Entity Number of the client at index 5.
+ui_veh_occupant_6,1,0,c,i,-1,-1,199,,,,,,,#Entity Number of the client at index 6.
+ui_veh_health_percent,1,0,c,i,0,0,100,1,,,,,,#Vehicle health expressed as a percentage.
+ui_veh_fuel_percent,1,0,c,i,0,0,100,1,,,,,,#Vehicle fuel expressed as a percentage.
+ui_veh_exit_button_holdtime,1,0,c,f,0,0,100,1,,,,,,#Time since the player started to press exit vehicle button.
+ui_veh_music_toggle_button_holdtime,1,0,c,f,0,0,1,1,,,,,,#Time since the player started to press toggle music vehicle button.
+ui_veh_show_health,1,0,c,i,0,0,1,,,,,,,#Whether to show vehicle health.
+ui_veh_show_fuel,1,0,c,b,0,0,1,,,,,,,#Whether to show vehicle fuel.
+ui_veh_time_percent,1,0,c,i,0,0,100,1,,,,,,#Vehicle remaining time expressed as a percentage.
+ui_veh_show_time,1,0,c,i,0,0,1,,,,,,,#Whether to show vehicle remaining time.
+ui_veh_ammo_0,1,0,c,i,-1,-2,20,,,,,,,#Ammo for a script managed vehicle weapon.
+ui_veh_ammo_1,1,0,c,i,-1,-2,20,,,,,,,#Ammo for a second script managed vehicle weapon.
+ui_veh_ammo_2,1,0,c,i,-1,-2,20,,,,,,,#Ammo for a third script managed vehicle weapon.
+ui_veh_degrees_0,1,0,c,d,0,0,360,1,,,,,,#Rotation value expressed in degrees. Used for turret/chassis rotations.
+ui_veh_degrees_1,1,0,c,d,0,0,360,1,,,,,,#Another rotation value expressed in degrees. Used for turret/chassis rotations.
+ui_veh_controls,1,0,c,i,0,0,2,,,,,,,#Whether to show the vehicle's controls.

@@ -1,0 +1,9 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,,,
+tagReject,plate_carrier,,,,
+reqAdd,plunder,1,,,# 1 plunder
+reqAdd,plunder,1,,25,# 1 chance for more plunder
+reqAdd,ammo,2,,,# 2 ammo
+reqAdd,brloot_armor_plate,1,,,# 1 armor plate
+reqAdd,[1],1,,,# 1 item of rarity 1
+reqAdd,[2-4],1,,,# 1 item of rarity 2-4
+reqAdd,valuable,1,2,,

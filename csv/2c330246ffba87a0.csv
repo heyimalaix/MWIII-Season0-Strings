@@ -1,0 +1,5 @@
+inherit,mp/loot/br/dmz/biolab/lootset_root.csv,,,,
+dropNothingChance,0,,,,
+reqAdd,,1,,,# 1 to 2 items
+reqLimit,,,2,,
+reqAdd,loot_key_red_door_worn,1,,1,

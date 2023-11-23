@@ -1,0 +1,11 @@
+ui_gunship_hud,1,,c,i,0,0,1
+ui_gunship_coord1_posx,1,,c,i,0,-100000,100000
+ui_gunship_coord1_posy,1,,c,i,0,-100000,100000
+ui_gunship_coord1_posz,1,,c,i,0,-100000,100000
+ui_gunship_coord2_posx,1,,c,i,0,-100000,100000
+ui_gunship_coord2_posy,1,,c,i,0,-100000,100000
+ui_gunship_coord2_posz,1,,c,i,0,-100000,100000
+ui_gunship_coord3_posx,1,1,c,i,0,-100000,100000
+ui_gunship_coord3_posy,1,1,c,i,0,-100000,100000
+ui_gunship_coord3_posz,1,1,c,i,0,-100000,100000
+ui_gunship_hellfire_lockon,1,,c,i,0,0,1

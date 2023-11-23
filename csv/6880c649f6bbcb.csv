@@ -1,0 +1,7 @@
+inherit,mp/loot/br/default/lootset_root.csv,,,,
+chance,point,70,#     % of non-clustered points that will be populated,,
+chance,cluster,70,#     % of clusters that will be populated,,
+chance,clusterSolo,40,#     % of clusters that will become invalid after spawning one item (with dependencies),,
+reqAdd,brloot_armor_plate,1,,,# required plates
+reqAdd,support&!(lethal|tactical),1,1,,
+tagBoost,support,100,,,

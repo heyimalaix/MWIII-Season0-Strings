@@ -1,0 +1,18 @@
+inherit,mp/loot/br/dmz/lootset_root.csv,,,,
+tagReject,nodmz,100,,,
+tagChance,key&hero&pristine,25,,,
+tagChance,key&keytier2&pristine,50,,,
+tagChance,key&keytier3&pristine,25,,,
+item,loot_key_red_door_worn,200,,,
+item,loot_key_blue_door_worn,200,,,
+item,loot_key_red_door_used,200,,,
+item,loot_key_blue_door_used,200,,,
+item,loot_key_gold_door,2000,,,
+reqAdd,weapon&[3],1,,100,# 1 weapon of type epic
+reqAdd,ammo,1,,100,# 1 ammo
+reqAdd,[4],1,,,# 1 item of any type legendary
+reqAdd,plunder,1,,100,#Cash Drop
+reqAdd,brloot_killstreak_clusterstrike,1,,50,
+reqAdd,brloot_killstreak_precision_airstrike,1,,50,
+reqAdd,brloot_killstreak_uav,1,,50,
+reqLimit,killstreak,,4,,

@@ -1,0 +1,4 @@
+inherit,mp/loot/br/default/lootset_root.csv,,
+tagReject,nogulag,100,
+reqAdd,brloot_plunder_cash_uncommon_2,3,4
+reqAdd,brloot_plunder_cash_epic_1,1,

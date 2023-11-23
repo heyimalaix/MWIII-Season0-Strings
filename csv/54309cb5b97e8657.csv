@@ -1,0 +1,6 @@
+reqAdd,br_loot_cache_blacksite,1,1
+reqLimit,br_loot_cache_blacksite,1,1
+chance,cachePoint,100,
+chance,cache,100,
+item,br_reusable_loot_cache,100,
+option,mergezones,0,

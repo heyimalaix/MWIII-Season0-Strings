@@ -1,0 +1,54 @@
+loot_container_open,1,0,c,i,0,0,19,,,,,,,# 0 if loot container is closed, 1 or higher for different kinds of loot containers. See brloot.gsh
+loot_container_dead_player_index,1,0,c,i,0,0,63,,,,,,,# The index of the player's name in dogTagInfo
+loot_container_item_0,1,0,c,i,0,0,2147483647,,,,,,,#Loot ID offset from range start of an item looted from a container. 
+loot_container_item_1,1,0,c,i,0,0,2147483647,,,,,,,#Loot ID offset from range start of an item looted from a container. 
+loot_container_item_2,1,0,c,i,0,0,2147483647,,,,,,,#Loot ID offset from range start of an item looted from a container. 
+loot_container_item_3,1,0,c,i,0,0,2147483647,,,,,,,#Loot ID offset from range start of an item looted from a container. 
+loot_container_item_4,1,0,c,i,0,0,2147483647,,,,,,,#Loot ID offset from range start of an item looted from a container. 
+loot_container_item_5,1,0,c,i,0,0,2147483647,,,,,,,#Loot ID offset from range start of an item looted from a container. 
+loot_container_item_6,1,0,c,i,0,0,2147483647,,,,,,,#Loot ID offset from range start of an item looted from a container. 
+loot_container_item_7,1,0,c,i,0,0,2147483647,,,,,,,#Loot ID offset from range start of an item looted from a container. 
+loot_container_item_8,1,0,c,i,0,0,2147483647,,,,,,,#Loot ID offset from range start of an item looted from a container. 
+loot_container_item_9,1,0,c,i,0,0,2147483647,,,,,,,#Loot ID offset from range start of an item looted from a container. 
+loot_container_item_10,1,0,c,i,0,0,2147483647,,,,,,,#Loot ID offset from range start of an item looted from a container. 
+loot_container_quantity_0,1,0,c,i,0,0,4095,,,,,,,#Quantity of an item looted from a container.
+loot_container_quantity_1,1,0,c,i,0,0,4095,,,,,,,#Quantity of an item looted from a container.
+loot_container_quantity_2,1,0,c,i,0,0,4095,,,,,,,#Quantity of an item looted from a container.
+loot_container_quantity_3,1,0,c,i,0,0,4095,,,,,,,#Quantity of an item looted from a container.
+loot_container_quantity_4,1,0,c,i,0,0,4095,,,,,,,#Quantity of an item looted from a container.
+loot_container_quantity_5,1,0,c,i,0,0,4095,,,,,,,#Quantity of an item looted from a container.
+loot_container_quantity_6,1,0,c,i,0,0,4095,,,,,,,#Quantity of an item looted from a container.
+loot_container_quantity_7,1,0,c,i,0,0,4095,,,,,,,#Quantity of an item looted from a container.
+loot_container_quantity_8,1,0,c,i,0,0,4095,,,,,,,#Quantity of an item looted from a container.
+loot_container_quantity_9,1,0,c,i,0,0,4095,,,,,,,#Quantity of an item looted from a container.
+loot_container_quantity_10,1,0,c,i,0,0,4095,,,,,,,#Quantity of an item looted from a container.
+loot_container_type_0,1,0,c,i,0,0,127,,,,,,,#Item type of an item looted from a container. Taken from loot_master.csv
+loot_container_type_1,1,0,c,i,0,0,127,,,,,,,#Item type of an item looted from a container. Taken from loot_master.csv
+loot_container_type_2,1,0,c,i,0,0,127,,,,,,,#Item type of an item looted from a container. Taken from loot_master.csv
+loot_container_type_3,1,0,c,i,0,0,127,,,,,,,#Item type of an item looted from a container. Taken from loot_master.csv
+loot_container_type_4,1,0,c,i,0,0,127,,,,,,,#Item type of an item looted from a container. Taken from loot_master.csv
+loot_container_type_5,1,0,c,i,0,0,127,,,,,,,#Item type of an item looted from a container. Taken from loot_master.csv
+loot_container_type_6,1,0,c,i,0,0,127,,,,,,,#Item type of an item looted from a container. Taken from loot_master.csv
+loot_container_type_7,1,0,c,i,0,0,127,,,,,,,#Item type of an item looted from a container. Taken from loot_master.csv
+loot_container_type_8,1,0,c,i,0,0,127,,,,,,,#Item type of an item looted from a container. Taken from loot_master.csv
+loot_container_type_9,1,0,c,i,0,0,127,,,,,,,#Item type of an item looted from a container. Taken from loot_master.csv
+loot_container_type_10,1,0,c,i,0,0,127,,,,,,,#Item type of an item looted from a container. Taken from loot_master.csv
+loot_container_weapon,1,0,c,i,0,0,2147483647,,,,,,,#Loot ID of weapon in player backpack
+loot_container_loadout_lethal_id,1,0,c,i,0,0,2147483647,,,,,,,
+loot_container_loadout_lethal_quantity,1,0,c,i,0,0,3,,,,,,,
+loot_container_loadout_tactical_id,1,0,c,i,0,0,2147483647,,,,,,,
+loot_container_loadout_tactical_quantity,1,0,c,i,0,0,3,,,,,,,
+loot_container_loadout_super_id,1,0,c,i,0,0,2147483647,,,,,,,
+loot_container_loadout_killstreak_id,1,0,c,i,0,0,2147483647,,,,,,,
+loot_container_loadout_armor_quantity,1,0,c,i,0,0,5,,,,,,,
+loot_container_loadout_revive,1,0,c,i,0,0,1,,,,,,,
+loot_container_loadout_gasmask_id,1,0,c,i,0,0,4,,,,,,,
+loot_container_loadout_gasmask_quantity,1,0,c,i,0,0,216,,,,,,,
+loot_container_loadout_weapon_id,1,0,c,i,0,0,2147483647,,,,,,,
+loot_container_loadout_weapon_attachments,1,0,c,i,0,0,6,,,,,,,
+loot_container_loadout_weapon_ammo,1,0,c,i,0,0,210,,,,,,,
+loot_container_loadout_dogtag_tier,1,0,c,i,0,0,5,,,,,,,
+loot_container_loadout_dogtag_quantity,1,0,c,i,0,0,4095,,,,,,,
+loot_container_dead_player_backpack_size,1,0,c,i,0,0,11,,,,,,,
+loot_container_loadout_plunder_quantity,1,0,c,i,0,0,16383,,,,,,,
+loot_container_loadout_backpack,1,0,c,i,0,0,2147483647,,,,,,,

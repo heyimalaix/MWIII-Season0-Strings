@@ -1,0 +1,9 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,
+reqAdd,brloot_killstreak_auav,1,1
+reqAdd,brloot_super_armorbox,1,1
+reqAdd,brloot_super_munitionsbox,1,1
+reqAdd,plunder,12,12
+reqAdd,,2,5
+reqLimit,brloot_super_armorbox,1,1
+reqLimit,brloot_super_munitionsbox,1,1
+reqLimit,brloot_killstreak_auav,1,1

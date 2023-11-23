@@ -1,0 +1,9 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,
+chance,point,70,#     % of non-clustered points that will be populated
+chance,cluster,70,#     % of clusters that will be populated
+chance,clusterSolo,50,#     % of clusters that will become invalid after spawning one item (with dependencies)
+reqLimit,tablet,2,
+reqAdd,recon&!(lethal|tactical),1,
+reqAdd,offensive&!(lethal|tactical),1,
+tagBoost,recon,100,
+tagBoost,offensive,100,

@@ -1,0 +1,2 @@
+2,cp_armorBundle,special,armor_bundle,1,MP_BR_INGAME/KIOSK_ITEM_ARMOR_PLACE_BUNDLE,MP_BR_INGAME/KIOSK_ITEM_ARMOR_PLATE_BUNDLE_DESC,hud_icon_loot_armor_plates_triple,1,,80,8372,,0
+7,cp_sentry,special,cp_sentry,1,LUA_MENU_MP/RISK_SENTRY_TURRET,LUA_MENU_MP/RISK_SENTRY_TURRET_DESC,hud_icon_killstreak_sentry,1,,0,9175,,0

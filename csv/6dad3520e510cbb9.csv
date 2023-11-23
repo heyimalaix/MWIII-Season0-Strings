@@ -1,0 +1,8 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,,
+reqAdd,plunder,12,,
+reqAdd,plate_carrier,2,2,
+reqAdd,plate_carrier,1,2,25
+reqLimit,brloot_plate_carrier_3_medic,1,1,
+reqLimit,brloot_plate_carrier_3_comms,1,1,
+reqLimit,brloot_plate_carrier_3_stealth,1,1,
+reqLimit,brloot_plate_carrier_tempered,1,1,

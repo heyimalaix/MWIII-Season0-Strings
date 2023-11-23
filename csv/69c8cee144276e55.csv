@@ -1,0 +1,15 @@
+tagReject,nodmz,100,,
+tagReject,nodrop,100,,
+rollChance,valuable,18,,
+item,brloot_valuable_bunker_server_tape_common,25,,
+item,brloot_valuable_bunker_server_tape_epic,2,,
+item,brloot_valuable_bunker_server_tape_rare,5,,
+item,brloot_valuable_bunker_server_tape_uncommon,15,,
+item,brloot_valuable_electrical_tape,12,,
+item,brloot_valuable_electroniccomponents,22,,
+item,brloot_valuable_screwdriver,5,,
+item,brloot_valuable_wrench,4,,
+item,brloot_valuable_bunker_board_common,11,,
+item,brloot_valuable_bunker_board_uncommon,3,,
+reqAdd,,1,0,100
+reqAdd,,1,0,75

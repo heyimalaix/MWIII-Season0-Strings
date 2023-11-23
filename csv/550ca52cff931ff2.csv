@@ -1,0 +1,6 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,
+reqAdd,weapon&[3],1,1
+reqAdd,plunder,2,3
+reqAdd,brloot_super_munitionsbox,1,1
+reqAdd,brloot_super_armorbox,1,1
+reqAdd,offensive,2,2

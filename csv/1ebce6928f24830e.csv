@@ -1,0 +1,4 @@
+inherit,mp/loot/br/dmz/biolab/lootset_root.csv,,,
+reqAdd,,1,,100
+reqAdd,,1,,25
+reqAdd,,1,,25

@@ -1,0 +1,5 @@
+inherit,mp/loot/core/gwai/lootset_root.csv,,,,,,,
+req,,weapon,1,,,,3,
+req,,,1,,,,,
+req,,,1,,,,3,# 1 item of any type legendary
+req,,health,2,,,,,

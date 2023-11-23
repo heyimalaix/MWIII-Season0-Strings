@@ -1,0 +1,4 @@
+inherit,mp/loot/br/default/lootset_root.csv,,
+reqAdd,plunder,4,5
+reqAdd,killstreak,1,1
+reqAdd,brloot_super_deployablekiosk,1,1

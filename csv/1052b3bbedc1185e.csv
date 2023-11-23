@@ -1,0 +1,4 @@
+inherit,mp/loot/br/classic/lootset_root.csv,,,,
+reqAdd,weapon&[1],1,,,# 1 uncommon weapon+
+reqAdd,ammo,1,,,# 1 ammo
+reqAdd,,1,,,# 1 item of any type, any rarity

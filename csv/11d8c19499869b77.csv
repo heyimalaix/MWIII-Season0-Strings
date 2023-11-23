@@ -1,0 +1,5 @@
+base_map_threshold,700
+not_dev_addl_map_memory,0
+neo_addl_map_memory,150
+ext_mem_base_allocs,128
+ample_memory_platform,4096

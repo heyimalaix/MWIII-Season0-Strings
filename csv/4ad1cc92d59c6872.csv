@@ -1,0 +1,6 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,,,
+reqAdd,weapon,1,,,# 1 weapon
+reqAdd,support,1,,,# 1 item
+reqAdd,brloot_armor_plate,1,,,# 1 armor plate
+reqAdd,ammo,1,,,# 1 Ammo
+reqAdd,plunder,1,,,# 1 plunder

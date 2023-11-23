@@ -1,0 +1,9 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,,,
+chance,point,85,#     % of non-clustered points that will be populated,,
+chance,cluster,85,#     % of clusters that will be populated,,
+chance,clusterSolo,35,#     % of clusters that will become invalid after spawning one item (with dependencies),,
+reqAdd,brloot_armor_plate,1,,,# required plates
+reqAdd,offensive&!(lethal|tactical),1,1,,
+reqAdd,support&!(lethal|tactical),1,1,,
+tagBoost,offensive,100,,,
+tagBoost,support,100,,,

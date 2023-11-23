@@ -1,0 +1,8 @@
+inherit,mp/loot/br/dmz/lootset_medicine_cabinet.csv,
+tagReject,biolab,
+tagReject,saba,
+tagReject,sabacrashsite,
+tagReject,delta,
+tagReject,biobunker,
+item,brloot_valuable_sealion_liquor,1
+item,brloot_valuable_sealion_cigarbox,7

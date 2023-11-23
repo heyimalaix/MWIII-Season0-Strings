@@ -1,0 +1,6 @@
+inherit,mp/loot/br/clash_mgl/lootset_root.csv,,,,
+reqAdd,weapon&[3],1,,,# 1 weapon of type epic
+reqAdd,ammo,1,,,# 1 ammo
+reqAdd,[4],1,,,# 1 item of any type legendary
+reqAdd,plunder,1,,,#Cash Drop
+reqAdd,powerup,1,,,

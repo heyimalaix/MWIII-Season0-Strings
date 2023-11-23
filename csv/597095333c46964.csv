@@ -1,0 +1,4 @@
+ui_open_pap_menu_notify,1,,c,n,,,,,# notify lua to open pap menu
+ui_pap_purchase_response,1,,c,i,0,0,4,,# pap menu purchase response
+ui_pap_purchase_response_notify,1,,c,n,,,,,# notify lua for pap menu purchase response
+ui_pap_current_level,1,,c,i,0,0,4,,# current weapon pap level (base starts at level 1)

@@ -1,0 +1,2040 @@
+cp_bads_cine_intro,0.02,10.27,^8Laswell:^7 Breaker-1, intercepted communications between Al Qatala and an unknown individual in Russia confirms delivery of three packages to an AQ outpost in Al Mazrah.,â,â
+cp_bads_cine_intro,10.58,15.94,^8Laswell:^7 We believe the contents of the packages are radioactive components for an underground weapons program.,â,â
+cp_bads_cine_intro,15.92,19.74,^8Laswell:^7 ISR shows the packages have been delivered to three separate buildings.,â,â
+cp_bads_cine_intro,19.79,24.83,^8Laswell:^7 You will load out with Geiger counters to detect radiation and find the weapon components.,â,â
+cp_bads_cine_intro,24.83,27.21,^8Laswell:^7 Your mission is to recover them.,â,â
+cp_bads_cine_intro,27.22,30.83,^8Laswell:^7 Be advised This grid is heavily fortified with anti-aircraft.,â,â
+cp_bads_cine_intro,30.97,33.79,^8Laswell:^7 Your team will not have air support on station.,â,â
+cp_bads_cine_intro,33.79,37.57,^8Laswell:^7 This operation is a seizure. Covert status is critical.,â,â
+cp_bads_cine_intro,37.57,42.35,^8Laswell:^7 To avoid detection you will HALO jump into the AO and push to the targets on foot.,â,â
+cp_bads_cine_intro,42.35,46.99,^8Laswell:^7 When all three packages are secured, you'll proceed to HLZ Sparrow for extraction.,â,â
+cp_bads_cine_intro,46.99,52.75,^8Laswell:^7 In the event Sparrow is unaccessible, your secondary LZ, Falcon, is located here.,â,â
+cp_bads_cine_intro,52.76,55.84,^8Laswell:^7 Falcon is a last resort, not a guarantee.,â,â
+cp_bads_cine_intro,55.84,58.51,^8Laswell:^7 You are walking into the enemy's kitchen.,â,â
+cp_bads_cine_intro,58.51,61.55,^8Laswell:^7 All you have is each other, and the dark.,â,â
+cp_bads_cine_intro,61.56,62.8,^8Laswell:^7 I'll be on comms...,â,â
+cp_bads_cine_intro,62.8,64,^8Laswell:^7 Stay frosty.,â,â
+cp_heliesc_cine_intro,0.05,8.39,^8Laswell:^7 Breaker-1, intel reports the Al Qatala communications network, runs through a series of encrypted servers located here in Al Mazrah.,â,â
+cp_heliesc_cine_intro,8.39,13.49,^8Laswell:^7 The servers are housed in these three buildings Targets Alpha, Bravo, and Charlie.,â,â
+cp_heliesc_cine_intro,13.5,17.03,^8Laswell:^7 We need you to destroy those servers and extract their hard drives.,â,â
+cp_heliesc_cine_intro,17.04,21.94,^8Laswell:^7 1-1 will serve as the raid element and infil on the ground with an elite team of Demon Dog Marines,,â,â
+cp_heliesc_cine_intro,21.95,25.96,^8Laswell:^7 while 2 provides air support and direction overhead with a chopper gunner crew.,â,â
+cp_heliesc_cine_intro,25.96,29.36,^8Laswell:^7 Once all three drives are secure, I'll have a helo inbound for extraction.,â,â
+cp_heliesc_cine_intro,29.36,33,^8Laswell:^7 Surveillance confirms there are no civilians in the area...,â,â
+cp_heliesc_cine_intro,33.01,34.92,^8Laswell:^7 You're clear to engage all movers.,â,â
+cp_heliesc_cine_intro,34.92,39.05,^8Laswell:^7 This is deep AQ territory. Expect heavy resistance.,â,â
+cp_heliesc_cine_intro,39.05,44.68,^8Laswell:^7 We are shutting down their electronic capacity. AQ will not take this lightly.,â,â
+cp_heliesc_cine_intro,44.68,48.16,^8Laswell:^7 I will be with you on comms but you are each other's only support.,â,â
+cp_heliesc_cine_intro,49.12,50,^8Laswell:^7 Let's go to work.,â,â
+cp_igc_cine_intro,14.12,18.22,^8Laswell:^7 This is Watcher-1. The following message is restricted for limited distribution.,â,â
+cp_igc_cine_intro,18.23,23.9,^8Laswell:^7 This message is for assets assigned to carry out high threat covert operations under my charge.,â,â
+cp_igc_cine_intro,25.23,30.4,^8Laswell:^7 You will deploy in two-man teams consisting of personnel from multiple special mission units.,â,â
+cp_igc_cine_intro,32.2,34.95,^8Laswell:^7 To complete these objectives, you have to work together.,â,â
+cp_igc_cine_intro,34.95,38.74,^8Laswell:^7 Any lone-wolves among you have to learn to join the pack to achieve success.,â,â
+cp_igc_cine_intro,38.91,42.27,^8Laswell:^7 You will have no back-up and no reinforcements.,â,â
+cp_igc_cine_intro,44.13,48.89,^8Laswell:^7 Be advised If you are compromised you will be denied and disavowed.,â,â
+cp_igc_cine_intro,49.91,53.05,^8Laswell:^7 Periodically we'll need to break contact, but I will be your overwatch.,â,â
+cp_igc_cine_intro,54.57,56.17,^8Laswell:^7 Welcome to Jawbreaker.,â,â
+cp_igc_cine_intro,57.03,58.51,^8Laswell:^7 Good luck.,â,â
+cp_jup_apt_cine,0.57,2.35,^9Andrei Nolan:^7 Even Shadow breaks.,â,1
+cp_jup_apt_cine,2.73,4.59,^9Vladimir Makarov:^7 Everybody breaks.,â,1
+cp_jup_apt_cine,5.07,7.4,^9Andrei Nolan:^7 If Shadow didn't get to Milena, who did...?,â,1
+cp_jup_apt_cine,7.67,9.93,^9Vladimir Makarov:^7 Price and his royal minions.,â,1
+cp_jup_apt_cine,10.31,11.51,^9Andrei Nolan:^7 With a little help from Shadow.,â,1
+cp_jup_apt_cine,11.51,14.22,^9Vladimir Makarov:^7 That relationship is strictly transactional I can assure you.,â,1
+cp_jup_apt_cine,14.22,20.25,^9Andrei Nolan:^7 The information we obtained from the captive needs to be actioned immediately... Let me handle it.,â,1
+cp_jup_apt_cine,20.32,22.3,^9Vladimir Makarov:^7 No. I need you here...,â,1
+cp_jup_apt_cine,22.3,26.62,^9Vladimir Makarov:^7 We divide and conquer... If they found Milena they could very well find us.,â,1
+cp_jup_apt_cine,26.78,29.01,^9Andrei Nolan:^7 You think they know more?,â,1
+cp_jup_apt_cine,29.02,31.28,^9Vladimir Makarov:^7 Assume they do and make sure they don't.,â,â
+cp_jup_apt_cine,31.85,34.68,^9Andrei Nolan:^7 If they come, we'll be ready to meet them.,â,1
+cp_jup_apt_cine,35.63,43.28,^9Vladimir Makarov:^7 I want everyone to know that we won't be stopped by anyone... Men, women, or children. Is that clear?,â,1
+cp_jup_apt_cine,44.32,46.22,^9Andrei Nolan:^7 Crystal clear.,â,1
+cp_jup_apt_cine,46.22,51.22,^9Vladimir Makarov:^7 If the intel from our Shadow friend is good-- You'll be the first to know.,â,1
+cp_jup_apt_cine,51.23,52.65,^9Andrei Nolan:^7 And if it isn't?,â,1
+cp_jup_apt_cine,56.04,58.31,^9Vladimir Makarov:^7 Fucking kill him...,â,1
+cp_jup_apt_cine,66.53,68.33,^8Soap:^7 We broke Romanova.,â,â
+cp_jup_apt_cine,68.33,69.26,^8Price:^7 How?,â,â
+cp_jup_apt_cine,69.26,72.08,^8Laswell:^7 Enhanced financial interrogation.,â,â
+cp_jup_apt_cine,72.09,73.59,^8Gaz:^7 Shepherd's intel paid off.,â,â
+cp_jup_apt_cine,73.59,75,^8Laswell:^7 It's our intel now...,â,â
+cp_jup_apt_cine,75,76.88,^8Price:^7 What do we have that's actionable?,â,â
+cp_jup_apt_cine,76.88,82.92,^8Laswell:^7 One of Romanova's many shell companies purchased an abandoned apartment complex in St. Petersburg for the Konni group.,â,â
+cp_jup_apt_cine,82.92,83.76,^8Gaz:^7 When?,â,â
+cp_jup_apt_cine,83.76,84.88,^8Ghost:^7 Recently.,â,â
+cp_jup_apt_cine,84.88,86.29,^8Price:^7 Probably a Konni outpost.,â,â
+cp_jup_apt_cine,86.29,88.16,^8Ghost:^7 That'd be my bet, Captain.,â,â
+cp_jup_apt_cine,88.16,89.96,^8Laswell:^7 I located the building.,â,â
+cp_jup_apt_cine,90.24,93.45,^8Laswell:^7 Recent Sat-imagery shows a recovery balloon on the roof.,â,â
+cp_jup_apt_cine,93.54,97.12,^8Gaz:^7 Only good reason for that is quick removal of something you don't want found.,â,â
+cp_jup_apt_cine,97.13,98.34,^8Soap:^7 Or someone...,â,â
+cp_jup_apt_cine,98.34,100.94,^8Laswell:^7 The complex is a maze.,â,â
+cp_jup_apt_cine,100.94,104.72,^8Price:^7 Gaz'll sweep from the bottom up. I'll overwatch the rooftop with fire support.,â,â
+cp_jup_apt_cine,104.72,106.23,^8Gaz:^7 How do we extract?,â,â
+cp_jup_apt_cine,106.23,107.65,^8Laswell:^7 Helo's too risky.,â,â
+cp_jup_apt_cine,107.65,112.18,^8Laswell:^7 You boys catch anything worth bringing home, Nik'll pull you out via fixed wing.,â,â
+cp_jup_apt_cine,112.18,113.6,^8Gaz:^7 The balloon...,â,â
+cp_jup_apt_cine,113.6,114.73,^8Price:^7 Skyhook.,â,â
+cp_jup_apt_cine,114.74,118,^8Laswell:^7 If Makarov's there. Get him, Bravo...,â,â
+cp_jup_apt_cine,118.18,121.2,^8Price:^7 Six to Watcher- drone is up, you should have visual.,â,â
+cp_jup_apt_cine,121.2,122.42,^8Laswell:^7 Eyes on, John.,â,â
+cp_jup_apt_cine,122.42,125.91,^8Price:^7 Got multiple Konni troops on the roof of the north building.,â,â
+cp_jup_apt_cine,125.92,128.45,^8Price:^7 No sign of Makarov.,â,â
+cp_jup_apt_cine,128.45,130.24,^8Laswell:^7 Who's our boy holding court?,â,â
+cp_jup_apt_cine,130.24,131.55,^8Price:^7 He appears to be in charge.,â,â
+cp_jup_apt_cine,131.55,134.2,^8Laswell:^7 I'll run it down. See if we can identify him.,â,â
+cp_jup_apt_cine,134.21,136,^8Price:^7 Copy. Gaz- you in position?,â,â
+cp_jup_chemical_cine,11.88,12.95,^9Makarov:^7 Milena.,â,â
+cp_jup_chemical_cine,13.25,15.82,^9Milena:^7 Welcome back, Vladimir.,â,1
+cp_jup_chemical_cine,15.82,17.36,^9Makarov:^7 You built us an army.,â,1
+cp_jup_chemical_cine,17.36,20.82,^9Milena:^7 Money well spent. And for the right cause.,â,1
+cp_jup_chemical_cine,21.66,23.17,^9Makarov:^7 My comrades...,â,â
+cp_jup_chemical_cine,23.17,25.21,^9Makrov:^7 We stand reunited!,â,â
+cp_jup_chemical_cine,25.46,27.11,^9Konni Soldiers:^7 Ura! Ura!!,â,1
+cp_jup_chemical_cine,27.12,31.84,^9Makarov:^7 For your efforts in my absence, and our success today, I offer you praise.,â,â
+cp_jup_chemical_cine,33.43,34.88,^9Makarov:^7 And punishment...,â,1
+cp_jup_chemical_cine,36.07,37.4,^9Makarov:^7 Ivan...,â,â
+cp_jup_chemical_cine,38.54,42.24,^9Makarov:^7 By not trusting my plan...,â,1
+cp_jup_chemical_cine,43.54,47.46,^9Makarov:^7 You wasted precious time.,â,1
+cp_jup_chemical_cine,47.71,49.53,^9Makarov:^7 And timing is everything...,â,1
+cp_jup_chemical_cine,49.53,51.99,^9Ivan:^7 Commander, respectfully, I-,â,1
+cp_jup_chemical_cine,51.32,53.02,^9Makarov:^7 Shhhhh, shhh....,â,â
+cp_jup_chemical_cine,55.49,61.2,^9Makarov:^7 Everyone should own their mistakes.,â,1
+cp_jup_chemical_cine,64,66.47,[gunshot],â,â
+cp_jup_chemical_cine,66.67,67.94,^9Makarov:^7 Andrei...,â,â
+cp_jup_chemical_cine,70.34,72.67,^9Makarov:^7 You've proven yourself.,â,1
+cp_jup_chemical_cine,73.11,76.51,^9Makarov:^7 From here on, you're team leader.,â,1
+cp_jup_chemical_cine,76.94,78.78,^9Andrei Nolan:^7 Thank you, commander.,â,1
+cp_jup_chemical_cine,79.48,84.45,^9Makarov:^7 My fellow warriors... I wasn't here, but I was always with you.,â,â
+cp_jup_chemical_cine,86.39,92.29,^9Makarov:^7 Since then, our enemies have grown stronger. The ULF have stolen back control of Urzikstan.,â,â
+cp_jup_chemical_cine,92.36,97.9,^9Makarov:^7 The time has come for us to show them the meaning of true power.,â,â
+cp_jup_chemical_cine,99.07,101.27,^9Makarov:^7 This is a battle of perception.,â,â
+cp_jup_chemical_cine,101.9,106.34,^9Makarov:^7 A lie flies, while the truth... it only crawls.,â,â
+cp_jup_chemical_cine,107.17,113.11,^9Makarov:^7 If you control what people believe, you control the world. This is our weapon.,â,â
+cp_jup_chemical_cine,113.95,118.82,^9Makarov:^7 And we will use it as a tool of war to restore glory to Russia!,â,â
+cp_jup_chemical_cine,118.82,121.53,^9Makarov:^7 The REAL Russia!!,â,â
+cp_jup_chemical_cine,121.53,122.75,^9Konni Soldiers:^7 Ura! Ura!!,â,1
+cp_jup_chemical_cine,123.69,127.16,^9Makarov:^7 The West... they love their choices.,â,â
+cp_jup_chemical_cine,127.83,129.8,^9Makarov:^7 They will have only one...,â,â
+cp_jup_chemical_cine,130.23,133.9,^9Makarov:^7 To respond on our terms.,â,â
+cp_jup_chemical_cine,136.77,139.67,^9Makarov:^7 Every second counts.,â,1
+cp_jup_chemical_cine,143.71,147.29,^8Laswell:^7 When Makarov escaped, he mobilized his army on multiple fronts.,â,â
+cp_jup_chemical_cine,147.29,150.65,^8Laswell:^7 Konni Group hit the Urzikstan Port before sunrise.,â,â
+cp_jup_chemical_cine,150.72,152.17,^8Laswell:^7 Farah was there.,â,â
+cp_jup_chemical_cine,152.17,153.64,^8Price:^7 She hurt?,â,â
+cp_jup_chemical_cine,153.64,158.24,^8Laswell:^7 Negative. Her team engaged, took casualties- left Konni with a kill count of her own.,â,â
+cp_jup_chemical_cine,158.24,161.15,^8Gaz:^7 Good on ya, Farah. What'd they get from the port?,â,â
+cp_jup_chemical_cine,161.15,163.23,^8Laswell:^7 A shipment of American missiles.,â,â
+cp_jup_chemical_cine,163.23,167.26,^8Soap:^7 Konni's got their own missiles... What does Makarov want these for?,â,â
+cp_jup_chemical_cine,167.26,171.8,^8Laswell:^7 We need to find out. I'm tracking them now. Once I get a fix, we'll action it.,â,â
+cp_jup_chemical_cine,171.81,176.04,^8Ghost:^7 You said multiple fronts, Laswell... Give us a target.,â,â
+cp_jup_chemical_cine,176.18,180.62,^8Laswell:^7 Konni forces are converging on a nuclear power plant in Urzikstan as we speak.,â,â
+cp_jup_chemical_cine,180.78,182.39,^8Price:^7 Is the plant active?,â,â
+cp_jup_chemical_cine,182.39,185.13,^8Laswell:^7 Abandoned when the ULF beat Barkov.,â,â
+cp_jup_chemical_cine,185.13,186.31,^8Gaz:^7 Then what's there?,â,â
+cp_jup_chemical_cine,186.31,188.54,^8Laswell:^7 All four of you- as soon as you can.,â,â
+cp_jup_chemical_cine,188.54,193.16,^8Price:^7 Rog. Ghost and I'll recce the plant. Soap and Gaz, secure the perimeter.,â,â
+cp_jup_chemical_cine,193.16,196.43,^8Price:^7 If Makarov's going nuclear, we'll stop him in his tracks.,â,â
+cp_jup_chemical_cine,196.43,200,^8Soap:^7 Solid copy. Let's get after it, Bravo.,â,â
+cp_jup_chemical_cine_outro,1.2,2.57,^8Price:^7 gasps,â,â
+cp_jup_chemical_cine_outro,4.64,6.44,^8Soap:^7 Mornin', sir.,â,â
+cp_jup_chemical_cine_outro,9.01,10.86,^8Price:^7 labored breathing,â,â
+cp_jup_chemical_cine_outro,10.11,11.42,^8Gaz:^7 Take it easy, Cap.,â,â
+cp_jup_chemical_cine_outro,12.48,14.61,^8Gaz:^7 You beat the gas, but you still need some time to recover.,â,â
+cp_jup_chemical_cine_outro,15.05,16.13,^8Price:^7 I'm fine.,â,â
+cp_jup_chemical_cine_outro,16.13,17.64,^8Gaz:^7 Got a headache? Nausea?,â,â
+cp_jup_chemical_cine_outro,18.35,19.76,^8Price:^7 Always.,â,â
+cp_jup_chemical_cine_outro,20.85,21.98,^8Gaz:^7 He's good.,â,â
+cp_jup_chemical_cine_outro,22.19,25.42,^8Soap:^7 Was worried your face was gonna melt off like those other poor bastards.,â,â
+cp_jup_chemical_cine_outro,25.43,28.02,^8Ghost:^7 If you ask me, it'd be an improvement.,â,â
+cp_jup_chemical_cine_outro,30.43,31.86,^8Price:^7 Konni got away with the chemicals?,â,â
+cp_jup_chemical_cine_outro,31.86,33.24,^8Ghost:^7 Affirmative.,â,â
+cp_jup_chemical_cine_outro,33.47,36.14,^8Price:^7 Makarov has been out of prison for six hours, and he's already ahead of us.,â,â
+cp_jup_chemical_cine_outro,36.15,38.06,^8Soap:^7 The fuck is in that gas?,â,â
+cp_jup_chemical_cine_outro,38.47,39.92,^8Gaz:^7 Remnants of Barkov's program.,â,â
+cp_jup_chemical_cine_outro,39.93,40.63,^8Soap:^7 Sarin?,â,â
+cp_jup_chemical_cine_outro,40.64,43.22,^8Ghost:^7 Highly concentrated... Far more lethal.,â,â
+cp_jup_chemical_cine_outro,43.34,45.42,^8Gaz:^7 One pod contaminated the whole area.,â,â
+cp_jup_chemical_cine_outro,47.18,49.55,^8Soap:^7 They made off with enough to kill a whole country.,â,â
+cp_jup_chemical_cine_outro,50.48,54.45,^8Price:^7 Right now, it's in Farah's backyard...,â,â
+cp_jup_chemical_cine_outro,55.39,57,^8Price:^7 We've gotta find her.,â,â
+cp_jup_dam_cine,0.67,3.68,^8Laswell:^7 Alright, General, what have you got?,â,â
+cp_jup_dam_cine,3.27,7.5,^8Shepherd:^7 Makarov aims to finish what he started in Verdansk.,â,â
+cp_jup_dam_cine,7.14,10.97,^8Shepherd:^7 He's ordered Konni to strike the Gora Dam at nightfall.,â,â
+cp_jup_dam_cine,10.64,14.1,^8Soap:^7 He blows the dam, it'll wash away the whole city.,â,â
+cp_jup_dam_cine,13.68,15.66,^8Gaz:^7 Countless lives will be lost.,â,â
+cp_jup_dam_cine,15.18,18.79,^8Price:^7 If he follows the playbook, he'll pin it on Farah and the West.,â,â
+cp_jup_dam_cine,18.28,20.36,^8Ghost:^7 Unless we stop it.,â,â
+cp_jup_dam_cine,19.89,25.46,^8Farah:^7 You handle the dam. Alex and my soldiers tracked Konni to an airstrip in Northern Urzikstan.,â,â
+cp_jup_dam_cine,24.96,27.91,^8Farah:^7 We believe it's Makarov forward operating base.,â,â
+cp_jup_dam_cine,27.49,29.99,^8Farah:^7 I'll be heading up an assault there in the morning.,â,â
+cp_jup_dam_cine,29.66,32.05,^8Price:^7 Your forces can't go it alone.,â,â
+cp_jup_dam_cine,31.66,34.84,^8Shepherd:^7 They won't. Shadow will provide air support.,â,â
+cp_jup_dam_cine,34.9,38.65,^8Soap:^7 We can't let Graves rain fire danger close to Farah and her troops.,â,â
+cp_jup_dam_cine,38.17,40.41,^8Farah:^7 I trust Shadow overhead.,â,â
+cp_jup_dam_cine,39.91,44.16,^8Shepherd:^7 You told me to put Graves on a leash, and that's what I'm gonna do.,â,â
+cp_jup_dam_cine,43.74,46.52,^8Price:^7 Keep it real short, General.,â,â
+cp_jup_dam_cine,46.05,48.24,^8Gaz:^7 You really do want a win.,â,â
+cp_jup_dam_cine,47.68,50.72,^8Shepherd:^7 You're damn right I do.,â,â
+cp_jup_dam_cine,50.22,53.46,^8Price:^7 Gaz and I deploy with Farah. Soap and Ghost take the dam.,â,â
+cp_jup_dam_cine,52.95,54.67,^8Ghost:^7 Rog.,â,â
+cp_jup_dam_cine,53.95,57.56,^8Laswell:^7 Nik will provide transport. I'll put a predator up for eyes.,â,â
+cp_jup_dam_cine,57.99,60.47,^8Price:^7 Don't get compromised.,â,â
+cp_jup_dam_cine,60.06,61.73,^8Soap:^7 We won't, sir.,â,â
+cp_jup_dam_cine,61.23,63.66,^8Farah:^7 Keep your guard up and stay sharp.,â,â
+cp_jup_dam_cine,63.43,64.93,^8Farah:^7 Good luck, everyone.,â,â
+cp_jup_port_cine,9.94,12.45,^8Jumpmaster:^7 30 seconds to the DZ!,â,â
+cp_jup_port_cine,23.69,26.23,^8Laswell:^7 Watcher-1 to Bravo-6... Watcher to Bravo, over.,â,â
+cp_jup_port_cine,26.29,27.53,^8Captain John Price:^7 Laswell, go for 6.,â,â
+cp_jup_port_cine,27.59,29.93,^8Laswell:^7 John - Makarov is out!,â,â
+cp_jup_port_cine,32.9,34.17,^8Captain John Price:^7 Say again, Laswell.,â,â
+cp_jup_port_cine,34.23,37.64,^8Laswell:^7 Makarov is OUT! He's on the move, John.,â,â
+cp_jup_port_cine,38.47,39.61,^8Captain John Price:^7 ABORT!,â,â
+cp_jup_port_cine,39.67,42.68,^8Captain John Price:^7 Turn us around! Turn us around, NOW!,â,â
+cp_jup_port_cine,49.2,52.54,URZIKSTAN,â,â
+cp_jup_port_cine,58.89,60.06,^8Farah:^7 [whistles],â,â
+cp_jup_port_cine,61.33,64.3,^8Farah:^7 Shadow 2, Kilo Actual. At the port now.,â,â
+cp_jup_port_cine,64.36,66.63,^8Farah:^7 Will confirm when cargo's is in my possession, stand by.,â,â
+cp_jup_port_cine,66.7,67.7,^8Graves:^7 Roger that, Kilo.,â,â
+cp_jup_port_cine,67.77,69.1,^8Alex:^7 We good to go?,â,â
+cp_jup_port_cine,69.7,70.84,^8Farah:^7 So far.,â,â
+cp_jup_port_cine,72.57,74.34,^8Alex:^7 This is a game changer.,â,â
+cp_jup_port_cine,75.11,76.98,^8Farah:^7 Let's hope we never have to use them.,â,â
+cp_jup_port_cine,77.44,78.98,^8Farah:^7 Hold a perimeter.,â,1
+cp_jup_port_cine,79.05,80.21,^8Farah:^7 Stay on comms.,â,â
+cp_jup_port_cine,80.28,81.65,^8Alex:^7 Roger that.,â,â
+cp_jup_port_cine,88.29,88.99,^8Farah:^7 Dena...,â,â
+cp_jup_port_cine,89.02,89.79,^8Dena:^7 Farah.,â,â
+cp_jup_port_cine,94.26,95.7,^8Farah:^7 Your mother is well?,â,1
+cp_jup_port_cine,95.76,97.86,^8Dena:^7 She's a fighter. Like you.,â,1
+cp_jup_port_cine,99.27,100.34,^8Dena:^7 Come.,â,1
+cp_jup_port_cine,109.54,112.71,^8Dena:^7 I've done everything you've asked. Your containers are secure.,â,1
+cp_jup_port_cine,112.78,114.98,^8Dena:^7 The port's empty except for us.,â,1
+cp_jup_port_cine,115.05,116.38,^8Farah:^7 And the harbor?,â,1
+cp_jup_port_cine,116.45,118.22,^8Dena:^7 Closed since yesterday.,â,1
+cp_jup_port_cine,118.28,119.56,^8Farah:^7 Good.,â,1
+cp_jup_port_cine,121.82,122.8,^8Dena:^7 Farah...,â,1
+cp_jup_port_cine,123.29,125.29,^8Dena:^7 This is not my business, but...,â,1
+cp_jup_port_cine,126.53,127.75,^8Farah:^7 Tell me.,â,1
+cp_jup_port_cine,128.6,130.83,^8Dena:^7 This cargo must be very powerful...,â,1
+cp_jup_port_cine,131.16,132.53,^8Farah:^7 It is.,â,1
+cp_jup_port_cine,133,136.14,^8Dena:^7 After all these years, Urzikstan has peace again.,â,1
+cp_jup_port_cine,136.2,138.34,^8Dena:^7 We are living our lives.,â,1
+cp_jup_port_cine,140.97,142.14,^8Dena:^7 Please...,â,1
+cp_jup_port_cine,142.21,145.34,^8Dena:^7 Do what you must to keep it that way.,â,1
+cp_jup_port_cine,145.55,147.18,^8Dena:^7 We're all with you.,â,1
+cp_jup_port_cine,147.49,149.32,^8Farah:^7 Of course.,â,1
+cp_jup_port_cine,152.49,154.56,^8Dena:^7 Your containers are on the-,â,1
+cp_jup_port_cine,155.29,156.89,^8Farah:^7 Dena! Dena!!,â,â
+cp_jup_port_cine,156.96,159.43,^8Farah:^7 Fuck! Fuck!!,â,1
+cp_jup_port_cine_outro,0,3.78,^8Farah:^7 All stations, last tracker on. Konni's leaving with both the missiles.,â,â
+cp_jup_port_cine_outro,4.21,7.2,^8Graves:^7 Solid copy. You did what needed to be done, Farah.,â,â
+cp_jup_port_cine_outro,7.54,9.07,^8Graves:^7 Make sure you do the rest.,â,â
+cp_jup_port_cine_outro,9.16,10.66,^8Farah:^7 Echo, how copy?,â,â
+cp_jup_port_cine_outro,10.81,14.99,^8Alex:^7 Loud and clear, Farah. Konni's pulling up stakes. They got what they wanted.,â,â
+cp_jup_port_cine_outro,15,18.46,^8Farah:^7 We live to fight another day... It's not over.,â,â
+cp_jup_port_cine_outro,27.23,29.4,^8Alex:^7 Echo to Kilo, you clear?,â,â
+cp_jup_port_cine_outro,30.7,33.07,^8Farah:^7 All clear. Press up.,â,â
+cp_jup_port_cine_outro,33.57,36,^8Alex:^7 Roger. Comin' your way.,â,â
+cp_jup_port_cine_outro,38.14,40.07,^8Farah:^7 I'm sorry, Dena.,â,1
+cp_jup_port_cine_outro,41.31,43.68,^8Farah:^7 I will make them pay...,â,1
+cp_jup_port_cine_outro,45.01,46.38,^8Farah:^7 I promise.,â,1
+cp_jup_port_cine_outro,49.02,50.25,^8Alex:^7 Commander?,â,â
+cp_jup_port_cine_outro,59.76,62.33,^8Farah:^7 Our missiles were meant to be a deterrent.,â,â
+cp_jup_port_cine_outro,62.93,64.67,^8Farah:^7 Peace through strength.,â,â
+cp_jup_port_cine_outro,64.73,67.5,^8Alex:^7 War always finds its way back to this place.,â,â
+cp_jup_port_cine_outro,67.67,69.28,^8Farah:^7 It never left.,â,â
+cp_jup_port_cine_outro,69.3,71.19,^8Alex:^7 Russia wants this country.,â,â
+cp_jup_port_cine_outro,71.2,72.95,^8Farah:^7 They can't have it.,â,â
+cp_jup_port_cine_outro,74.54,75.88,^8Alex:^7 What's next?,â,â
+cp_jup_port_cine_outro,78.41,80.24,^8Farah:^7 Tracking those containers.,â,â
+cp_jup_port_cine_outro,80.58,81.63,^8Alex:^7 I'm comin' with you.,â,â
+cp_jup_port_cine_outro,81.64,82.7,^8Farah:^7 No.,â,â
+cp_jup_port_cine_outro,83.98,86.95,^8Farah:^7 Take care of our KIA and alert our forces.,â,â
+cp_jup_port_cine_outro,87.62,89.7,^8Farah:^7 Tell them Russia's back in Urzikstan.,â,â
+cp_jup_port_cine_outro,90.29,92.45,^8Alex:^7 Shadow Company's got skin in the game...,â,â
+cp_jup_port_cine_outro,92.66,94.39,^8Alex:^7 They're gonna want a piece of this.,â,â
+cp_jup_port_cine_outro,94.39,95.4,^8Farah:^7 True.,â,â
+cp_jup_port_cine_outro,96.16,98.76,^8Farah:^7 There's someone else I have to contact first.,â,â
+cp_jup_port_cine_outro,102.27,103.34,^8Alex:^7 [whistles],â,â
+cp_jup_ranch_cine,2.96,5.64,^3News Anchor 5:^7 We need to update you on the breaking news of a Russian passenger jet that crashed...,â,â
+cp_jup_ranch_cine,4.9,9.7,^3News Anchor 1:^7 A hundred and thirty-three passengers and nine crew members were on board the flight...,â,â
+cp_jup_ranch_cine,9.24,11.37,^3News Anchor 2:^7 ...suspected it may have been deliberately crashed...,â,â
+cp_jup_ranch_cine,10.99,12.22,^3News Anchor 3:^7 ...descending very rapidly...,â,â
+cp_jup_ranch_cine,12.58,13.43,^3News Anchor 5:^7 ...Unexplained descent...,â,â
+cp_jup_ranch_cine,13.43,18.67,^3News Anchor 4:^7 ...the cockpit voice recorder, that is a crucial part of the investigative process...,â,â
+cp_jup_ranch_cine,17.74,20.6,^3News Anchor 2:^7 ...video from passenger cell phones could also shed light...,â,â
+cp_jup_ranch_cine,19.97,23.55,^3News Anchor 3:^7 Just hours after a missile attack on Arklov Military Base...,â,â
+cp_jup_ranch_cine,23.21,26.49,^3News Anchor 4:^7 ...suffered massive casualties when they...,â,â
+cp_jup_ranch_cine,25.85,29.13,^3News Anchor 5:^7 ...could be related in what looks like a possible terrorist attack...,â,â
+cp_jup_ranch_cine,27.78,30.95,^3News Anchor 1:^7 ...will not tolerate terrorists of any sort...,â,â
+cp_jup_ranch_cine,29.71,32.58,^3News Anchor 4:^7 Moscow is investigating. But tensions haven't been this high...,â,â
+cp_jup_ranch_cine,33.12,35.35,^8Price:^7 This has got Makarov written all over it.,â,â
+cp_jup_ranch_cine,35.35,39.49,^8Laswell:^7 He's done more damage in 72 hours than Konni did in five years without him.,â,â
+cp_jup_ranch_cine,39.49,42.04,^8Farah:^7 That airliner went down in my country.,â,â
+cp_jup_ranch_cine,42.04,43.3,^8Price:^7 It was no accident.,â,â
+cp_jup_ranch_cine,43.3,45.89,^8Farah:^7 I need to get to that crash site and prove it.,â,â
+cp_jup_ranch_cine,45.89,50.48,^8Laswell:^7 ICAO data shows that it was a flight out of Kastovia bound for Sochi.,â,â
+cp_jup_ranch_cine,50.48,52.88,^8Laswell:^7 It lost contact in this region.,â,â
+cp_jup_ranch_cine,52.88,54.11,^8Farah:^7 That's all I need.,â,â
+cp_jup_ranch_cine,54.11,56.2,^8Laswell:^7 You'll have to get there before authorities arrive.,â,â
+cp_jup_ranch_cine,56.41,58.62,^8Farah:^7 It's not the authorities I'm worried about...,â,â
+cp_jup_ranch_cine,58.62,60.22,^8Price:^7 Good luck, Farah...,â,â
+cp_jup_ranch_cine,62.09,64.73,URZIKSTAN,â,â
+cp_jup_ranch_cine,98.62,100.45,^8Alex:^7 Crash site - over the ridge.,â,â
+cp_jup_ranch_cine,100.45,101.89,^8Farah:^7 I see it.,â,â
+cp_jup_ranch_cine,102.61,104.44,^8Farah:^7 Poor souls.,â,1
+cp_jup_ranch_cine,104.44,106.42,^8Alex:^7 Somebody beat us here.,â,â
+cp_jup_ranch_cine,108.11,109.73,^8Farah:^7 Russian PMCs.,â,â
+cp_jup_ranch_cine,110.6,112.12,^8Farah:^7 Konni group.,â,â
+cp_jup_ranch_cine,112.12,113.41,^8Alex:^7 Makarov...,â,â
+cp_jup_ranch_cine,113.41,115.46,^8Farah:^7 He'll blame us for this too.,â,â
+cp_jup_ranch_cine,116.89,119.33,^8Farah:^7 We need to find out what happened on that flight.,â,â
+cp_jup_ranch_cine,119.33,121.07,^8Farah:^7 Show the world it wasn't us.,â,â
+cp_jup_ranch_cine,121.07,124.05,^8Farah:^7 I wont have them call us terrorists... Not again.,â,â
+cp_jup_ranch_cine,125.7,127.02,^8Alex:^7 What're you doin'...?,â,â
+cp_jup_ranch_cine,127.02,128.65,^8Farah:^7 Going down there...,â,â
+cp_jup_ranch_cine,128.65,131.24,^8Alex:^7 Farah, there's at least 20 guns holding that area.,â,â
+cp_jup_ranch_cine,132.67,134.6,^8Alex:^7 What do you need from me?,â,â
+cp_jup_ranch_cine,134.6,136.93,^8Farah:^7 Overwatch. Take some high-ground and cover me.,â,â
+cp_jup_ranch_cine,136.94,136.94,^8Alex:^7 Yes, ma'am.,â,â
+cp_jup_resort_cine,1.84,3.36,^8Price:^7 I shouldn't have stopped you.,â,â
+cp_jup_resort_cine,3.7,6.03,^8Soap:^7 Was the right thing at the time, Captain.,â,â
+cp_jup_resort_cine,6.03,7.51,^8Ghost:^7 At the time...,â,â
+cp_jup_resort_cine,8.74,10.79,[incoming call alert],â,â
+cp_jup_resort_cine,9.82,12.28,^8Laswell:^7 Secure transmission, Pentagon ID.,â,â
+cp_jup_resort_cine,12.45,14.36,^8Nikolai:^7 I don't have a clearance, I'll go.,â,â
+cp_jup_resort_cine,13.68,15.88,^8Price:^7 No, Nik. Stay.,â,â
+cp_jup_resort_cine,17.78,20.04,^8General Shepherd:^7 Kate. Let's talk.,â,â
+cp_jup_resort_cine,21.86,24.02,^8Price:^7 I've been lookin' for you.,â,â
+cp_jup_resort_cine,24.26,27.56,^8Shepherd:^7 John... It's a family affair. Even better.,â,â
+cp_jup_resort_cine,27.56,28.66,^8Price:^7 What do you want?,â,â
+cp_jup_resort_cine,28.73,31.02,^8Shepherd:^7 Vladimir Makarov, same as you.,â,â
+cp_jup_resort_cine,31.86,33.44,^8Laswell:^7 Go on, General.,â,â
+cp_jup_resort_cine,34.5,37.35,^8Shepherd:^7 I got a lead on Makarov's bankroll-,â,â
+cp_jup_resort_cine,37.35,38.4,^8Soap:^7 We're not looking for money.,â,â
+cp_jup_resort_cine,38.41,41.23,^8Shepherd:^7 Soap, you find the money, you find the man.,â,â
+cp_jup_resort_cine,41.23,44.55,^8Gaz:^7 Where are you gettin' intel? Without an army, you got nothin'.,â,â
+cp_jup_resort_cine,44.74,46.78,^8Graves:^7 Wrong again, boys.,â,â
+cp_jup_resort_cine,47.51,49.88,^8Soap:^7 Un-fuckin'-believable.,â,â
+cp_jup_resort_cine,49.88,52.37,^8Graves:^7 Soap... you miss me?,â,â
+cp_jup_resort_cine,52.38,54.9,^8Graves:^7 Well, technically, you did, didn't you?,â,â
+cp_jup_resort_cine,54.9,58.18,^8Ghost:^7 Laswell, if you're tracking this, let's call an airstrike.,â,â
+cp_jup_resort_cine,58.19,60.09,^8Graves:^7 Ghost, that is not nice.,â,â
+cp_jup_resort_cine,60.09,61.39,^8Soap:^7 What are you up to?,â,â
+cp_jup_resort_cine,61.4,64.06,^8Graves:^7 I'm up to doing my fuckin' job, kid, you should try it sometime.,â,â
+cp_jup_resort_cine,64.06,67.21,^8Soap:^7 My fuckin' job is to kill the enemy...,â,â
+cp_jup_resort_cine,67.83,68.83,^8Soap:^7 Guess what you are.,â,â
+cp_jup_resort_cine,68.84,71.64,^8Shepherd:^7 Let's keep this professional, boys.,â,â
+cp_jup_resort_cine,72.07,75.24,^8Shepherd:^7 Captain, let me paint you the bigger picture...,â,â
+cp_jup_resort_cine,75.71,80.78,^8Shepherd:^7 You need Makarov in a pine box and I've got the nails.,â,â
+cp_jup_resort_cine,81.08,82.77,^8Laswell:^7 In exchange for what?,â,â
+cp_jup_resort_cine,82.77,84.65,^8Shepherd:^7 A way back.,â,â
+cp_jup_resort_cine,84.65,89.36,^8Shepherd:^7 I'm not goin' out like this. I want my name on a win.,â,â
+cp_jup_resort_cine,89.86,92.76,^8Shepherd:^7 Check your inbox, Kate. I'll be in touch.,â,â
+cp_jup_resort_cine,98.87,100.4,^8Laswell:^7 I got a name and a location.,â,â
+cp_jup_resort_cine,100.4,102.66,^8Price:^7 I am not sending my men on a mission from him.,â,â
+cp_jup_resort_cine,102.45,104.66,^8Laswell:^7 This isn't a mission, John, this is intel.,â,â
+cp_jup_resort_cine,103.04,106.21,^8Price:^7 No way. He is a fucking liar, Kate.,â,â
+cp_jup_resort_cine,106.44,109.32,^8Laswell:^7 I'm CIA, John, I know all about lies.,â,â
+cp_jup_resort_cine,110.04,111.48,^8Laswell:^7 So do you.,â,â
+cp_jup_resort_cine,113.75,114.95,^8Gaz:^7 Captain...,â,â
+cp_jup_resort_cine,115.12,117.42,^8Gaz:^7 We do deals for intel all the time.,â,â
+cp_jup_resort_cine,117.92,119.59,^8Gaz:^7 This is no different.,â,â
+cp_jup_resort_cine,120.42,121.62,^8Soap:^7 He's right.,â,â
+cp_jup_resort_cine,122.59,124.76,^8Soap:^7 Road to hell or not, Garrick's right.,â,â
+cp_jup_resort_cine,124.82,126.99,^8Ghost:^7 Boss, we got this.,â,â
+cp_jup_resort_cine,127.13,128.96,^8Ghost:^7 Johnny, you with me?,â,â
+cp_jup_resort_cine,128.96,130.56,^8Soap:^7 You know it, LT.,â,â
+cp_jup_resort_cine,132.93,134.57,^8Price:^7 You watch your backs.,â,â
+cp_jup_resort_cine,135.44,136.5,^8Price:^7 Alright?,â,â
+cp_jup_resort_cine,141.57,143.44,^8Ghost:^7 What did we get from Shepherd?,â,â
+cp_jup_resort_cine,143.48,145.54,^8Soap:^7 How much of it came from Graves?,â,â
+cp_jup_resort_cine,145.55,147.44,^8Laswell:^7 They're partners in crime, boys.,â,â
+cp_jup_resort_cine,147.45,148.88,^8Ghost:^7 Literally.,â,â
+cp_jup_resort_cine,148.88,150.72,^8Soap:^7 Right now, they're our partners.,â,â
+cp_jup_resort_cine,150.72,153.15,^8Laswell:^7 I vetted their intel... It's good.,â,â
+cp_jup_resort_cine,153.15,160.09,^8Laswell:^7 They found Makarov's financier. She's an oligarch named Milena Romanova. Been doing Makarov's bidding behind the scenes for years.,â,â
+cp_jup_resort_cine,160.09,161.36,^8Ghost:^7 Where is she?,â,â
+cp_jup_resort_cine,161.36,162.83,^8Laswell:^7 A private island.,â,â
+cp_jup_resort_cine,162.83,164.56,^8Soap:^7 Isolated and remote...,â,â
+cp_jup_resort_cine,164.56,168.5,^8Laswell:^7 It's a fortress in paradise. Guess who runs security...,â,â
+cp_jup_resort_cine,168.5,169.88,^8Ghost:^7 Konni Group.,â,â
+cp_jup_resort_cine,169.88,173.14,^8Laswell:^7 The intel included blueprints and the lay o' the land.,â,â
+cp_jup_resort_cine,173.14,175.91,^8Soap:^7 What are we looking for? We can't roll up Milena.,â,â
+cp_jup_resort_cine,175.91,179.34,^8Laswell:^7 Not legally. But we can roll up her money.,â,â
+cp_jup_resort_cine,179.35,181.91,^8Laswell:^7 Island's got servers that can get us into her banking.,â,â
+cp_jup_resort_cine,181.92,184.82,^8Ghost:^7 We need to get past her security protocols.,â,â
+cp_jup_resort_cine,184.82,189.55,^8Laswell:^7 Someone out there has a FOB key. We find him, I can get a live line and crack it.,â,â
+cp_jup_resort_cine,189.56,192.16,^8Soap:^7 We'll infil from the water and split up.,â,â
+cp_jup_resort_cine,192.16,195.66,^8Soap:^7 I'll go for the FOB key. Ghost secures the rear perimeter.,â,â
+cp_jup_resort_cine,195.66,196.96,^8Ghost:^7 We'll need eyes.,â,â
+cp_jup_resort_cine,196.96,199.16,^8Laswell:^7 I'll pilot a drone and coordinate from the air.,â,â
+cp_jup_resort_cine,199.17,200.93,^8Ghost:^7 I like what I'm hearin'.,â,â
+cp_jup_resort_cine,200.93,203,^8Soap:^7 Let's go follow the money.,â,â
+cp_jup_resort_cine_outro,0.07,2.37,^8Soap:^7 Sit down, Milena.,â,â
+cp_jup_resort_cine_outro,7.01,7.87,^8Soap:^7 Where's your boss?,â,â
+cp_jup_resort_cine_outro,7.88,10.88,^9Milena:^7 I don't have a boss. No one tells me what to do.,â,â
+cp_jup_resort_cine_outro,12.28,13.81,^8Laswell (over comms):^7 How we doin', boys?,â,â
+cp_jup_resort_cine_outro,13.81,15.31,^8Soap:^7 She's not talking.,â,â
+cp_jup_resort_cine_outro,15.32,17.22,^8Ghost:^7 She's about to.,â,â
+cp_jup_resort_cine_outro,22.62,23.82,^8Soap:^7 Give me your hand.,â,â
+cp_jup_resort_cine_outro,23.82,25.86,^9Milena:^7 Why? Or else you'll cut it off?,â,â
+cp_jup_resort_cine_outro,25.86,27.53,^8Soap:^7 Not my style.,â,â
+cp_jup_resort_cine_outro,27.53,28.7,^8Soap:^7 He might.,â,â
+cp_jup_resort_cine_outro,29.56,31.06,^9Milena:^7 Why the mask?,â,â
+cp_jup_resort_cine_outro,31.06,32.27,^8Ghost:^7 To hide my face.,â,â
+cp_jup_resort_cine_outro,41.44,42.68,^8Laswell:^7 We're in.,â,â
+cp_jup_resort_cine_outro,44.88,47.75,^9Milena:^7 Nothing in my banking will get you any closer to Vladimir.,â,â
+cp_jup_resort_cine_outro,47.75,49.45,^8Soap:^7 We'll see about that.,â,â
+cp_jup_resort_cine_outro,49.45,54.59,^8Laswell:^7 There's multiple Konni Group accounts hiding in plain sight. Several recent transfers to Zordaya Prison...,â,â
+cp_jup_resort_cine_outro,54.59,55.55,^8Ghost:^7 The Gulag...,â,â
+cp_jup_resort_cine_outro,55.56,58.02,^8Soap:^7 Money for Makarov's escape.,â,â
+cp_jup_resort_cine_outro,58.02,60.52,^9Milena:^7 Wealth opens doors.,â,â
+cp_jup_resort_cine_outro,60.53,64.2,^8Soap:^7 Let's withdraw a few rubles from Makarov's coffers then, shall we?,â,â
+cp_jup_resort_cine_outro,65.13,66.4,^8Laswell:^7 Done.,â,â
+cp_jup_resort_cine_outro,66.4,68.3,^8Laswell:^7 Let me know if we hit a nerve.,â,â
+cp_jup_resort_cine_outro,68.57,71.6,^8Soap:^7 85 million of Makarov's transferred to a CIA black fund.,â,â
+cp_jup_resort_cine_outro,71.6,75.91,^9Milena:^7 Vladimir's... work... is already bought and paid for.,â,â
+cp_jup_resort_cine_outro,77.04,79.21,^9Milena:^7 You're not very good at this.,â,â
+cp_jup_resort_cine_outro,79.21,82.38,^8Soap:^7 Neither are you. All your men are dead and your accounts are wide open.,â,â
+cp_jup_resort_cine_outro,82.38,84.98,^9Milena:^7 Your stealing from Makarov's future, not mine.,â,â
+cp_jup_resort_cine_outro,84.98,87.45,^8Laswell:^7 Ahh... Soap, do you hear that?,â,â
+cp_jup_resort_cine_outro,87.45,88.69,^8Soap:^7 I did.,â,â
+cp_jup_resort_cine_outro,89.22,90.49,^8Laswell:^7 Let's make this personal.,â,â
+cp_jup_resort_cine_outro,90.49,94.16,^8Ghost:^7 We need to get off the X. Make this happen or we take her with us.,â,â
+cp_jup_resort_cine_outro,94.16,96.29,^8Laswell:^7 Suisse National Bank...,â,â
+cp_jup_resort_cine_outro,96.3,99.33,^8Soap:^7 This is your personal account, huh?,â,â
+cp_jup_resort_cine_outro,99.33,100.76,^8Ghost:^7 Money's hardly been touched.,â,â
+cp_jup_resort_cine_outro,100.77,101.8,^8Soap:^7 It will be.,â,â
+cp_jup_resort_cine_outro,101.8,104.67,^9Milena (Russian):^7 Who the hell do you think you are?,â,1
+cp_jup_resort_cine_outro,104.67,106.93,^8Laswell:^7 Looks like we found our pressure point, boys.,â,â
+cp_jup_resort_cine_outro,107.07,107.91,^8Soap:^7 Let's drain it.,â,â
+cp_jup_resort_cine_outro,107.91,108.91,^9Milena:^7 Don't- don't you fucking dare!,â,â
+cp_jup_resort_cine_outro,108.91,110.54,^8Soap:^7 Something wrong, Ms. Romanova?,â,â
+cp_jup_resort_cine_outro,110.54,115.21,^9Milena:^7 I don't know Makarov's plans. I am a financier, nothing more!,â,â
+cp_jup_resort_cine_outro,115.22,117.08,^8Ghost:^7 Give him your print.,â,â
+cp_jup_resort_cine_outro,117.08,119.45,^8Soap:^7 Or tell us where to find Makarov.,â,â
+cp_jup_resort_cine_outro,119.45,122.59,^9Milena:^7 Fuck you. And that little birdie in your ear.,â,â
+cp_jup_resort_cine_outro,122.59,124.66,^9Milena:^7 That account is MY money!,â,â
+cp_jup_resort_cine_outro,124.69,127.09,^9Milena:^7 I fought for it! I earned it!,â,â
+cp_jup_resort_cine_outro,127.29,129.16,^8Laswell:^7 One more push and we got her...,â,â
+cp_jup_resort_cine_outro,129.16,131,^8Soap:^7 Last call or he takes over.,â,â
+cp_jup_resort_cine_outro,131,132.7,^9Milena:^7 He'll know you were here.,â,â
+cp_jup_resort_cine_outro,133.02,136.1,^9Milena:^7 I'm as good as dead without my money. I need my money!,â,â
+cp_jup_resort_cine_outro,136.1,140.74,^8Ghost:^7 We need Makarov. Where is he?,â,â
+cp_jup_resort_cine_outro,142.07,143.48,^9Milena:^7 Vostok!,â,â
+cp_jup_resort_cine_outro,146.81,150.72,^9Milena:^7 There's a wire transfer to Vostok Capital in St. Petersburg.,â,â
+cp_jup_resort_cine_outro,151.65,156.59,^9Milena:^7 Vladimir buys old properties, abandoned buildings... I don't know how he uses them.,â,â
+cp_jup_resort_cine_outro,157.36,159.36,^9Milena:^7 That's all I can tell you!,â,â
+cp_jup_resort_cine_outro,159.49,161.79,^8Laswell:^7 I see it. That's all we need.,â,â
+cp_jup_resort_cine_outro,162.73,164.63,^8Soap:^7 Pleasure doin' business with you.,â,â
+cp_jup_resort_cine_outro,166.63,168.27,^8Ghost:^7 Good chat.,â,â
+cp_jup_resort_cine_outro,169.24,172.77,^9Milena:^7 When you beg him for your lives, he won't let you have them!,â,â
+cp_jup_resort_cine_outro,174.04,176.01,^9Milena (Russian):^7 I'll see you both in hell!,â,1
+cp_lone_cine_intro,1.23,6.94,^8Laswell:^7 Breaker-1, intel reports the Las Almas Cartel set up shop at Hafid Port in Al Mazrah.,â,â
+cp_lone_cine_intro,7.26,12.14,^8Laswell:^7 AQ runs oil through this port. They laid the groundwork for the cartel to move in.,â,â
+cp_lone_cine_intro,12.73,15.96,^8Laswell:^7 Their alliance is still strong. We need to shut this down.,â,â
+cp_lone_cine_intro,16.65,23.59,^8Laswell:^7 ISR reports heavy traffic around these five objectives Alpha, Bravo, Charlie, Delta and Echo.,â,â
+cp_lone_cine_intro,23.75,27.21,^8Laswell:^7 We need you to secure those objectives and retake the port.,â,â
+cp_lone_cine_intro,28.11,33.97,^8Laswell:^7 A Los Vaqueros partner force will provide mobile infil, and I'll have a UAV on station to provide eyes from above.,â,â
+cp_lone_cine_intro,34.36,39.96,^8Laswell:^7 The Las Almas Cartel boss, El Sin Nombre, is out of prison and crossed an ocean to take this port.,â,â
+cp_lone_cine_intro,40.22,43.89,^8Laswell:^7 Once this kicks off, they'll dig in hard to hold their ground.,â,â
+cp_lone_cine_intro,44.36,48.09,^8Laswell:^7 They'll sooner destroy their own supply before they'll let anyone take it.,â,â
+cp_lone_cine_intro,48.38,51.59,^8Laswell:^7 You have full execute authority against all hostiles on target.,â,â
+cp_lone_cine_intro,51.59,54.19,^8Laswell:^7 Keep your weapons hot. Out here...,â,â
+cp_obsv_cine_intro,0,4.29,^8Laswell:^7 Breaker-1, Al Qatala has launched an assault on the Zaya Observatory.,â,â
+cp_obsv_cine_intro,4.29,8.88,^8Laswell:^7 It sits on high ground in key terrain. Critical to the control of Al Mazrah.,â,â
+cp_obsv_cine_intro,9.56,10.65,^8Laswell:^7 AQ wants it.,â,â
+cp_obsv_cine_intro,10.66,13.97,^8Laswell:^7 Security for the observatory was contracted to Shadow Company.,â,â
+cp_obsv_cine_intro,13.97,21.08,^8Laswell:^7 Due to recent failures with their command structure, the PMCs pulled up stakes and abandoned their posts.,â,â
+cp_obsv_cine_intro,21.08,25.14,^8Laswell:^7 An elite unit of Demon Dog Marines were sent to defend the site.,â,â
+cp_obsv_cine_intro,25.14,26.65,^8Laswell:^7 They need help.,â,â
+cp_obsv_cine_intro,26.65,33.45,^8Laswell:^7 Your mission is to stop AQ's army from taking the observatory and with it, a strategic advantage in the region.,â,â
+cp_obsv_cine_intro,33.46,40.7,^8Laswell:^7 My pilot will land you directly on the observatory, where you will support the Demon Dogs in the defense of these three critical objectives,â,â
+cp_obsv_cine_intro,40.71,41.88,^8Laswell:^7 Point Alpha...,â,â
+cp_obsv_cine_intro,42.33,43.49,^8Laswell:^7 Point Bravo...,â,â
+cp_obsv_cine_intro,43.53,44.66,^8Laswell:^7 And Point Charlie...,â,â
+cp_obsv_cine_intro,44.66,50.08,^8Laswell:^7 You'll be outnumbered and outgunned, but failure is not an option.,â,â
+cp_obsv_cine_intro,50.08,51.97,^8Laswell:^7 I'll be with you on comms.,â,â
+cp_obsv_cine_intro,52.65,54,^8Laswell:^7 Let's go get it done.,â,â
+cp_raid1_cine_intro,0.46,6.04,^8Laswell:^7 48 hours ago, goat herders in the Sattiq mountains discovered an entrance to what appeared,â,â
+cp_raid1_cine_intro,6.05,9.28,^8Laswell:^7 to be an abandoned bunker dug into the hillside.,â,â
+cp_raid1_cine_intro,9.76,17.72,^8Laswell:^7 Closer inspection determined the hatchway was an inlet to what could be a fortified Soviet-era fallout shelter...,â,â
+cp_raid1_cine_intro,17.72,19.47,^8Laswell:^7 or something more...,â,â
+cp_raid1_cine_intro,19.59,27.3,^8Laswell:^7 Commander Farah Karim tasked a follow-on team of LF fighters led by Alex Keller, callsign Echo 3-1, to make entry.,â,â
+cp_raid1_cine_intro,27.3,29.75,^8Laswell:^7 He and his team haven't been heard from since their initial infil,â,â
+cp_raid1_cine_intro,30.24,36.32,^8Laswell:^7 except for one update from Alex indicating that the tunnels were wider and more extensive than first reported.,â,â
+cp_raid1_cine_intro,36.6,41.28,^8Laswell:^7 Again-- that was his last and only message after confirming entrance.,â,â
+cp_raid1_cine_intro,41.73,43.87,^8Laswell:^7 As of now, they're dark on comms.,â,â
+cp_raid1_cine_intro,43.87,46.42,^8Laswell:^7 Farah has since sent scouts to hold the area.,â,â
+cp_raid1_cine_intro,46.42,54.18,^8Laswell:^7 Price, Gaz, Farah-- Your mission is to locate Alex and the LF team and do a complete and thorough reconnaissance of the facility.,â,â
+cp_raid1_cine_intro,54.18,59.65,^8Laswell:^7 IF anyone or anything is down there. We need to know who and what...,â,â
+cp_raid1_cine_intro,78.17,79.68,^8Gaz:^7 We close?,â,â
+cp_raid1_cine_intro,79.68,81.07,^8Farah:^7 No-,â,â
+cp_raid1_cine_intro,81.19,82.86,^8Farah:^7 We're here.,â,â
+cp_raid1_cine_intro,83.87,85.61,^8Price:^7 Take point.,â,â
+cp_raid1_cine_intro,96.41,98.15,^8Price:^7 Alex's rig...,â,â
+cp_raid1_cine_intro,98.38,99.44,^8Farah:^7 This is where they went in.,â,â
+cp_raid1_cine_intro,99.44,100.72,^8Gaz:^7 And never came back up...,â,â
+cp_raid1_cine_intro,100.73,102.24,^8Price:^7 Eyes front.,â,â
+cp_raid1_cine_intro,106.31,108.05,^8Farah:^7 [whistles],â,â
+cp_raid1_cine_intro,108.76,110.39,[whistles],â,â
+cp_raid1_cine_intro,123.39,124.79,^8Malika:^7 [Commander.],â,1
+cp_raid1_cine_intro,124.79,125.38,^8Farah:^7 [Any movement?],â,1
+cp_raid1_cine_intro,125.38,126.31,^8Malika:^7 [Nothing.],â,1
+cp_raid1_cine_intro,126.32,129.92,^8Farah:^7 [Good-- Stay here. Make sure no one follows us in.],â,1
+cp_raid1_cine_intro,129.92,132.14,^8Malika:^7 [Yes, Ma'am.],â,1
+cp_raid1_cine_intro,132.14,135.16,^8Farah:^7 Captain, Gaz, check those ropes, we're going in...,â,â
+cp_raid1_cine_intro,136.45,137.49,^8Price:^7 Good to go.,â,â
+cp_raid1_cine_intro,137.5,138.9,^8Gaz:^7 Solid.,â,â
+cp_raid1_cine_intro,139.83,142.27,^8Farah:^7 If you don't hear from me, don't come looking.,â,â
+cp_raid1_cine_intro,142.27,144.02,^8Farah:^7 Keep your posts.,â,â
+cp_raid1_cine_intro,144.03,145.76,^8Farah:^7 Malika, you're in charge.,â,â
+cp_raid1_cine_intro,145.76,147.51,^8Malika:^7 Yes, Commander Karim.,â,â
+cp_raid1_cine_intro,150.11,151.62,^8Farah:^7 Let's go.,â,â
+cp_raid1_cine_intro,151.63,153.22,^8Price:^7 After you, Sergeant.,â,â
+cp_raid1_cine_intro,155.08,157.99,^8Price:^7 Laswell, we're heading in now.,â,â
+cp_raid1_cine_intro,157.99,160.21,^8Laswell:^7 Copy, John. Keep me posted.,â,â
+cp_raid1_cine_intro,160.21,162.65,^8Laswell:^7 Farah, take care of them.,â,â
+cp_raid1_cine_intro,163,165.44,^8Farah:^7 Always do, Laswell...,â,â
+cp_raid1_cine_outro,11.89,15.3,^8Price:^7 Farah, stay center. Gaz, check left.,â,â
+cp_raid1_cine_outro,15.31,16.16,^8Farah:^7 Roger.,â,â
+cp_raid1_cine_outro,16.16,16.85,^8Gaz:^7 On it.,â,â
+cp_raid1_cine_outro,22.26,23.48,^8Gaz:^7 No movement...,â,â
+cp_raid1_cine_outro,23.48,24.86,^8Farah:^7 Same...,â,â
+cp_raid1_cine_outro,30.45,31.5,^8Price:^7 Eyes front...,â,â
+cp_raid1_cine_outro,31.75,33.19,^8Gaz:^7 Show your hands!,â,â
+cp_raid1_cine_outro,33.19,36.28,^8Farah:^7 [Turn around! Turn around!],â,1
+cp_raid1_cine_outro,36.69,38.19,^8Price:^7 They're all dead.,â,â
+cp_raid1_cine_outro,39.9,41.81,^8Farah:^7 Easy. They could be rigged.,â,â
+cp_raid1_cine_outro,44.16,45.75,^8Gaz:^7 No wires.,â,â
+cp_raid1_cine_outro,46.75,47.97,^8Gaz:^7 These two are clear.,â,â
+cp_raid1_cine_outro,48.03,49.61,^8Price:^7 All clear here...,â,â
+cp_raid1_cine_outro,54.33,56.24,^8Farah:^7 These are my soldiers.,â,â
+cp_raid1_cine_outro,57.81,60.41,^8Farah:^7 This is Arif. He volunteered to go in with Alex...,â,â
+cp_raid1_cine_outro,60.42,62.54,^8Gaz:^7 Then where the hell is Alex-?,â,â
+cp_raid1_cine_outro,63.76,67.38,^8Farah:^7 Echo 3-1, this is Kilo Actual, how copy...?,â,â
+cp_raid1_cine_outro,69.19,71.06,^8Farah:^7 Echo 3-1, do you read...?,â,â
+cp_raid1_cine_outro,72.5,75.47,^8Price:^7 Watcher, this is Bravo in the blind, radio check...,â,â
+cp_raid1_cine_outro,75.47,78.22,^8Price:^7 Laswell, are you getting this...? Kate...,â,â
+cp_raid1_cine_outro,78.22,81.12,^8Farah:^7 We're too deep, no signals.,â,â
+cp_raid1_cine_outro,81.12,83.11,^8Gaz:^7 Concrete and metal... can't send or receive...,â,â
+cp_raid1_cine_outro,83.11,84.69,^8Price:^7 Yeah, it's a silo, alright...,â,â
+cp_raid1_cine_outro,87.9,89.29,^8Gaz:^7 Found power...,â,â
+cp_raid1_cine_outro,90.78,92.21,^8Gaz:^7 Lights up...,â,â
+cp_raid1_cine_outro,99.48,101.27,^8Gaz:^7 Holy hell...,â,â
+cp_raid1_cine_outro,101.27,104.32,^8Farah:^7 [May peace ever find us...],â,1
+cp_raid1_cine_outro,104.32,107.97,^8Price:^7 Soviet ICBM... Liquid-fueled, supersonic.,â,â
+cp_raid1_cine_outro,107.98,108.79,^8Gaz:^7 Nuclear.,â,â
+cp_raid1_cine_outro,108.79,109.93,^8Price:^7 Thermonuclear.,â,â
+cp_raid1_cine_outro,109.93,111.23,^8Farah:^7 Fifty years old.,â,â
+cp_raid1_cine_outro,111.23,112.45,^8Price:^7 At least.,â,â
+cp_raid1_cine_outro,112.45,114.15,^8Gaz:^7 You think there's a warhead up there...?,â,â
+cp_raid1_cine_outro,114.9,116.67,^8Farah:^7 Let's find out...,â,â
+cp_raid2_cine_intro,1.11,2.56,^8Price:^7 Alright- Let's huddle up...,â,â
+cp_raid2_cine_intro,3.4,6.04,^8Price:^7 Comms are dead, but Laswell may still hear us...,â,â
+cp_raid2_cine_intro,7.34,10.55,^8Farah:^7 Watcher-1, this is Kilo actual with Bravo in the blind.,â,â
+cp_raid2_cine_intro,10.66,15.33,^8Farah:^7 We've located a missile silo and an ICBM on the platform.,â,â
+cp_raid2_cine_intro,15.63,19.49,^8Gaz:^7 We encountered multiple AQ believe the tunnels are cleared to this position...,â,â
+cp_raid2_cine_intro,19.8,22.51,^8Price:^7 To get here we cracked multiple doors and terminals...,â,â
+cp_raid2_cine_intro,22.55,24.23,^8Gaz:^7 Portions of the facility are flooded-,â,â
+cp_raid2_cine_intro,24.92,27.63,^8Gaz:^7 We worked together sharing limited resources to push on.,â,â
+cp_raid2_cine_intro,27.9,31.76,^8Farah:^7 We have not found Alex but my soldiers who went in with him are KIA.,â,â
+cp_raid2_cine_intro,32.62,35.43,^8Price:^7 If Alex is still alive- he's somewhere ahead of us...,â,â
+cp_raid2_cine_intro,35.43,37.11,^8Price:^7 We'll stay frosty to find him.,â,â
+cp_raid2_cine_intro,37.11,39.75,^8Gaz:^7 We expect more contact and obstacles to sort moving forward.,â,â
+cp_raid2_cine_intro,40.06,44.07,^8Farah:^7 Our team will ascend to the top of the silo and see if the warhead is still on the missile...,â,â
+cp_raid2_cine_intro,44.95,47.47,^8Farah:^7 Kilo actual and Bravo- Out here.,â,â
+cp_raid2_cine_intro,48.24,49.57,^8Farah:^7 Let's move...,â,â
+cp_raid2_cine_outro,8.25,8.91,^8Gaz:^7 Clear.,â,â
+cp_raid2_cine_outro,8.91,9.84,^8Farah:^7 All clear.,â,â
+cp_raid2_cine_outro,9.84,10.87,^8Price:^7 Who's broken...?,â,â
+cp_raid2_cine_outro,10.87,11.71,^8Gaz:^7 One piece here...,â,â
+cp_raid2_cine_outro,12,13.12,^8Farah:^7 You good old man?,â,â
+cp_raid2_cine_outro,13.12,14.15,^8Price:^7 I've been worse.,â,â
+cp_raid2_cine_outro,15.29,16.51,^8Gaz:^7 On you, boss.,â,â
+cp_raid2_cine_outro,25.3,26.61,^8Gaz:^7 Look...,â,â
+cp_raid2_cine_outro,27.18,28.01,^8Farah:^7 AQ...,â,â
+cp_raid2_cine_outro,28.01,29.62,^8Price:^7 All shot down.,â,â
+cp_raid2_cine_outro,29.99,31.21,^8Gaz:^7 Who the hell hit 'em?,â,â
+cp_raid2_cine_outro,31.22,34.42,^8Farah:^7 Someone trying to stop them from doing this.,â,â
+cp_raid2_cine_outro,37.53,40.27,^8Gaz:^7 Fucking hell. Al Qatala got the warhead.,â,â
+cp_raid2_cine_outro,40.27,41.49,^8Price:^7 Recently.,â,â
+cp_raid2_cine_outro,41.49,42.9,^8Farah:^7 Very.,â,â
+cp_raid2_cine_outro,44.41,45.72,^8Alex:^7 KILO...,â,â
+cp_raid2_cine_outro,45.72,47.22,^8Gaz:^7 It's Alex.,â,â
+cp_raid2_cine_outro,47.23,48.44,^8Farah:^7 Echo 3-1...,â,â
+cp_raid2_cine_outro,48.45,49.48,^8Alex:^7 Affirmative.,â,â
+cp_raid2_cine_outro,50.32,52.3,^8Gaz:^7 There's a lotta steel between us and you, mate.,â,â
+cp_raid2_cine_outro,52.31,53.9,^8Alex:^7 Button, left side.,â,â
+cp_raid2_cine_outro,54.58,55.78,^8Gaz:^7 Eyes on.,â,â
+cp_raid2_cine_outro,56.25,57.28,^8Alex:^7 Hit it...,â,â
+cp_raid2_cine_outro,57.29,58.88,^8Gaz:^7 Done...,â,â
+cp_raid2_cine_outro,64.93,65.68,^8Farah:^7 What happened?,â,â
+cp_raid2_cine_outro,65.68,67.27,^8Alex:^7 Had a firefight with AQ...,â,â
+cp_raid2_cine_outro,68.04,70.38,^8Alex:^7 They killed Arif, and the others.,â,â
+cp_raid2_cine_outro,70.39,71.45,^8Farah:^7 We know.,â,â
+cp_raid2_cine_outro,71.45,73.24,^8Farah:^7 [May they rest in peace.],â,1
+cp_raid2_cine_outro,73.25,74.76,^8Alex:^7 Captain...,â,â
+cp_raid2_cine_outro,74.76,76.27,^8Alex:^7 Sergeant...,â,â
+cp_raid2_cine_outro,76.27,78.16,^8Gaz:^7 Told ya you had friends nearby.,â,â
+cp_raid2_cine_outro,80.33,81.84,^8Gaz:^7 Man o' steel.,â,â
+cp_raid2_cine_outro,81.85,83.26,^8Alex:^7 Titanium...,â,â
+cp_raid2_cine_outro,83.26,84.21,^8Price:^7 Bulletproof.,â,â
+cp_raid2_cine_outro,84.21,85.91,^8Alex:^7 From the knee down anyway.,â,â
+cp_raid2_cine_outro,85.91,87.42,^8Farah:^7 How are you still alive?,â,â
+cp_raid2_cine_outro,88.56,90.54,^8Alex:^7 Their commander... he spared me.,â,â
+cp_raid2_cine_outro,90.54,92.62,^8Farah:^7 Why?,â,â
+cp_raid2_cine_outro,92.62,96.21,^8Alex:^7 He had a message. Wanted me to deliver it personally...,â,â
+cp_raid2_cine_outro,96.21,97.72,^8Alex:^7 To you...,â,â
+cp_raid2_cine_outro,97.72,98.86,^8Farah:^7 To me...?,â,â
+cp_raid2_cine_outro,100.37,102.07,^8Farah:^7 Who is this "commander"?,â,â
+cp_raid2_cine_outro,102.07,105.28,^8Alex:^7 Farah, you're not gonna like this...,â,â
+cp_raid2_cine_outro,105.28,107.93,^8Farah:^7 Alex... who?,â,â
+cp_raid2_cine_outro,107.93,110.48,^8Alex:^7 Your brother... Hadir.,â,â
+cp_raid2_cine_outro,110.96,112.66,^8Farah:^7 Hadir is in jail.,â,â
+cp_raid2_cine_outro,112.66,113.88,^8Alex:^7 Not anymore.,â,â
+cp_raid2_cine_outro,113.89,117.19,^8Alex:^7 He wants a truce. Wants to work with you...,â,â
+cp_raid2_cine_outro,117.66,118.52,^8Alex:^7 Work with us...,â,â
+cp_raid2_cine_outro,118.52,119.84,^8Price:^7 To do what?,â,â
+cp_raid2_cine_outro,119.84,120.97,^8Alex:^7 To kill Russians...,â,â
+cp_raid2_cine_outro,120.98,122.11,^8Gaz:^7 With their own weapons...,â,â
+cp_raid2_cine_outro,122.11,123.52,^8Farah:^7 The warhead.,â,â
+cp_raid2_cine_outro,123.53,125.04,^8Price:^7 That's Hadir.,â,â
+cp_raid2_cine_outro,126.55,129.2,^8Alex:^7 He wants us to join him, or turn back...,â,â
+cp_raid2_cine_outro,129.67,132.12,^8Alex:^7 That's the message.,â,â
+cp_raid3_cine_intro,1.22,3.67,^8Alex:^7 He wants us to join him or turn back.,â,â
+cp_raid3_cine_intro,4.5,5.56,^8Alex:^7 That's the message.,â,â
+cp_raid3_cine_intro,6.53,8.23,^8Farah:^7 I have a message for him.,â,â
+cp_raid3_cine_intro,8.61,10,^8Alex:^7 Pretty sure I know what that means...,â,â
+cp_raid3_cine_intro,10,11.02,^8Farah:^7 I'll fucking kill him...,â,â
+cp_raid3_cine_intro,11.44,12.1,^8Farah:^7 Hadir...,â,â
+cp_raid3_cine_intro,12.12,12.82,^8Price:^7 Farah-,â,â
+cp_raid3_cine_intro,12.83,13.63,^8Farah:^7 HADIR!,â,â
+cp_raid3_cine_intro,13.63,14.51,^8Price:^7 Slow down...,â,â
+cp_raid3_cine_intro,14.52,17.99,^8Alex:^7 He's not here, Farah... he went forward.,â,â
+cp_raid3_cine_intro,19.35,20.29,^8Farah:^7 With the warhead?,â,â
+cp_raid3_cine_intro,20.65,21.76,^8Alex:^7 I'm afraid so.,â,â
+cp_raid3_cine_intro,21.77,23.6,^8Price:^7 We need to find him...,â,â
+cp_raid3_cine_intro,23.6,27.24,^8Gaz:^7 First things first- we need to relay this to Laswell, and work on our exfil.,â,â
+cp_raid3_cine_intro,27.24,28.49,^8Gaz:^7 I can find us a signal.,â,â
+cp_raid3_cine_intro,28.49,30.13,^8Price:^7 Good call. Check in when you have comms.,â,â
+cp_raid3_cine_intro,30.14,31.03,^8Gaz:^7 Will do.,â,â
+cp_raid3_cine_intro,32.14,33.05,^8Gaz:^7 Good luck.,â,â
+cp_raid3_cine_intro,33.05,33.83,^8Alex:^7 You too, Gaz.,â,â
+cp_raid3_cine_intro,33.87,35.16,^8Alex:^7 On you, Commander.,â,â
+cp_raid3_cine_outro,2.63,4.59,^8Farah:^7 He's down... We clear?,â,â
+cp_raid3_cine_outro,4.6,6.79,^8Price:^7 Negative-- Room's rigged.,â,â
+cp_raid3_cine_outro,7.4,10.04,^8Alex:^7 High speed fuse, charges on the walls, we gotta move.,â,â
+cp_raid3_cine_outro,12.36,13.51,^8Alex:^7 It's locked.,â,â
+cp_raid3_cine_outro,15.74,17.02,^8Farah:^7 Hadir--!!,â,â
+cp_raid3_cine_outro,18.24,19.74,^8Alex:^7 Farah, check fire--!!,â,â
+cp_raid3_cine_outro,19.76,21.37,^8Alex:^7 Take cover--!!,â,â
+cp_raid3_cine_outro,27.15,30.7,^8Alex:^7 Charge is safe... No threat...,â,â
+cp_raid3_cine_outro,31.67,32.56,^8Price:^7 Farah...,â,â
+cp_raid3_cine_outro,32.73,35.1,^9Hadir:^7 Drop your weapons... All of you...now!,â,â
+cp_raid3_cine_outro,38.82,41.94,^8Alex:^7 Farah... Put it down.,â,â
+cp_raid3_cine_outro,58.53,60.38,^9Hadir:^7 [Thank you, sister.],â,1
+cp_vehesc_cine_intro,0,11.04,^8Laswell:^7 Breaker-1. Satellite imagery confirms the AQ Army is using Russian-made surface-to-air missiles to defend their operations at the oil fields in this valley, making the sector impenetrable by air.,â,â
+cp_vehesc_cine_intro,11.11,14.52,^8Laswell:^7 Your mission is to destroy those SAM sites.,â,â
+cp_vehesc_cine_intro,14.52,18.63,^8Laswell:^7 A ground asset will get you in range of an AQ checkpoint at the Al Sharim Pass.,â,â
+cp_vehesc_cine_intro,18.63,22.64,^8Laswell:^7 The first SAM Site, objective Alpha, is located due east of the checkpoint.,â,â
+cp_vehesc_cine_intro,22.68,24.56,^8Laswell:^7 You'll have the element of surprise here...,â,â
+cp_vehesc_cine_intro,24.7,25.45,^8Laswell:^7 Use it.,â,â
+cp_vehesc_cine_intro,25.69,34.66,^8Laswell:^7 Once Alpha's down, my pilot, Nikolai, callsign Yankee-7, will provide limited air support at your remaining three SAM sites - Bravo, Charlie and Delta.,â,â
+cp_vehesc_cine_intro,34.66,36.96,^8Laswell:^7 He'll be your exfil when the job is done.,â,â
+cp_vehesc_cine_intro,37.07,38.38,^8Laswell:^7 This valley is lethal.,â,â
+cp_vehesc_cine_intro,38.38,41.47,^8Laswell:^7 The SAMs protect the oil fields. The oil funds AQ.,â,â
+cp_vehesc_cine_intro,41.47,44.09,^8Laswell:^7 They will use everything they have to stop you.,â,â
+cp_vehesc_cine_intro,44.09,47.53,^8Laswell:^7 When the first site falls, all hell breaks loose.,â,â
+cp_vehesc_cine_intro,47.53,49.58,^8Laswell:^7 I'll be on comms.,â,â
+cp_vehesc_cine_intro,49.58,51,^8Laswell:^7 Let's hit 'em where it hurts...,â,â
+gulag_enter,0,2.25,^9Secure Channel:^7 Lifter 1-1 team deployed. Moving outbound.,â,â
+gulag_enter,2.62,3.4,^9Secure Channel:^7 Copy. Tracking.,â,â
+gulag_enter,4.09,5.81,^9Secure Channel:^7 Confirm visual on friendlies.,â,â
+gulag_enter,6.12,7.28,^9Secure Channel:^7 Personnel and cargo secure.,â,â
+gulag_enter,11.53,13.49,^9Warden:^7 Another fallen soldier...,â,â
+gulag_enter,15.17,16.18,^9Warden:^7 You're weak...,â,â
+gulag_enter,16.73,19.4,^9Warden:^7 Only the strongest survive the gulag...,â,â
+gulag_enter,20.51,21.45,^9Warden:^7 Gates!,â,â
+gulag_enter_delta,2.88,4.46,^9Warden:^7 Well, what do we have here?,â,â
+gulag_enter_delta,4.46,7.12,^9Warden:^7 Some fresh meat for the gulag.,â,â
+gulag_enter_delta,9.2,11.05,^9Warden:^7 Bag this piece of shit.,â,â
+jup_ob_act1_cine_outro,2.23,5.42,^8Jansen:^7 Is all this cloak and dagger stuff necessary?,â,â
+jup_ob_act1_cine_outro,5.48,8.17,^8Jansen:^7 I'm the one who called you -- remember?,â,â
+jup_ob_act1_cine_outro,8.17,11.23,^8Soap:^7 I'm no the one that needs convincin'. Keep walkin'.,â,â
+jup_ob_act1_cine_outro,12.54,13.73,^8Ravenov:^7 Welcome to Operation...,â,â
+jup_ob_act1_cine_outro,13.73,16.86,^8Ravenov:^7 [over speaker] Deadbolt. The boss would like a word with you.,â,â
+jup_ob_act1_cine_outro,23.85,29.48,[ominous music],â,â
+jup_ob_act1_cine_outro,29.48,33.17,^8Jansen:^7 [over speaker] The company hired me to continue my research on energy production...,â,â
+jup_ob_act1_cine_outro,33.17,35.1,from n-dimensional interactions.,â,â
+jup_ob_act1_cine_outro,35.1,39.42,^8Jansen:^7 It was purely theoretical -- right up until it wasn't.,â,â
+jup_ob_act1_cine_outro,41.92,46.73,^8Jansen:^7 As for Zakhaev, I had no idea I was working for a terrorist!,â,â
+jup_ob_act1_cine_outro,46.73,48.36,^8Greene:^7 You're lying.,â,â
+jup_ob_act1_cine_outro,49.98,54.73,^8Jansen:^7 I thought he was the CEO. I'm a physicist, not a mind-reader.,â,â
+jup_ob_act1_cine_outro,54.73,60.42,^8Jansen:^7 And I wouldn't have had to work for him -- or anyone -- if you arseholes hadn't shut me down.,â,â
+jup_ob_act1_cine_outro,60.42,64.42,^8Jansen:^7 Zakhaev is still out there with even more weapons-grade Aetherium.,â,â
+jup_ob_act1_cine_outro,64.42,68.29,^8Jansen:^7 But I happen to know he keeps it on his person at all times.,â,â
+jup_ob_act1_cine_outro,68.29,70.92,^8Jansen:^7 Why would I tell you that if I didn't want him stopped?,â,â
+jup_ob_act1_cine_outro,70.92,75.17,^8Jansen:^7 Look, I know this element down to its protons.,â,â
+jup_ob_act1_cine_outro,75.17,78.73,^8Jansen:^7 I'm fairly certain I can find a way to neutralize it.,â,â
+jup_ob_act1_cine_outro,78.73,81.29,^8Soap:^7 Fairly certain won't cut it. Can you do it or not?,â,â
+jup_ob_act1_cine_outro,82.23,84.48,^8Ravenov:^7 Perhaps we should hear her out.,â,â
+jup_ob_act1_cine_outro,84.48,90.23,^8Jansen:^7 Please. I have to fix this. I may be the only person who can!,â,â
+jup_ob_act1_cine_outro,93.48,94.54,[knife unsheathing],â,â
+jup_ob_act1_cine_outro,95.86,97.04,^8Greene:^7 You better be right.,â,â
+jup_ob_act1_cine_outro,102.86,106.11,^9Fletcher:^7 Extraction's going great - we're gonna make a killing selling this Aetherium.,â,â
+jup_ob_act1_cine_outro,107.23,113.23,^9Zakhaev:^7 When I've enriched enough to make more of these, you can do as you please with the rest.,â,â
+jup_ob_act1_cine_outro,113.23,114.61,^9Fletcher:^7 And what about our runner?,â,â
+jup_ob_act1_cine_outro,114.86,115.48,^9Zakheav:^7 Hmph.,â,â
+jup_ob_act1_cine_outro,115.48,119.61,^9Zakhaev:^7 She's played her part. Find her and kill her.,â,â
+jup_ob_act2_cine_outro,9.3,12.16,^8Jansen:^7 As you can see, the test was a success.,â,â
+jup_ob_act2_cine_outro,12.91,17.81,^8Jansen:^7 The Aether Neutralizer destabalizes any Aetherium within its blast radius.,â,â
+jup_ob_act2_cine_outro,18.02,22.1,^8Jansen:^7 What remains of the element rapidly decays into harmless isotopes.,â,â
+jup_ob_act2_cine_outro,22.74,24.32,^8Jansen:^7 But...,â,â
+jup_ob_act2_cine_outro,24.32,28.14,^8Jansen:^7 That was raw, unprocessed Aetherium.,â,â
+jup_ob_act2_cine_outro,28.14,31.43,^8Jansen:^7 The material in Zakhaev's vial is highly enriched.,â,â
+jup_ob_act2_cine_outro,31.43,37.92,^8Jansen:^7 My projections show this weapons-grade Aetherium can withstand our prototype.,â,â
+jup_ob_act2_cine_outro,38.25,42.6,^8Greene:^7 In other words, you failed. This was a waste of time and resources.,â,â
+jup_ob_act2_cine_outro,42.6,44.39,^8Jansen:^7 Not true!,â,â
+jup_ob_act2_cine_outro,43.75,50.14,^8Jansen:^7 The principle has been proven. We just need to amplify the neutralizer and recalibrate its output.,â,â
+jup_ob_act2_cine_outro,50.14,53.22,^8Soap:^7 An' you can do that, can you?,â,â
+jup_ob_act2_cine_outro,53.54,56.4,^8Jansen:^7 Not quite.,â,â
+jup_ob_act2_cine_outro,54.47,59.79,^8Jansen:^7 But Zakhaev obtained key research written by the expert on Aetherium enrichment.,â,â
+jup_ob_act2_cine_outro,60.11,62.44,^8Ravenov:^7 Strauss...,â,â
+jup_ob_act2_cine_outro,62.22,64.98,^8Soap:^7 Old mate of yours?,â,â
+jup_ob_act2_cine_outro,63.58,66.87,^8Ravenov:^7 Friends are a luxury I can seldom afford.,â,â
+jup_ob_act2_cine_outro,66.87,70.48,^8Jansen:^7 Zakhaev stored Strauss's research in a vault.,â,â
+jup_ob_act2_cine_outro,69.62,75.48,^8Jansen:^7 It'll be heavily guarded, but that research holds the key to upgrading the neutralizer.,â,â
+jup_ob_act2_cine_outro,74.95,79.3,^8Greene:^7 We don't have time for this. Our focus should be Zakhaev himself.,â,â
+jup_ob_act2_cine_outro,79.3,83.45,^8Ravenov:^7 And if we find him, then what?,â,â
+jup_ob_act2_cine_outro,82.06,87.38,^8Ravenov:^7 He unleashses his remaining vial, and we have nothin to counter it...?,â,â
+jup_ob_act2_cine_outro,88.45,92.38,^8Soap:^7 Deadbolt might be able to hammer this hard enough to contain it...,â,â
+jup_ob_act2_cine_outro,92.38,97.59,^8Soap:^7 But if the objective is to end it, that neutralizer's our best shot.,â,â
+jup_ob_act2_cine_outro,102.09,107.84,^8Greene:^7 Fine. Get Strauss's data. See what Dr. Jansen can do with it.,â,â
+jup_ob_act2_cine_outro,113.17,116.52,[Jansen winces],â,â
+jup_ob_act2_cine_outro,123.25,127.07,^8Ravenov:^7 Ava, what is wrong?,â,â
+jup_ob_act2_cine_outro,125.78,132.39,^8Jansen:^7 Just a migraine. It'll pass. They always do.,â,â
+jup_ob_act3_cine_outro,0,2.65,[creature roars],â,â
+jup_ob_act3_cine_outro,6.95,8.62,^8Ravenov:^7 Doctor Jansen! Wait!,â,â
+jup_ob_act3_cine_outro,12.91,15.76,[creature roars],â,â
+jup_ob_act3_cine_outro,18.36,19.58,[electricity crackling],â,â
+jup_ob_act3_cine_outro,22.02,23.1,[deep explosion],â,â
+jup_ob_act3_cine_outro,23.17,24.54,[creature screams in agony],â,â
+jup_ob_act3_cine_outro,34.91,36.58,^8Soldier:^7 Ahhh!,â,â
+jup_ob_act3_cine_outro,48.2,49.28,^9Fletcher:^7 Zed, we've gotta get out of here!,â,â
+jup_ob_act3_cine_outro,49.28,50.36,^9Zakhaev:^7 Coward!,â,â
+jup_ob_act3_cine_outro,53.76,55.5,^9Zakhaev:^7 This can't be happening!,â,â
+jup_ob_act3_cine_outro,70.74,73.46,^3Entity:^7 Let us in.,â,â
+jup_ob_act3_cine_outro,73.61,75.5,^8Ava:^7 Ahhhhhh!,â,â
+jup_ob_act3_cine_outro,86.31,87.02,^8Ravenov:^7 Ava?,â,â
+jup_ob_act3_cine_outro,92.35,93.28,^8Ava:^7 What happened?,â,â
+jup_ob_act3_cine_outro,93.28,95.09,^8Ravenov:^7 Do you not...do you not remember?,â,â
+jup_ob_act3_cine_outro,95.39,98.61,^8Ava:^7 No, I thought I heard a voice.,â,â
+jup_ob_act3_cine_outro,99.8,101.24,Something...,â,â
+jup_ob_act3_cine_outro,102.43,104.83,calling...from the other side.,â,â
+jup_ob_act3_cine_outro,110.31,113.68,^8Soap:^7 Take 'em to the brig. Greene'll get the interrogations started.,â,â
+jup_ob_act3_cine_outro,115.09,117.2,Nae sign o' Zakhaev.,â,â
+jup_ob_act3_cine_outro,117.8,123.39,^8Soap:^7 He may be blooded but he's still breathin'. Next time he sticks his head up - I'll take it off.,â,1
+jup_ob_act3_cine_outro,123.39,124.91,^8Ava:^7 What about the Neutralizer?,â,â
+jup_ob_act3_cine_outro,124.91,128.21,^8Ravenov:^7 Dobbs? What's the SitRep? Give me some good news.,â,â
+jup_ob_act3_cine_outro,128.21,133.57,^8Dobbs:^7 [over radio] Mmm...Negative. Good initial clear on detonation, but Dark Aether contacts are repopulating.,â,â
+jup_ob_act3_cine_outro,134.17,135.09,^8Ravenov:^7 Pizdets.,â,â
+jup_ob_act3_cine_outro,135.32,140.09,^8Dobbs:^7 [over radio] Also picking up an energy spike in the Red Zone. Never seen anything like it.,â,â
+jup_ob_act3_cine_outro,141.13,143.76,^8Soap:^7 Looks like this shit-show just keeps gets better an' better.,â,â
+jup_ob_act3_cine_outro,143.76,148.76,Everyone RTB! Looks like this op isn't gonna' be over anytime soon!,â,â
+jup_ob_act3_cine_outro,148.76,151.54,^8Ravenov:^7 Fang. Ravenov. Ready for evac.,â,â
+jup_ob_act3_cine_outro,151.69,154.76,^8Fang:^7 [over radio] Solid copy. Stand by, ETA two minutes.,â,â
+jup_ob_cine_intro,2.83,6.42,^9Zakhaev:^7 It is time. Mask up.,â,â
+jup_ob_cine_intro,6.42,9.24,^9Zakhaev:^7 Light them up.,â,â
+jup_ob_cine_intro,36.84,39.2,^9Mercenary:^7 Go.,â,â
+jup_ob_cine_intro,55.55,58.91,^9Mercenary:^7 All good.,â,â
+jup_ob_cine_intro,66.84,69.84,^9Fletcher:^7 Room's clean.,â,â
+jup_ob_cine_intro,69.84,76.78,^9Zakhaev:^7 They're actually real... They're actually here.,â,â
+jup_ob_cine_intro,77.31,80.37,^9Zakhaev:^7 Ha!,â,â
+jup_ob_cine_intro,78.6,82.02,^9Fletcher:^7 Let's go.,â,â
+jup_ob_cine_intro,88.19,92.08,^9Alarmed Mercenary #1:^7 Boss - We gotta go!,â,â
+jup_ob_cine_intro,90.14,93.02,^9Alarmed Mercenary #2:^7 It's the cops!,â,â
+jup_ob_cine_intro,93.02,96.43,^9Alarmed Mercenary #3:^7 Here they come!,â,â
+jup_ob_cine_intro,95.55,98.93,^9Mercenary:^7 Put them down!,â,â
+jup_ob_cine_intro,139.35,141.47,^9Zakhaev:^7 Ugh!,â,â
+jup_ob_cine_intro,174.66,178.72,^9Alarmed Mercenary #1:^7 Arrrrrgggghhhhhh!,â,â
+jup_ob_cine_intro,179.78,184.25,^9Alarmed Mercenary #3:^7 No! No! Arghhhhhhhhhhhh!,â,â
+jup_ob_cine_intro,184.42,187.84,^9Fletcher:^7 Fuck!,â,â
+jup_ob_cine_intro,187.84,189.48,^9Fletcher:^7 Fuck.,â,â
+jup_ob_cine_intro,189.66,194.48,^9Zakhaev:^7 Looks like we have our weapon.,â,â
+jup_ob_cine_intro,200.84,204.72,^8Helicopter Pilot:^7 We're coming up on the EZ, ETA 2 minutes.,â,â
+jup_ob_cine_intro,203.84,207.54,^8Laswell:^7 We got intel that Zakhaev was planning something a few months ago.,â,â
+jup_ob_cine_intro,206.9,213.48,^8Soap:^7 By the time we worked out where he was operatin', all we could do was go kinetic an' hope to flush the bastard out.,â,â
+jup_ob_cine_intro,211.9,217.42,^8Laswell:^7 One of our checkpoints reported hostile contact - then the whole town went dark.,â,â
+jup_ob_cine_intro,215.84,220.66,^8Soap:^7 Until we know what's goin' on, containment's the name o' the game.,â,â
+jup_ob_cine_intro,218.89,223.36,^8Soap:^7 No one gets in. Nothin' - and I mean nothin' gets out. Clear?,â,â
+jup_ob_cine_intro,222.13,226.95,^8Laswell:^7 Ravenov here has experiance with this kind of - incursion.,â,â
+jup_ob_cine_intro,226.42,229.13,^8Ravenov:^7 Prevyet.,â,â
+jup_ob_cine_intro,227.19,230.95,^8Soap:^7 He'll give ye the lay o' the land.,â,â
+jup_ob_cine_intro,229.36,232.42,^8Soap:^7 Keep your head up and listen to him if you wanna survive.,â,â
+jup_ob_cine_intro,232.42,236.89,^8Laswell:^7 Report to SSO Greene - out here, this is her show.,â,â
+jup_ob_cine_intro,236.89,239.77,^8Laswell:^7 Welcome to Operation Deadbolt.,â,â
+jup_ob_cine_intro,239.95,239.95,^8Ravenov:^7 This is us. Let's move.,â,â
+sp_brdr_cine_intro,3.47,4.58,^8Laswell:^7 Colonel Vargas...,â,â
+sp_brdr_cine_intro,4.79,6.41,^8Alejandro:^7 Station Chief Laswell...,â,â
+sp_brdr_cine_intro,6.6,8.13,^8Alejandro:^7 I thought we were on a first name basis...,â,â
+sp_brdr_cine_intro,8.63,9.75,^8Alejandro:^7 This must be serious.,â,â
+sp_brdr_cine_intro,9.76,12.6,^8Laswell:^7 It is. I need your help, Alejandro.,â,â
+sp_brdr_cine_intro,12.87,13.67,^8Alejandro:^7 Tell me.,â,1
+sp_brdr_cine_intro,13.7,17.75,^8Laswell:^7 The Las Almas cartel is smuggling an Iranian terrorist over the border.,â,â
+sp_brdr_cine_intro,17.83,21.14,^8Alejandro:^7 Laswell, terrorists don't cross the southern border.,â,â
+sp_brdr_cine_intro,21.22,24.48,^8Laswell:^7 We know that, and they know that, and that is exactly why they're gonna do it.,â,â
+sp_brdr_cine_intro,24.82,26.33,^8Laswell:^7 I need you to stop it.,â,â
+sp_brdr_cine_intro,26.59,27.75,^8Alejandro:^7 Who's my target?,â,â
+sp_brdr_cine_intro,28.07,29.84,^8Laswell:^7 Major Hassan Zyani.,â,â
+sp_brdr_cine_intro,30.26,31.69,^8Alejandro:^7 Copy. When?,â,â
+sp_brdr_cine_intro,31.95,32.82,^8Laswell:^7 Tonight.,â,â
+sp_brdr_cine_intro,33.96,38,US MEXICO BORDER,â,â
+sp_bs_cine_intro,0.94,3.9,^8Laswell:^7 Hassan was taken back into cartel protection in Las Almas.,â,â
+sp_bs_cine_intro,4.19,8.87,^8Laswell:^7 Mexican Special Forces confirmed. Hassan is moving something sizable towards the US.,â,â
+sp_bs_cine_intro,8.88,12.2,^8Laswell:^7 The cargo could be containers housing missiles.,â,â
+sp_bs_cine_intro,12.2,14.87,^8Laswell:^7 We don't know how many and we don't know the targets.,â,â
+sp_bs_cine_intro,15.31,19.68,^8Shepherd:^7 To find out, we need to capture Hassan and bring him in for interrogation.,â,â
+sp_bs_cine_intro,20.23,27.28,^8Shepherd:^7 We'll send Soap and Ghost to link up with the Mexican Special Forces in country along with all the manpower they need.,â,â
+sp_bs_cine_intro,27.7,30.21,^8Laswell:^7 We can't start a war in Mexico, General.,â,â
+sp_bs_cine_intro,30.22,31.13,^8Shepherd:^7 Certainly not-,â,â
+sp_bs_cine_intro,31.13,34.81,^8Shepherd:^7 I'll task Phillip Graves and his Shadow company PMCs to assist.,â,â
+sp_bs_cine_intro,34.97,39.89,^8Shepherd:^7 Their rules of engagement can help us cut some red tape and get this done.,â,â
+sp_bs_cine_intro,40.34,43.03,^8Laswell:^7 Understood, sir. Let's find Hassan.,â,â
+sp_bs_cine_intro,49,49.93,^8Soap:^7 Alejandro...,â,â
+sp_bs_cine_intro,49.94,51.46,^8Alejandro:^7 Sergeant MacTavish.,â,â
+sp_bs_cine_intro,51.62,52.84,^8Soap:^7 Call me Soap.,â,â
+sp_bs_cine_intro,52.84,53.92,^8Alejandro:^7 Lieutenant...,â,â
+sp_bs_cine_intro,53.93,55.78,^8Alejandro:^7 Laswell says they call you Ghost.,â,â
+sp_bs_cine_intro,55.78,57.96,^8Soap:^7 Actually, I believe he prefers to be--,â,â
+sp_bs_cine_intro,57.31,58.89,^8Ghost:^7 That'll do.,â,â
+sp_bs_cine_intro,58.89,61.67,^8Alejandro:^7 Welcome to the "city of souls.",â,â
+sp_bs_cine_intro,62.3,63.85,^8Soap:^7 I've never been to Mexico.,â,â
+sp_bs_cine_intro,64,64.92,^8Alejandro:^7 This isn't M√©xico...,â,â
+sp_bs_cine_intro,65.54,66.9,^8Alejandro:^7 This is Las Almas.,â,â
+sp_bs_cine_intro,66.91,71.46,^8Ghost:^7 Shepherd's contractors are inbound to reinforce. They're bringing hardware, they'll need room.,â,â
+sp_bs_cine_intro,71.62,73.17,^8Alejandro:^7 My base is your base.,â,â
+sp_bs_cine_intro,73.31,74.86,^8Ghost:^7 Good. Now, where's Hassan?,â,â
+sp_bs_cine_intro,74.87,77.51,^8Alejandro:^7 Cartel safe-house, ten clicks from here.,â,â
+sp_bs_cine_intro,77.52,78.74,^8Alejandro:^7 Get in.,â,â
+sp_bs_cine_intro,78.9,81.07,^8Alejandro:^7 C'mon. Let's move!,â,1
+sp_bs_cine_intro,83.12,86.07,^8Alejandro:^7 This is my second in command, Sergeant Major Rodolfo Parra.,â,â
+sp_bs_cine_intro,86.23,88.87,^8Rodolfo:^7 I'm afraid of Ghosts...,â,1
+sp_bs_cine_intro,90.6,92.46,^8Alejandro:^7 You know Spanish?,â,â
+sp_bs_cine_intro,92.46,93.54,^8Soap:^7 No.,â,â
+sp_bs_cine_intro,93.54,95.08,^8Alejandro:^7 You will...,â,â
+sp_bs_cine_intro,109.03,110.76,^8Soap:^7 White truck, four armed in the back.,â,â
+sp_bs_cine_intro,110.86,113.98,^8Alejandro:^7 Hey - tranquilo. Easy-- that's normal here.,â,â
+sp_bs_cine_intro,114.78,117.58,^8Alejandro:^7 Guns on the street is jurisdiction of the police.,â,â
+sp_bs_cine_intro,117.75,119.14,^8Ghost:^7 Where are the police?,â,â
+sp_bs_cine_intro,119.24,122.04,^8Alejandro:^7 Well, Las Almas has a very serious problem.,â,â
+sp_bs_cine_intro,122.05,126.22,^8Alejandro:^7 There are few here to uphold the law. And many of those who resist corruption...,â,â
+sp_bs_cine_intro,126.28,127.84,^8Alejandro:^7 Disappear.,â,â
+sp_bs_cine_intro,128,128.93,^8Soap:^7 What about the military?,â,â
+sp_bs_cine_intro,128.94,133.14,^8Alejandro:^7 Well, because we are well trained, soldiers are recruited by the narcos...,â,â
+sp_bs_cine_intro,133.15,134.36,^8Ghost:^7 Why not you?,â,â
+sp_bs_cine_intro,135.16,136.86,^8Alejandro:^7 We grew up here.,â,â
+sp_bs_cine_intro,136.95,140.4,^8Alejandro:^7 They call us Los Vaqueros... Cowboys.,â,â
+sp_bs_cine_intro,140.4,144.8,^8Alejandro:^7 We love this place. And we will die fighting for it.,â,â
+sp_bs_cine_intro,151,154.11,^8Soap:^7 Kids, guns and balloons... That's a new one.,â,â
+sp_bs_cine_intro,154.11,157.07,^8Alejandro:^7 Narcos use generosity to win over the people.,â,â
+sp_bs_cine_intro,157.07,158.46,^8Soap:^7 Even the children?,â,â
+sp_bs_cine_intro,158.46,160.32,^8Rodolfo:^7 Especially the children...,â,â
+sp_bs_cine_intro,161.99,164.64,^8Soap:^7 What's on those sheets?,â,â
+sp_bs_cine_intro,164.79,166.5,^8Alejandro:^7 Narcomantas...,â,â
+sp_bs_cine_intro,166.5,168.22,^8Rodolfo:^7 Cartel cloths.,â,â
+sp_bs_cine_intro,168.22,172.39,^8Alejandro:^7 Messages from El Sin Nombre. Warnings, marking territory.,â,â
+sp_bs_cine_intro,173.33,175.74,^8Alejandro:^7 Our streets are laced with death.,â,â
+sp_bs_cine_intro,176.7,178.15,^8Ghost:^7 Who's Sin Nombre?,â,â
+sp_bs_cine_intro,178.15,180.61,^8Alejandro:^7 El Sin Nombre. The Nameless...,â,â
+sp_bs_cine_intro,180.61,182.5,^8Alejandro:^7 The leader of the Las Almas cartel.,â,â
+sp_bs_cine_intro,182.5,184.22,^8Soap:^7 Where can we find him?,â,â
+sp_bs_cine_intro,184.22,186.89,^8Alejandro:^7 You can't. No one knows who he is.,â,â
+sp_bs_cine_intro,186.9,189.2,^8Alejandro:^7 But he is everywhere...,â,â
+sp_bs_cine_intro,189.2,191.76,^8Alejandro:^7 And this is a challenge...,â,â
+sp_bs_cine_intro,191.76,195.06,^8Alejandro:^7 But Los Vaqueros like challenges.,â,â
+sp_bs_cine_intro,195.22,198.36,^8Rodolfo:^7 With your mask, you will fit in well here, Ghost.,â,â
+sp_bs_cine_intro,198.36,200.09,^8Alejandro:^7 Hey, easy...,â,1
+sp_bs_cine_intro,201.82,206.68,^8Alejandro:^7 Checkpoint. It's the army. Turn right, we'll go around.,â,â
+sp_bs_cine_intro,206.69,208.41,^8Soap:^7 Why?,â,â
+sp_bs_cine_intro,208.42,211.24,^8Alejandro:^7 Some troops are in the pocket of El Sin Nombre.,â,â
+sp_bs_cine_intro,211.24,214.01,^8Alejandro:^7 Like I told you, he is everywhere...,â,â
+sp_bs_cine_intro,214.02,217.2,^8Alejandro:^7 Cartel is hiding Hassan in the village across the river.,â,â
+sp_bs_cine_intro,217.21,219.54,^8Alejandro:^7 Let's hope he's still there.,â,â
+sp_cnls_cine_intro,15.74,19.1,^8Price:^7 Bravo-6 to Watcher-1. In position at the cafe.,â,â
+sp_cnls_cine_intro,19.9,23.35,^8Price:^7 Two at the table to my 3 o'clock, one cartel, one Iranian.,â,â
+sp_cnls_cine_intro,23.84,25.26,^8Laswell:^7 How cozy.,â,â
+sp_cnls_cine_intro,26.1,27.31,^8Laswell:^7 What are they up to?,â,â
+sp_cnls_cine_intro,27.88,29.78,^8Price:^7 Conducting a transaction.,â,â
+sp_cnls_cine_intro,30.06,31.29,^8Laswell:^7 Electronically.,â,â
+sp_cnls_cine_intro,31.51,32,^8Price:^7 Affirm.,â,â
+sp_con_cine_intro,10.19,11.76,^8Gaz:^7 This is proof of life.,â,â
+sp_con_cine_intro,11.76,13.03,^8Price:^7 Where did this come from?,â,â
+sp_con_cine_intro,13.04,14.41,^8Shepherd:^7 Urzikstan.,â,â
+sp_con_cine_intro,14.42,15.69,^8Price:^7 Look...,â,â
+sp_con_cine_intro,15.75,16.41,^8Price:^7 They're pointing east.,â,â
+sp_con_cine_intro,16.42,18.63,^8Shepherd:^7 Likely to Al Mazrah.,â,â
+sp_con_cine_intro,18.63,20.59,^8Gaz:^7 They get her underground there we'll lose her for good.,â,â
+sp_con_cine_intro,20.6,21.87,^8Price:^7 We'll lead the rescue team.,â,â
+sp_con_cine_intro,21.87,23.54,^8Shepherd:^7 That's not gonna happen, John.,â,â
+sp_con_cine_intro,24.35,25.4,^8Gaz:^7 Say again, General?,â,â
+sp_con_cine_intro,26.38,30.6,^8Shepherd:^7 This is a tug o' war, boys. We need to pull back, not lean forward.,â,â
+sp_con_cine_intro,30.7,31.48,^8Gaz:^7 Since when?,â,â
+sp_con_cine_intro,31.5,32.24,^8Shepherd:^7 Since now.,â,â
+sp_con_cine_intro,32.65,36.48,^8Shepherd:^7 We can't just send in the cavalry. These things take planning and preparation.,â,â
+sp_con_cine_intro,36.48,41.88,^8Price:^7 These things take violence and timing, I can do both. Kate's life is in a fuckin' hourglass.,â,â
+sp_con_cine_intro,41.92,43.9,^8Shepherd:^7 I know you're upset, Captain.,â,â
+sp_con_cine_intro,44.22,48.05,^8Shepherd:^7 This happened on your mission and that's a tough pill to swallow.,â,â
+sp_con_cine_intro,50.11,51.38,^8Price:^7 Are you telling me, we leave her?,â,â
+sp_con_cine_intro,51.39,54.23,^8Shepherd:^7 I'm telling you I can't help you...,â,â
+sp_con_cine_intro,54.46,56.64,^8Shepherd:^7 But I won't stop you.,â,â
+sp_con_cine_intro,58.15,59.82,^8Price:^7 I'll have her back in 12 hours.,â,â
+sp_con_cine_intro,59.92,61.98,^8Shepherd:^7 Don't die doin' this, John.,â,â
+sp_con_cine_intro,62,64.18,^8Shepherd:^7 Laswell wouldn't want that. I don't either.,â,â
+sp_con_cine_intro,64.18,66.29,^8Gaz:^7 General, I thought Kate was your friend?,â,â
+sp_con_cine_intro,66.88,68.64,^8Shepherd:^7 War isn't about friends.,â,â
+sp_con_cine_intro,68.86,70.06,^8Shepherd:^7 It's about enemies.,â,â
+sp_con_cine_intro,70.55,71.72,^8Shepherd:^7 Good luck.,â,â
+sp_con_cine_intro,73.53,75.41,^8Gaz:^7 We'd be going head to head with AQ on their home turf.,â,â
+sp_con_cine_intro,75.41,77.76,^8Gaz:^7 They're going to have hundreds more protecting Laswell.,â,â
+sp_con_cine_intro,77.77,78.94,^8Gaz:^7 We need an army.,â,â
+sp_con_cine_intro,78.95,80.81,^8Price:^7 I can get us an army.,â,â
+sp_con_cine_intro,86.88,88.45,^8Price:^7 Nik!,â,â
+sp_con_cine_intro,89.24,91.2,^8Nikolai:^7 Where to?,â,â
+sp_con_cine_intro,92.94,94.8,URZIKSTAN,â,â
+sp_con_cine_intro,112.27,114.92,^8LF Fighter:^7 Commander, Al-Qatala's here.,â,1
+sp_con_cine_intro,114.92,119.33,^8Farah:^7 Copy, I see them. Go to the rally point and wait for us.,â,1
+sp_con_cine_intro,119.33,121.09,^8LF Fighter:^7 Yes, Ma'am.,â,1
+sp_con_cine_intro,123.45,124.43,^8Farah:^7 Captain-,â,â
+sp_con_cine_intro,124.43,125.87,^8Farah:^7 It's Farah.,â,â
+sp_con_cine_intro,125.87,127.86,^8Farah:^7 It's time.,â,â
+sp_con_cine_intro,127.86,128.9,^8Price:^7 Rog.,â,â
+sp_con_cine_intro,128.9,130.66,^8Price:^7 Wheels down in one.,â,â
+sp_epi_cine_intro,10.92,12.72,^8Soap:^7 Perfect shot, Lt..,â,â
+sp_epi_cine_intro,14.47,15.99,^8Ghost:^7 You called it, Sergeant.,â,â
+sp_epi_cine_intro,17.17,18.71,^8Ghost:^7 All stations-,â,â
+sp_epi_cine_intro,18.71,21.82,^8Ghost:^7 Hassan's down. Enemy KIA.,â,â
+sp_epi_cine_intro,27.15,35.95,^3News Reporter:^7 Officials are saying a power surge is to blame for an explosion over downtown Chicago last night due to severe winds leaving thousands of residents in the dark.,â,â
+sp_epi_cine_intro,35.95,39.87,^3News Reporter:^7 Electricity is expected to be restored by this evening. In other news...,â,â
+sp_epi_cine_intro,40.46,42.16,^8Price:^7 CIA shit...,â,â
+sp_epi_cine_intro,42.16,44.56,^8Laswell:^7 Hmm... Creative writing.,â,â
+sp_epi_cine_intro,45.05,46.36,^8Price:^7 I'll never tell.,â,â
+sp_epi_cine_intro,48.75,51.05,^8Laswell:^7 AQ... Iran...,â,â
+sp_epi_cine_intro,51.06,53.56,^8Price:^7 Cartels... Russians...,â,â
+sp_epi_cine_intro,54.46,57.75,^8Laswell:^7 Shepherd... Shadow...,â,â
+sp_epi_cine_intro,60.54,62.15,^8Laswell:^7 They got past us.,â,â
+sp_epi_cine_intro,62.64,64.75,^8Price:^7 Well, they had a head start.,â,â
+sp_epi_cine_intro,66.64,69.04,^8Price:^7 To cutting heads off snakes...,â,â
+sp_epi_cine_intro,75.15,76.45,^8Price:^7 Any sign of Shepherd?,â,â
+sp_epi_cine_intro,77.64,79.24,^8Laswell:^7 Totally off the grid.,â,â
+sp_epi_cine_intro,79.25,80.74,^8Price:^7 Well, we'll find him.,â,â
+sp_epi_cine_intro,80.75,82.25,^8Laswell:^7 No, we've got bigger fish...,â,â
+sp_epi_cine_intro,83.53,85.34,^8Laswell:^7 I've done some digging on the Russians.,â,â
+sp_epi_cine_intro,85.34,86.95,^8Price:^7 Well, that's a dirty job.,â,â
+sp_epi_cine_intro,86.95,89.54,^8Laswell:^7 Ultra-nationalists ambushed that convoy, John.,â,â
+sp_epi_cine_intro,89.54,90.84,^8Price:^7 Kate, this is over.,â,â
+sp_epi_cine_intro,90.84,93.13,^8Laswell:^7 No... it's not.,â,â
+sp_epi_cine_intro,93.14,95,^8Laswell:^7 They're working with someone new.,â,â
+sp_epi_cine_intro,96.19,98.03,^8Price:^7 Who?,â,â
+sp_epi_cine_intro,102.64,104.14,^8Laswell:^7 We don't know his name.,â,â
+sp_epi_cine_intro,105.84,107.54,^8Price:^7 He's not new.,â,â
+sp_epi_cine_intro,136.04,137.55,^8Laswell:^7 Who is he?,â,â
+sp_epi_cine_intro,139.58,141.8,^8Price:^7 Makarov.,â,â
+sp_gsamb_cine_intro,0,5.67,^8Graves:^7 Hook, line and fuckin' sinker! That's what I'm talking about, Shadows. You know I love that shit!,â,â
+sp_gsamb_cine_intro,5.94,7.42,^8Graves:^7 Comms, get me the General.,â,â
+sp_gsamb_cine_intro,7.44,7.97,^8Shadow-1 Comms Ofc:^7 Check.,â,â
+sp_gsamb_cine_intro,8.36,10.8,^8Shepherd:^7 Graves, Actual, make my day.,â,â
+sp_gsamb_cine_intro,10.87,14.13,^8Graves:^7 We got him. Escorting back to base as we speak.,â,â
+sp_gsamb_cine_intro,14.2,16.43,^8Shepherd:^7 Make it quick, we can't hold him for long.,â,â
+sp_gsamb_cine_intro,16.47,17,^8Graves:^7 Roger that.,â,â
+sp_gscom_cine_intro,0.45,2.21,^8Graves:^7 Loaders, get your rounds in the can.,â,â
+sp_gscom_cine_intro,2.25,3.15,^8Shadow-1 Gunner:^7 Yes, Commander.,â,â
+sp_gscom_cine_intro,3.15,4.96,^8Graves:^7 Nav, set a heading for that compound.,â,â
+sp_gscom_cine_intro,5.04,5.74,^8Shadow-1 Nav:^7 Roger.,â,â
+sp_gscom_cine_intro,5.97,8.31,^8Graves:^7 Fire officer, keep a hand on the hot switch, we're just gettin' started here.,â,â
+sp_gscom_cine_intro,8.52,9.54,^8Shadow-1 FCO:^7 Solid copy!,â,â
+sp_gscom_cine_intro,9.55,12.74,^8Graves:^7 Pilot, you have the con. Once on station, circle the target, bring us around.,â,â
+sp_gscom_cine_intro,12.94,13.39,^8Shadow-1 Pilot:^7 Sir.,â,â
+sp_gscom_cine_intro,13.51,15.36,^8Graves:^7 Comm, get me General Shepherd.,â,â
+sp_gscom_cine_intro,15.36,16.75,^8Shadow-1 Comms Ofc:^7 Rog, stand by.,â,â
+sp_gscom_cine_intro,16.95,18.43,^8Shadow-1 Comms Ofc:^7 Shepherd's up, sir.,â,â
+sp_gscom_cine_intro,18.55,20.83,^8Graves:^7 Gold Eagle Actual, this is Shadow-1, how copy?,â,â
+sp_gscom_cine_intro,21.02,23.29,^8Shepherd:^7 Loud and clear, Shadow-1, send traffic.,â,â
+sp_gscom_cine_intro,23.41,25.87,^8Graves:^7 I had to bail your boys out, luckily they have friends in high places.,â,â
+sp_gscom_cine_intro,26.08,28.58,^8Shepherd:^7 That's what you're there for. Tell me somethin' good.,â,â
+sp_gscom_cine_intro,28.58,31.45,^8Graves:^7 We got a hit on Hassan. Approaching the target location now.,â,â
+sp_gscom_cine_intro,31.45,33.78,^8Graves:^7 We'll get this bastard rolled up for a little talkin' to.,â,â
+sp_gscom_cine_intro,33.79,37.84,^8Shepherd:^7 That's what I like to hear. Report back when Hassan's in the bag.,â,â
+sp_gscom_cine_intro,37.92,39.69,^8Graves:^7 Roger that. Out here.,â,â
+sp_gscom_cine_intro,39.98,41.61,^8Graves:^7 All Shadows, listen up-,â,â
+sp_gscom_cine_intro,41.74,43.3,^8Graves:^7 These guys on the ground...,â,â
+sp_gscom_cine_intro,43.75,47.6,^8Graves:^7 Mexican Special Forces, 141, they are your brothers now.,â,â
+sp_gscom_cine_intro,47.6,50.76,^8Graves:^7 You treat 'em like your own and let's get this done, yeah?,â,â
+sp_gscom_cine_intro,50.8,51.25,^8Shadow Group:^7 YUP-YUP!,â,â
+sp_gscom_cine_intro,51.49,52.68,^8Graves:^7 Alright!,â,â
+sp_gscom_cine_intro,53.71,58.38,^8Graves:^7 Ghost, this is Shadow-1, orbiting the compound now. Standing by for visual...,â,â
+sp_high_cine_intro,2.86,6.24,^9Valeria:^7 What happened, fucking cowboy? Did you start a war?,â,1
+sp_high_cine_intro,6.25,8.71,^9Valeria:^7 Violence chases you everywhere, I like it.,â,1
+sp_high_cine_intro,8.71,11.96,^8Alejandro:^7 I didn't make a deal with you- They did...,â,1
+sp_high_cine_intro,11.97,14.75,^9Valeria:^7 That's your mistake.,â,1
+sp_high_cine_intro,14.76,16.89,^8Price:^7 You knew there was a third missile?,â,â
+sp_high_cine_intro,16.89,20.13,^9Valeria:^7 Oh, I didn't count them. I have people for that.,â,â
+sp_high_cine_intro,20.14,20.92,^8Alejandro:^7 Yeah, she's lying.,â,â
+sp_high_cine_intro,20.92,22.19,^8Gaz:^7 Where's Hassan?,â,â
+sp_high_cine_intro,22.19,24.7,^8Ghost:^7 Where's the other missile?,â,â
+sp_high_cine_intro,26.81,28.08,^9Valeria:^7 Chicago.,â,â
+sp_high_cine_intro,30.69,31.96,^8Gaz:^7 What the fuck's goin' on?,â,â
+sp_high_cine_intro,32.09,34.6,^9Valeria:^7 I said I'd tell you where he was, I didn't say I would stop him.,â,â
+sp_high_cine_intro,34.6,36.49,^8Alejandro:^7 You fucking scorpion.,â,1
+sp_high_cine_intro,36.74,39,^8Alejandro:^7 I warned you she would do this, eh?,â,â
+sp_high_cine_intro,39.01,42.01,^9Valeria:^7 I run a business, se√±ores. We grow or we die.,â,â
+sp_high_cine_intro,42.01,44.26,^9Valeria:^7 It's the way of the world.,â,â
+sp_high_cine_intro,44.27,46.64,^8Price:^7 You put a target on your back.,â,â
+sp_high_cine_intro,46.64,47.62,^9Valeria:^7 No-,â,â
+sp_high_cine_intro,47.62,49.9,^9Valeria:^7 I put a target in Chicago...,â,â
+sp_high_cine_intro,50.46,53.84,^9Valeria:^7 Now fucking leave Las Almas and go find it. Fucking assholes, get out of here.,â,1
+sp_high_cine_intro,53.84,57.38,^8Price:^7 For now, she's yours...,â,â
+sp_high_cine_intro,58.29,59.81,^8Price:^7 But, we'll be back...,â,â
+sp_high_cine_intro,60.44,62.14,^9Valeria:^7 I look forward to it.,â,â
+sp_high_cine_intro,63.02,64.22,^8Price:^7 Let's go.,â,â
+sp_high_cine_intro,64.22,65.92,^8Alejandro:^7 Fucking come on...,â,1
+sp_high_cine_intro,68.18,70.19,^8Price:^7 Soap, prep for transport and get Laswell-,â,â
+sp_high_cine_intro,70.24,72.75,^8Price:^7 Hassan and the missile are in Chicago.,â,â
+sp_high_cine_intro,74.3,76.31,^8Alejandro:^7 Tonight, Las Almas can sleep...,â,1
+sp_high_cine_intro,76.94,79.2,^9Valeria:^7 I'll be free in 24 hours...,â,â
+sp_high_cine_intro,79.94,83.07,^9Valeria:^7 Can't say the same about you, Vaqueros.,â,â
+sp_high_cine_intro,83.08,85.07,^8Soap:^7 You're going down for what you did.,â,â
+sp_high_cine_intro,85.07,89.82,^9Valeria:^7 It doesn't matter what I did. It matters what you can prove...,â,â
+sp_high_cine_intro,91.81,93.83,^8Alejandro:^7 Go... You have work to do.,â,â
+sp_high_cine_intro,95.19,97.08,^8Soap:^7 Keep fighting the good fight, hermano.,â,â
+sp_high_cine_intro,97.09,98.97,^8Alejandro:^7 To the bitter end, my brother.,â,â
+sp_high_cine_intro,99.97,101.74,^8Rodolfo:^7 Good luck, amigos.,â,â
+sp_high_cine_intro,103.35,104.5,^8Alejandro:^7 Ghost...,â,â
+sp_high_cine_intro,104.5,106.14,^8Alejandro:^7 Don't get lost, brother.,â,1
+sp_high_cine_intro,106.51,107.42,^8Ghost:^7 Of course.,â,1
+sp_high_cine_intro,107.78,109.17,^8Alejandro:^7 [laugh],â,â
+sp_high_cine_intro,114.77,119.99,^8Gaz:^7 El Sin Nombre told us the third missile was smuggled into the United States through the Port of Chicago.,â,â
+sp_high_cine_intro,120.02,123.13,^8Soap:^7 Hassan and his AQ soldiers are with it.,â,â
+sp_high_cine_intro,123.13,126.78,^8Ghost:^7 We don't know exactly where the missile is or where it's headed.,â,â
+sp_high_cine_intro,126.78,133.03,^8Price:^7 We do know that Hassan was taken to a building in downtown Chicago owned by a shell company of the Las Almas cartel.,â,â
+sp_high_cine_intro,133.03,136.16,^8Laswell:^7 Police are on the ground cordoning off streets around the building.,â,â
+sp_high_cine_intro,136.16,138.7,^8Laswell:^7 They're on the lookout for a stolen container full of weapons.,â,â
+sp_high_cine_intro,138.7,141.18,^8Laswell:^7 They do not know we're dealing with a missile.,â,â
+sp_high_cine_intro,141.19,146.49,^8Laswell:^7 We believe Hassan is holed up in fortified server room on the 54th floor of this building.,â,â
+sp_high_cine_intro,146.49,149.37,^8Laswell:^7 I will be on the ground working to locate the missile.,â,â
+sp_high_cine_intro,149.38,153.63,^8Gaz:^7 I'll infil with the Marines on the Chicago river and move in on the ground level.,â,â
+sp_high_cine_intro,153.63,157.41,^8Ghost:^7 I'll heli up to an OP across from the objective for armed overwatch.,â,â
+sp_high_cine_intro,157.53,160.04,^8Price:^7 We'll touch two helos down on the roof of the target building,â,â
+sp_high_cine_intro,160.04,162.95,^8Price:^7 one with a troop of Marines, the other with me and Soap.,â,â
+sp_high_cine_intro,162.96,165.56,^8Laswell:^7 While Gaz and the Marines push up the building-,â,â
+sp_high_cine_intro,165.57,167.41,^8Laswell:^7 Price and Soap will work their way down,,â,â
+sp_high_cine_intro,167.41,171.41,^8Laswell:^7 with Soap repelling to the server floor, pinching Hassan in the middle.,â,â
+sp_high_cine_intro,171.42,174.12,^8Laswell:^7 Our primary mission is to locate and stop the missile.,â,â
+sp_high_cine_intro,174.12,178.25,^8Laswell:^7 But you have execute authority to kill Hassan.,â,â
+sp_intcpt_cine_intro,7.97,9.85,^8Soap:^7 On your knees.,â,â
+sp_intcpt_cine_intro,10.94,13.28,^8Graves:^7 Y'all got a clear picture?,â,â
+sp_intcpt_cine_intro,13.28,14.53,^8Shepherd:^7 Crystal.,â,â
+sp_intcpt_cine_intro,14.84,16.71,^8Laswell:^7 All set.,â,â
+sp_intcpt_cine_intro,16.72,18.9,^8Graves:^7 Alright, we are live, folks.,â,â
+sp_intcpt_cine_intro,19.37,20.4,^9Hassan:^7 Do you speak Arabic?,â,â
+sp_intcpt_cine_intro,20.77,21.71,^8Graves:^7 No.,â,â
+sp_intcpt_cine_intro,21.86,23.42,^9Hassan:^7 Farsi?,â,â
+sp_intcpt_cine_intro,23.42,24.98,^8Graves:^7 No.,â,â
+sp_intcpt_cine_intro,24.98,25.97,^9Hassan:^7 Course not.,â,â
+sp_intcpt_cine_intro,27.06,33.11,^9Hassan:^7 Then I'll speak your bastardized medieval English because you are all uneducated street dogs.,â,â
+sp_intcpt_cine_intro,33.11,36.7,^8Graves:^7 Ahh, see... we're getting off to a bad start here, Hassan.,â,â
+sp_intcpt_cine_intro,36.7,39.36,^9Hassan:^7 You are talking to a Quds Force officer.,â,â
+sp_intcpt_cine_intro,39.36,43.26,^8Graves:^7 You're the commander of a foreign terror organization.,â,â
+sp_intcpt_cine_intro,43.26,44.67,^9Hassan:^7 I can say the same to you.,â,â
+sp_intcpt_cine_intro,44.67,47.16,^8Graves:^7 What's your target, "Major"?,â,â
+sp_intcpt_cine_intro,47.48,49.66,^9Hassan:^7 What was your target when they sent missiles to my land?,â,â
+sp_intcpt_cine_intro,49.66,52,^8Graves:^7 Oh well, wild guess... To nail your ass.,â,â
+sp_intcpt_cine_intro,52.32,57.79,^9Hassan:^7 So insolent and foul-mouthed. You will learn to respect me when your nation sees fire.,â,â
+sp_intcpt_cine_intro,59.04,62.16,^8Graves:^7 You are in bed with the cartel, Hassan.,â,â
+sp_intcpt_cine_intro,62.39,66.3,^8Graves:^7 If you disappeared, no one would know where to look for the fuckin' stain.,â,â
+sp_intcpt_cine_intro,67.16,70.6,^9Hassan:^7 I have no doubt you'll take pleasure in torturing me.,â,â
+sp_intcpt_cine_intro,70.6,72.01,^8Soap:^7 Who'd you get American missiles from?,â,â
+sp_intcpt_cine_intro,72.79,76.06,^8Shepherd:^7 I don't care who they're from, I wanna know where they're going.,â,â
+sp_intcpt_cine_intro,81.85,84.03,^8Graves:^7 Take a look around, Hassan.,â,â
+sp_intcpt_cine_intro,84.43,90.22,^8Graves:^7 Now you can either become part of the food chain or you can start talking.,â,â
+sp_intcpt_cine_intro,90.22,92.16,^9Hassan:^7 I'm a hostage here.,â,â
+sp_intcpt_cine_intro,92.33,93.5,^9Hassan:^7 This is illegal.,â,â
+sp_intcpt_cine_intro,93.5,95.13,^8Alejandro:^7 You're a prisoner of war.,â,â
+sp_intcpt_cine_intro,95.28,99.19,^9Hassan:^7 Iran is not at war with Mexico. I've broken no laws.,â,â
+sp_intcpt_cine_intro,99.2,101.84,^9Hassan:^7 These men and their commanders are the law breakers.,â,â
+sp_intcpt_cine_intro,101.85,103.87,^8Soap:^7 You and your beloved General Ghorbrani broke every--,â,â
+sp_intcpt_cine_intro,103.87,105.9,^9Hassan:^7 DO NOT SPEAK HIS NAME!,â,â
+sp_intcpt_cine_intro,105.9,108.24,^9Hassan:^7 You executed him and you will pay for your crimes...,â,â
+sp_intcpt_cine_intro,108.24,109.64,^9Hassan:^7 Only god can help you now...,â,1
+sp_intcpt_cine_intro,111.05,115.74,^8Shepherd:^7 I want this bastard in permanent custody or looking up at the goddamn grass...,â,â
+sp_intcpt_cine_intro,115.89,122.76,^8Laswell:^7 General, killing Hassan is an act of war, keeping him is illegal. Right now, he is too hot to hold.,â,â
+sp_intcpt_cine_intro,122.77,126.2,^8Shepherd:^7 Tell me you're getting something actionable, Laswell.,â,â
+sp_intcpt_cine_intro,126.2,128.54,^8Laswell:^7 Working on it. Stand by.,â,â
+sp_intcpt_cine_intro,129.48,132.45,^8Graves:^7 Actual, let me finish this.,â,â
+sp_intcpt_cine_intro,132.45,134.32,^8Shepherd:^7 There is nothing I would like more.,â,â
+sp_intcpt_cine_intro,134.62,139.78,^8Shepherd:^7 But Laswell's right. Without proof we need to turn him loose. See where he leads us.,â,â
+sp_intcpt_cine_intro,139.79,142.29,^8Soap:^7 He's right here. You can't be serious.,â,â
+sp_intcpt_cine_intro,142.3,145.42,^8Shepherd:^7 I'm afraid I am, son.,â,â
+sp_intcpt_cine_intro,147.26,149.79,^8Ghost:^7 Did we get anything from his phone?,â,â
+sp_intcpt_cine_intro,150.42,152.6,^8Laswell:^7 Affirmative. We got a hit.,â,â
+sp_intcpt_cine_intro,152.92,154.95,^8Shepherd:^7 Good.,â,â
+sp_intcpt_cine_intro,155.11,157.92,^8Shepherd:^7 Now take him back and let him go.,â,â
+sp_intcpt_cine_intro,163.24,165.9,^8Alejandro:^7 Up, asshole. Come on.,â,1
+sp_intcpt_cine_intro,171.99,177,^8Laswell:^7 The data hacked from Hassan's phone in Mexico went through a cell tower off the Coast of Spain.,â,â
+sp_intcpt_cine_intro,177,180.28,^8Laswell:^7 Hassan was communicating with someone there when we caught him.,â,â
+sp_intcpt_cine_intro,180.29,183.56,^8Laswell:^7 Signals track to a hatchery used by the cartel as a smuggling front.,â,â
+sp_intcpt_cine_intro,183.88,185.91,^8Laswell:^7 It's remote and on the water.,â,â
+sp_intcpt_cine_intro,186.07,187.86,^8Price:^7 Perfect to move illegal cargo.,â,â
+sp_intcpt_cine_intro,187.87,189.81,^8Gaz:^7 Including missiles.,â,â
+sp_intcpt_cine_intro,189.81,192.77,^8Laswell:^7 We need to get on the ground and see if the missiles are there.,â,â
+sp_intcpt_cine_intro,192.77,195.07,^8Laswell:^7 Imagery shows at least 4 structures and a lighthouse.,â,â
+sp_intcpt_cine_intro,195.07,197.95,^8Laswell:^7 We need eyes inside but it's heavily guarded by cartel.,â,â
+sp_intcpt_cine_intro,198.09,201.52,^8Price:^7 The high grass lends itself to concealment in the right gear.,â,â
+sp_intcpt_cine_intro,201.52,203.08,^8Gaz:^7 Ghillie suits.,â,â
+sp_intcpt_cine_intro,203.1,206.78,^8Laswell:^7 Exactly. I'll watch the coast for movement and provide exfil by boat.,â,â
+sp_intcpt_cine_intro,206.83,209.33,^8Price:^7 You shouldn't be alone out there, Kate.,â,â
+sp_intcpt_cine_intro,209.33,210.77,^8Price:^7 One is none.,â,â
+sp_intcpt_cine_intro,210.77,212.3,^8Laswell:^7 Three's already a crowd.,â,â
+sp_intcpt_cine_intro,212.3,214.68,^8Laswell:^7 We have no jurisdiction here, John.,â,â
+sp_intcpt_cine_intro,214.68,219.21,^8Laswell:^7 We roll low and slow. This is unauthroized recon by fire.,â,â
+sp_intcpt_cine_intro,219.22,220.78,^8Laswell:^7 We're off the books.,â,â
+sp_intcpt_cine_intro,220.78,222.18,^8Laswell:^7 I'll call you when I'm in position.,â,â
+sp_intcpt_cine_intro,222.19,225,^8Laswell:^7 Let's find these missiles before Hassan puts them in our backyard.,â,â
+sp_intdic_cine_intro,4,4.9,^8Graves:^7 Have a seat.,â,â
+sp_intdic_cine_intro,5.47,7.05,^8Graves:^7 Alright. How do you two know each other?,â,â
+sp_intdic_cine_intro,7.05,8.29,^8Alejandro:^7 Know is a strong word.,â,â
+sp_intdic_cine_intro,8.63,12.78,^9Valeria:^7 Strong words are important. Our word is our worth, right?,â,1
+sp_intdic_cine_intro,12.78,16.41,^8Alejandro:^7 Go to hell you fucking sonuvabitch-- I'm going to kill you.,â,1
+sp_intdic_cine_intro,14.53,15.6,^8Soap:^7 Alejandro-,â,â
+sp_intdic_cine_intro,14.78,15.98,^8Rodolfo:^7 Calm down, Commander.,â,1
+sp_intdic_cine_intro,16.32,18.08,^8Alejandro:^7 Yeah!? Yeah!?,â,â
+sp_intdic_cine_intro,20.94,22.18,^8Alejandro:^7 Go on.,â,1
+sp_intdic_cine_intro,22.18,23.02,^8Alejandro:^7 Tell them.,â,â
+sp_intdic_cine_intro,23.08,24.66,^9Valeria:^7 I don't take orders anymore.,â,â
+sp_intdic_cine_intro,25.54,28.66,^9Valeria:^7 Even the dogs in Las Almas know not to bark at me.,â,â
+sp_intdic_cine_intro,28.66,29.52,^8Alejandro:^7 Look at this-,â,1
+sp_intdic_cine_intro,29.61,32.22,^8Alejandro:^7 She's ex-military. We served together.,â,â
+sp_intdic_cine_intro,33.07,36.02,^9Valeria:^7 Different squads, same unit.,â,â
+sp_intdic_cine_intro,36.03,40.8,^9Valeria:^7 You were the wild ones, huh... "los vaqueros.",â,â
+sp_intdic_cine_intro,41.31,44.56,^8Valeria :^7 My squad was clean cut se√±ores y se√±oras...,â,â
+sp_intdic_cine_intro,44.56,46.49,^8Alejandro:^7 Until the raid on the son of La Ara√±a.,â,â
+sp_intdic_cine_intro,46.5,47.47,^8Alejandro:^7 Do you remember?,â,1
+sp_intdic_cine_intro,47.47,49.1,^9Valeria:^7 I remember perfectly.,â,1
+sp_intdic_cine_intro,49.1,52.73,^8Alejandro:^7 Her team was told to cordon off the city to keep out La Ara√±a's enforcers and prevent the bloodshed.,â,â
+sp_intdic_cine_intro,52.91,55.34,^9Valeria:^7 That's exactly what we did.,â,â
+sp_intdic_cine_intro,55.34,57.95,^8Alejandro:^7 Well, you kept out his enforcers, because you were his enforcers, huh?,â,â
+sp_intdic_cine_intro,57.95,60.9,^9Valeria:^7 He was escorted to the mountains without incident.,â,â
+sp_intdic_cine_intro,61.61,64.39,^9Valeria:^7 Also to prevent bloodshed.,â,â
+sp_intdic_cine_intro,64.39,65.9,^8Rodolfo:^7 He was supposed to go to prison.,â,â
+sp_intdic_cine_intro,65.9,69.44,^8Graves:^7 So you killed him and you took over.,â,â
+sp_intdic_cine_intro,70.13,74.44,^9Valeria:^7 I created a power vacuum... And I filled it.,â,â
+sp_intdic_cine_intro,74.44,75.9,^9Valeria:^7 Las Almas needs me.,â,â
+sp_intdic_cine_intro,75.9,79.95,^8Alejandro:^7 Las Almas needs soldiers, not sicarios...,â,â
+sp_intdic_cine_intro,80.71,82.06,^8Alejandro:^7 And you...,â,1
+sp_intdic_cine_intro,83.42,86.16,^8Alejandro:^7 You disgrace the army.,â,â
+sp_intdic_cine_intro,89.07,90.43,^8Alejandro:^7 And your brothers, no?,â,1
+sp_intdic_cine_intro,91.58,93.33,^8Graves:^7 Why're you doin' this?,â,â
+sp_intdic_cine_intro,94.02,95.6,^9Valeria:^7 You tell me...,â,â
+sp_intdic_cine_intro,95.6,98.41,^9Valeria:^7 you're the contractor, no?,â,â
+sp_intdic_cine_intro,98.42,101.53,^9Valeria:^7 What you don't do your competitors will.,â,â
+sp_intdic_cine_intro,101.53,104.7,^8Ghost:^7 You're a narco, harboring a terrorist.,â,â
+sp_intdic_cine_intro,104.87,107.65,^9Valeria:^7 Terrorism is good for business. It's insurance.,â,â
+sp_intdic_cine_intro,107.65,109.4,^8Alejandro:^7 What the fuck does that mean?,â,â
+sp_intdic_cine_intro,109.4,115.42,^9Valeria:^7 Can you get your fucking head out of your ass for a second? For fuck's sake, Alejandro.,â,1
+sp_intdic_cine_intro,117.48,123.5,^9Valeria:^7 As long as there is a war on terror, there will be no real war on drugs.,â,â
+sp_intdic_cine_intro,124.52,128.5,^9Valeria:^7 To find your so called terrorist, and your missiles, you need me.,â,â
+sp_intdic_cine_intro,129.87,131.96,^9Valeria:^7 To prevent bloodshed.,â,â
+sp_intdic_cine_intro,131.96,133.12,^8Alejandro:^7 No. I'm not doing this...,â,â
+sp_intdic_cine_intro,133.12,134.36,^8Soap:^7 Doesn't change anything.,â,â
+sp_intdic_cine_intro,134.36,136.62,^8Alejandro:^7 It changes everything!,â,â
+sp_intdic_cine_intro,136.63,138.24,^8Alejandro:^7 FUCK!,â,â
+sp_intdic_cine_intro,139.7,142.13,^8Alejandro:^7 Don't make a deal with her...,â,â
+sp_intdic_cine_intro,142.64,144.74,^8Alejandro:^7 It won't end well.,â,â
+sp_intdic_cine_intro,149.14,151.92,^8Soap:^7 Looks like it's your turn to tell the truth.,â,â
+sp_intdic_cine_intro,154.31,157.78,^8Graves:^7 I want the missiles, I want the target and I want Hassan.,â,â
+sp_intdic_cine_intro,157.78,164.06,^8Graves:^7 And you've got 10 seconds or I'm gonna show you the difference between the military and me.,â,â
+sp_intdic_cine_intro,164.06,168.76,^9Valeria:^7 I don't know the targets. I'm a courier. I move things.,â,â
+sp_intdic_cine_intro,169.49,175.68,^9Valeria:^7 I can tell you where to find the missiles. When you return, I'll tell you where Hassan is.,â,â
+sp_intdic_cine_intro,175.86,179.31,^9Valeria:^7 In exchange, you will let me go. And get the fuck out of Las Almas.,â,â
+sp_intdic_cine_intro,179.32,181.46,^9Valeria:^7 Now leave-,â,1
+sp_intdic_cine_intro,185.68,186.75,^8Graves:^7 Deal.,â,â
+sp_intdic_cine_intro,186.88,189.96,^8Graves:^7 Until then... you're stayin' right here.,â,â
+sp_intdic_cine_intro,194.27,201.49,^8Shepherd:^7 Coordinates obtained through interrogation confirm an oil rig 400 nautical miles offshore in the Gulf of Mexico.,â,â
+sp_intdic_cine_intro,201.5,207.69,^8Shepherd:^7 The rig is no longer active and is currently in use by the cartel as a smuggling dead drop.,â,â
+sp_intdic_cine_intro,207.69,212.01,^8Shepherd:^7 A cargo ship is anchored 500 meters to its northwest.,â,â
+sp_intdic_cine_intro,212.01,216.77,^8Shepherd:^7 Surveillance saw personnel moving a large container from the ship to the rig.,â,â
+sp_intdic_cine_intro,216.77,222.31,^8Shepherd:^7 That container is now on top of the platform. We believe this is the missile.,â,â
+sp_intdic_cine_intro,222.31,229.53,^8Shepherd:^7 TF 141, Colonel Vargas and Shadow Company will infil three boat teams for a simultaneous takedown of both targets.,â,â
+sp_intdic_cine_intro,229.53,232.15,^8Shepherd:^7 Ghost will lead the ship assault team.,â,â
+sp_intdic_cine_intro,232.15,236.6,^8Shepherd:^7 Graves, Soap, and Alejandro will engage the oil rig and disarm the missile.,â,â
+sp_intdic_cine_intro,236.6,239.67,^8Shepherd:^7 All shooters will give no quarter.,â,â
+sp_intdic_cine_intro,239.68,242.96,^8Shepherd:^7 Your orders are to eliminate all threats.,â,â
+sp_jup_finale_cine,37.33,38.99,^8Price:^7 He was the best of us.,â,â
+sp_jup_finale_cine,40.79,41.92,^8Gaz:^7 The toughest.,â,â
+sp_jup_finale_cine,42.66,45.26,^8Ghost:^7 He'd've fought the world barehanded...,â,â
+sp_jup_finale_cine,55.93,57.59,^8Price:^7 Who dares wins...,â,â
+sp_jup_finale_cine,59.52,61.59,^8Price:^7 Sleep easy, soldier.,â,â
+sp_jup_finale_cine,62.66,63.93,^8Gaz:^7 See you down range, brother...,â,â
+sp_jup_finale_cine,64.66,66.12,^8Gaz:^7 We'll take it from here...,â,â
+sp_jup_finale_cine,67.6,70,^8Ghost:^7 Rest in peace, Johnny...,â,â
+sp_jup_flashback_cine,8.47,11.76,^8Laswell:^7 A former ULF soldier wearing a suicide vest on a Russian airliner.,â,â
+sp_jup_flashback_cine,12.49,14.36,^8Farah:^7 She was forced. I'm sure of it.,â,â
+sp_jup_flashback_cine,14.36,17.37,^8Farah:^7 Samara. She was a good fighter.,â,â
+sp_jup_flashback_cine,17.37,21.23,^8Farah:^7 Joined my forces during the occupation. Left to raise her family.,â,â
+sp_jup_flashback_cine,21.23,23.83,^8Laswell:^7 What happened at the crash-site?,â,â
+sp_jup_flashback_cine,23.83,26.89,^8Farah:^7 They were planting evidence to frame us... And collecting the rest.,â,â
+sp_jup_flashback_cine,26.89,29.62,^8Farah:^7 We killed as many as we could and took the phones.,â,â
+sp_jup_flashback_cine,29.62,30.62,^8Laswell:^7 And the black box...?,â,â
+sp_jup_flashback_cine,30.62,31.75,^8Farah:^7 Wiped it clean.,â,â
+sp_jup_flashback_cine,31.75,35.95,^8Laswell:^7 Smart. You stopped Makarov from controlling the narrative.,â,â
+sp_jup_flashback_cine,35.95,41.61,^8Laswell:^7 If Konni operatives were on that plane- they got off somehow. Makarov wouldn't leave that loose end...,â,â
+sp_jup_flashback_cine,41.62,44.75,^8Farah:^7 Some people will believe the ULF was responsible.,â,â
+sp_jup_flashback_cine,44.75,46.81,^8Laswell:^7 Thanks to you- No one can prove it.,â,â
+sp_jup_flashback_cine,46.81,50.46,^8Laswell:^7 People will speculate but you beat Makarov at his own game.,â,â
+sp_jup_flashback_cine,50.46,55.55,^8Farah:^7 It's not enough... I sent Alex after Konni. If they're in Urzikstan, he'll find them.,â,â
+sp_jup_flashback_cine,55.55,59.75,^8Laswell:^7 Copy. When I regroup with 141, whatever we know, you'll know...,â,â
+sp_jup_flashback_cine,59.75,61.81,^8Laswell:^7 And Farah...,â,â
+sp_jup_flashback_cine,61.81,62.94,^8Farah:^7 Yes, Laswell.,â,â
+sp_jup_flashback_cine,62.94,64.6,^8Laswell:^7 I'm sorry about Samara.,â,â
+sp_jup_flashback_cine,64.6,66.14,^8Farah:^7 Me too...,â,â
+sp_jup_flashback_cine,78.14,79.08,^8Price:^7 How ya holding up?,â,â
+sp_jup_flashback_cine,79.08,80.67,^8Laswell:^7 Still here.,â,â
+sp_jup_flashback_cine,80.67,83.33,^8Nikolai:^7 My brothers...,â,â
+sp_jup_flashback_cine,81.61,83.48,^8Gaz:^7 Nik!,â,â
+sp_jup_flashback_cine,84.4,87.13,^8Price:^7 How ya doin', comrade?,â,â
+sp_jup_flashback_cine,87.14,88.66,^8Nikolai:^7 Better now, Captain...,â,â
+sp_jup_flashback_cine,88.67,91.53,^8Nikolai:^7 Fucking ultranationalists...,â,â
+sp_jup_flashback_cine,91.54,96.8,^8Laswell:^7 Security feed from the airport. Passenger had a boarding pass for Flight 761.,â,â
+sp_jup_flashback_cine,96.8,98.06,^8Soap:^7 Fake passport...,â,â
+sp_jup_flashback_cine,98.06,99.19,^8Gaz:^7 Or inside job...,â,â
+sp_jup_flashback_cine,99.19,100.32,^8Ghost:^7 More likely.,â,â
+sp_jup_flashback_cine,100.32,101.85,^8Nikolai:^7 No one stopped him...,â,â
+sp_jup_flashback_cine,101.86,103.65,^8Gaz:^7 Walk in the bloody park.,â,â
+sp_jup_flashback_cine,105.65,108.38,^8Soap:^7 That's Makarov.,â,â
+sp_jup_flashback_cine,108.39,110.32,^8Gaz:^7 Farah and Alex- what'd they get?,â,â
+sp_jup_flashback_cine,111.12,113.31,^8Laswell:^7 Not enough to prove anything.,â,â
+sp_jup_flashback_cine,113.32,117.78,^8Soap:^7 Sick bastard's topping American missiles with chemical weapons and killing his own people.,â,â
+sp_jup_flashback_cine,118.02,120.08,^8Soap:^7 He's killing civilians.,â,â
+sp_jup_flashback_cine,120.45,122.51,^8Gaz:^7 Pinning the blame on Farah...,â,â
+sp_jup_flashback_cine,122.91,124.84,^8Laswell:^7 And the United States.,â,â
+sp_jup_flashback_cine,124.98,126.64,^8Nikolai:^7 He's playing with fire.,â,â
+sp_jup_flashback_cine,126.64,130.44,^8Price:^7 False flag operations. He wants a war.,â,â
+sp_jup_flashback_cine,130.44,134.37,^8Ghost:^7 East vs West. The title fight.,â,â
+sp_jup_flashback_cine,134.37,136.44,^8Gaz:^7 Is the world fallin' for this, Kate?,â,â
+sp_jup_flashback_cine,138.57,140.9,^8Laswell:^7 We're on the brink, boys.,â,â
+sp_jup_flashback_cine,141.97,145.37,^8Soap:^7 Had him right in our fuckin' hands...,â,â
+sp_jup_flashback_cine,145.37,147.97,^8Price:^7 I shoulda killed him when we had the chance.,â,â
+sp_jup_flashback_cine,147.97,150.37,^8Laswell:^7 What stopped you...?,â,â
+sp_jup_flashback_cine,153.71,158.31,4 YEARS AGO,â,â
+sp_jup_flashback_cine,160.57,164.51,VERDANSK,â,â
+sp_jup_flashback_cine,166.11,174.58,^8Shepherd:^7 Gold Eagle to Bravo-6. Security confirms gunfire and at least one explosion in the stadium with multiple injuries, over...,â,â
+sp_jup_flashback_cine,174.58,176.11,^8Price:^7 Copy, we're inbound now.,â,â
+sp_jup_flashback_cine,176.11,182.18,^8Shepherd:^7 Be advised, Makarov and his men may still be inside. If he's there, you bring him out- alive.,â,â
+sp_jup_flashback_cine,182.18,183.97,^8Soap:^7 Roger that. Where's medical?,â,â
+sp_jup_flashback_cine,183.98,187.37,^8Shepherd:^7 First responders will not enter until the scene is clear.,â,â
+sp_jup_flashback_cine,187.38,191.29,^8Shepherd:^7 The third-floor VIP Lounge may be Makarov's next target.,â,â
+sp_jup_flashback_cine,191.29,192,^8Soap:^7 Christ Almighty.,â,â
+sp_jup_flashback_cine_outro,2.1,4.67,^9Makarov:^7 Simon Riley...,â,â
+sp_jup_flashback_cine_outro,4.1,6.67,^9Makarov:^7 I expected you to stay at the airport...,â,â
+sp_jup_flashback_cine_outro,6.84,8.54,^9Makarov:^7 And die there.,â,â
+sp_jup_flashback_cine_outro,7.98,12.88,^8Shepherd:^7 If you wanna live, do not threaten my men, Vladimir.,â,â
+sp_jup_flashback_cine_outro,13.41,16.5,^9Makarov:^7 Are we on first name basis... Herschel?,â,â
+sp_jup_flashback_cine_outro,15.98,19.35,^8Soap:^7 So you know names- anyone can read a bloody dossier.,â,â
+sp_jup_flashback_cine_outro,18.78,21.19,^8Ghost:^7 What's the rest of your plan?,â,â
+sp_jup_flashback_cine_outro,21.32,22.76,^9Makarov:^7 This.,â,â
+sp_jup_flashback_cine_outro,22.92,25.09,^8Price:^7 What do you mean, "this"?,â,â
+sp_jup_flashback_cine_outro,26.53,28.06,^9Makarov:^7 Amazing.,â,â
+sp_jup_flashback_cine_outro,28.6,30.69,^9Makarov:^7 You're all dumber than you look.,â,â
+sp_jup_flashback_cine_outro,30.13,32.31,^8Ghost:^7 I asked you a question.,â,â
+sp_jup_flashback_cine_outro,31.7,33.57,^9Makarov:^7 And I have a question for you...,â,â
+sp_jup_flashback_cine_outro,33.73,35.39,^9Makarov:^7 What time is it?,â,â
+sp_jup_flashback_cine_outro,34.64,38.38,^8Shepherd:^7 What the hell do you care what time it is?,â,â
+sp_jup_flashback_cine_outro,37.57,39.87,^9Makarov:^7 Timing is everything, General.,â,â
+sp_jup_flashback_cine_outro,40.17,42.84,^9Makarov:^7 I think we'll all remember this moment.,â,â
+sp_jup_flashback_cine_outro,43.31,44.71,^9Makarov:^7 Some...,â,â
+sp_jup_flashback_cine_outro,45.24,47.71,^9Makarov:^7 More fondly than others.,â,â
+sp_jup_flashback_cine_outro,48.05,50.48,[distant explosions],â,â
+sp_jup_flashback_cine_outro,52.16,52.16,^8Soap:^7 Let me finish him!,â,â
+sp_jup_flashback_cine_outro,52.29,54.43,^8Ghost:^7 The airport!!,â,â
+sp_jup_flashback_cine_outro,53.62,55.71,^8Price:^7 He pulled us off target!,â,â
+sp_jup_flashback_cine_outro,54.96,57.29,^8Soap:^7 You fuckin' sonuvabitch!!,â,â
+sp_jup_flashback_cine_outro,59.46,62.83,^8Soap:^7 I'll blow your fuckin' brains out, Makarov - you hear me, I swear to god I'll do it.,â,â
+sp_jup_flashback_cine_outro,59.88,62.84,^8Price:^7 Soap... Soap! Don't do it!,â,â
+sp_jup_flashback_cine_outro,62.9,64.26,^9Makarov:^7 Do it, come on!,â,â
+sp_jup_flashback_cine_outro,63.5,65.28,^8Price:^7 You shut your mouth!!,â,â
+sp_jup_flashback_cine_outro,64.8,66.11,^8Soap:^7 Let me finish him!,â,â
+sp_jup_flashback_cine_outro,65.4,66.52,^9Makarov:^7 [laughing],â,â
+sp_jup_flashback_cine_outro,66,70.3,^8Price:^7 John, we have him! He's in custody. He's not going anywhere.,â,â
+sp_jup_flashback_cine_outro,70.84,72.91,^8Price:^7 Stand down, Sergeant.,â,â
+sp_jup_flashback_cine_outro,75.08,76.28,^9Makarov:^7 Tsk, tsk, tsk...,â,â
+sp_jup_flashback_cine_outro,83.22,85.45,^9Makarov:^7 I thought you were the good guys.,â,â
+sp_jup_flashback_cine_outro,85.65,88.3,^8Shepherd:^7 You gon' rot in hell for this.,â,â
+sp_jup_flashback_cine_outro,87.69,90.99,^8Soap:^7 You'll die in a gulag with the rest o' the Russian rats.,â,â
+sp_jup_flashback_cine_outro,92.26,95.93,^9Makarov:^7 I'll be seeing you again, MacTavish...,â,â
+sp_jup_flashback_cine_outro,98.2,99.83,^9Makarov:^7 I promise.,â,â
+sp_jup_gunship_cine,0,3.06,^8Laswell:^7 Ghost and Soap prevented a disaster at the dam. They stopped Makarov.,â,â
+sp_jup_gunship_cine,3.08,4.6,^8Laswell:^7 You need to do the same.,â,â
+sp_jup_gunship_cine,5,6.53,^8Price:^7 With Farah and Alex, we will.,â,â
+sp_jup_gunship_cine,6.53,8.8,^8Laswell:^7 You and Graves are on the same team, John. Don't forget that.,â,â
+sp_jup_gunship_cine,8.8,10.46,^8Price:^7 I don't forget anything.,â,â
+sp_jup_gunship_cine,10.46,13.99,^8Graves:^7 Looking good, boys. We are a go for pre-check.,â,â
+sp_jup_gunship_cine,13.99,15.28,^8Graves:^7 We're a go for pre-check.,â,â
+sp_jup_gunship_cine,21.92,24.6,^8Graves:^7 [laugh] Yeah! We ready to rumble...?,â,â
+sp_jup_gunship_cine,24.8,26.28,^8Farah:^7 This is a joint operation.,â,â
+sp_jup_gunship_cine,26.29,30.19,^8Farah:^7 ULF... 141... and Shadow... Together as one...,â,â
+sp_jup_gunship_cine,30.93,31.99,^8Price:^7 Gaz...,â,â
+sp_jup_gunship_cine,43.06,44.93,^8Alex:^7 Together as one...,â,â
+sp_jup_gunship_cine,46.1,47.23,^8Alex:^7 You sure?,â,â
+sp_jup_gunship_cine,47.7,50.6,^8Farah:^7 If we don't- we lose...,â,â
+sp_jup_gunship_cine,51,52.4,^8Shadow 1:^7 Ready for APU start?,â,â
+sp_jup_gunship_cine,52.4,52.93,^8Graves:^7 Cleared.,â,â
+sp_jup_gunship_cine,52.93,53.99,^8Shadow 2:^7 Moving to engine check.,â,â
+sp_jup_gunship_cine,53.99,54.72,^8Shadow 2:^7 Check.,â,â
+sp_jup_gunship_cine,54.72,55.38,^8Shadow 3:^7 Good start.,â,â
+sp_jup_gunship_cine,55.38,56.58,^8Shadow 1:^7 Shadow is loaded.,â,â
+sp_jup_gunship_cine,57.05,57.98,^8Graves:^7 Control, how copy?,â,â
+sp_jup_gunship_cine,57.98,59.58,^8Shadow 3:^7 Cleared for taxi, Shadow.,â,â
+sp_jup_gunship_cine,59.58,61.84,^8Graves:^7 Roger that. Let's fly...,â,â
+sp_jup_gunship_cine,61.84,64.31,^8Graves:^7 Shadow to Gold Eagle, candle is lit.,â,â
+sp_jup_gunship_cine,64.31,66.04,^8Shepherd:^7 Go get 'em, Shadow.,â,â
+sp_jup_gunship_cine,83.46,85.99,^8Graves:^7 Gold Eagle to Actual. Shadow-1 is on station.,â,â
+sp_jup_gunship_cine,86.06,90.26,^8Shepherd:^7 Shadow-1, Ground Team is at rally point Boneyard.,â,â
+sp_jup_gunship_cine,90.26,94.73,^8Shepherd:^7 You'll provide air cover while they locate the chemicals and hunt down Makarov.,â,â
+sp_jup_gunship_cine,94.74,95.87,^8Graves:^7 Copy, Actual.,â,â
+sp_jup_gunship_cine_outro,1,6.17,^8Graves:^7 Three things you cannot outrun in this world, folks- Death, taxes, and me.,â,â
+sp_jup_gunship_cine_outro,6.24,10.28,^8Graves:^7 Pleasure doin' business with you boys and girls. Actual, I'm RTB. Out here.,â,â
+sp_jup_gunship_cine_outro,10.34,15.25,^8Shepherd:^7 Roger that, Shadow. That's some big league work out there. Blue skies, son.,â,â
+sp_jup_gunship_cine_outro,15.32,17.48,^8Alex:^7 Appreciate the assist, Shadow.,â,â
+sp_jup_gunship_cine_outro,18.99,24.32,^8Price:^7 Six to all stations- That kill is not confirmed... I say again- That kill is not confirmed.,â,â
+sp_jup_gunship_cine_outro,24.39,27.61,^8Price:^7 We need to search the site for PID on Makarov.,â,â
+sp_jup_gunship_cine_outro,26.99,36.37,^8Shepherd:^7 Gold Eagle Actual to all stations, your orders are to stand down. We got nothin' but fire and brimstone out there and that's all the confirmation we need.,â,â
+sp_jup_gunship_cine_outro,36.44,39.14,^8Shepherd:^7 Six, go to 1...,â,â
+sp_jup_gunship_cine_outro,38.4,40.28,^8Price:^7 Go for Six...,â,â
+sp_jup_gunship_cine_outro,39.51,43.18,^8Shepherd:^7 It's over, John... We nailed that bastard to hell and gone.,â,â
+sp_jup_gunship_cine_outro,42.64,45.76,^8Price:^7 Yeah, that's what we said about your little shadow, Graves, yeah?,â,â
+sp_jup_gunship_cine_outro,45.18,50.18,^8Shepherd:^7 Makarov's dead, Cap'n. Don't let him live inside your head. Eagle out.,â,â
+sp_jup_gunship_cine_outro,53.95,57.09,^8Farah:^7 Shepherd only sees what he wants.,â,â
+sp_jup_gunship_cine_outro,56.39,59.56,^8Price:^7 His name on a win... Another medal on his chest.,â,â
+sp_jup_gunship_cine_outro,59.83,61.43,^8Price:^7 What do you see?,â,â
+sp_jup_gunship_cine_outro,62.6,65.17,^8Farah:^7 It's what I don't see that worries me.,â,â
+sp_jup_gunship_cine_outro,66,69.94,^8Gaz:^7 If he is alive, he'll let us know.,â,â
+sp_jup_gunship_cine_outro,70.14,73.34,^8Alex:^7 Where and when, that's the question...,â,â
+sp_jup_milbase_cine,0,2.6,THREE HOURS EARLIER,â,â
+sp_jup_milbase_cine,5.13,5.79,^8Laswell:^7 Nik...,â,â
+sp_jup_milbase_cine,7.61,8.96,^8Laswell:^7 Nikolai!,â,â
+sp_jup_milbase_cine,9.74,11.1,^8Nikolai:^7 Laswell...,â,â
+sp_jup_milbase_cine,11.53,12.97,^8Laswell:^7 Really...?,â,â
+sp_jup_milbase_cine,18.7,19.79,^8Nikolai:^7 Makarov?,â,â
+sp_jup_milbase_cine,19.99,21.58,^8Laswell:^7 Word travels fast.,â,â
+sp_jup_milbase_cine,21.58,23.45,^8Nikolai:^7 Only when if he wants it to...,â,â
+sp_jup_milbase_cine,24.58,26.63,^8Laswell:^7 You think he's working for the Kremlin?,â,â
+sp_jup_milbase_cine,26.63,28.85,^8Nikolai:^7 I wouldn't be surprised.,â,â
+sp_jup_milbase_cine,29.02,31.59,^8Laswell:^7 I have a contact who might know the answer.,â,â
+sp_jup_milbase_cine,32.47,33.96,^8Laswell:^7 I need transport.,â,â
+sp_jup_milbase_cine,34.28,35.46,^8Nikolai:^7 Where?,â,â
+sp_jup_milbase_cine,35.63,37.68,^8Laswell:^7 Arklov Military Base.,â,â
+sp_jup_milbase_cine,38.46,40.16,^8Nikolai:^7 It's heavily guarded.,â,â
+sp_jup_milbase_cine,40.77,42.21,^8Laswell:^7 Can you do it?,â,â
+sp_jup_milbase_cine,42.21,45.12,^8Nikolai:^7 To stop Makarov... Of course.,â,â
+sp_jup_milbase_cine,45.12,46.65,^8Laswell:^7 I need to get in and back out.,â,â
+sp_jup_milbase_cine,47.91,49.43,^8Laswell:^7 Could go upside down quickly.,â,â
+sp_jup_milbase_cine,49.43,52.1,^8Nikolai:^7 I specialize in upside down, Laswell.,â,â
+sp_jup_milbase_cine,53.38,55.1,^8Laswell:^7 That's what I'm afraid of...,â,â
+sp_jup_milbase_cine,55.69,57.04,^8Nikolai:^7 Who's your contact?,â,â
+sp_jup_milbase_cine,57.05,58.74,^8Laswell:^7 Yuri Volkov.,â,â
+sp_jup_milbase_cine,59.52,60.96,^8Nikolai:^7 Yuri's on the payroll?,â,â
+sp_jup_milbase_cine,60.96,62.75,^8Laswell:^7 Yuri never took a dime.,â,â
+sp_jup_milbase_cine,62.75,63.67,^8Nikolai:^7 That's Yuri...,â,â
+sp_jup_milbase_cine,63.67,65.15,^8Nikolai:^7 When do we leave?,â,â
+sp_jup_milbase_cine,65.15,66.63,^8Laswell:^7 How's now...?,â,â
+sp_jup_milbase_cine,86.43,88.17,^8Laswell:^7 Nice...,â,â
+sp_jup_milbase_cine,88.17,90.74,^8Nikolai:^7 We need to fly low...,â,â
+sp_jup_milbase_cine,90.74,91.65,^8Laswell:^7 Under the radar...,â,â
+sp_jup_milbase_cine,91.66,92.92,^8Nikolai:^7 Exactly.,â,â
+sp_jup_milbase_cine,99.05,100.78,^8Nikolai:^7 We are a mile out...,â,â
+sp_jup_milbase_cine,100.98,102.94,^8Laswell:^7 Don't get compromised.,â,â
+sp_jup_milbase_cine,102.94,105.35,^8Laswell:^7 Dust off and go... Call you when I need you.,â,â
+sp_jup_milbase_cine,105.35,106.36,^8Nikolai:^7 Roger.,â,â
+sp_jup_milbase_cine,115.61,116.74,^8Nikolai:^7 Go-go-go!,â,â
+sp_jup_milbase_cine,118.44,119.48,^8Laswell:^7 I'm clear!,â,â
+sp_jup_milbase_cine,119.79,121.79,^8Nikolai:^7 Copy. Good luck, Laswell!,â,â
+sp_jup_milbase_cine,121.79,124.22,^8Laswell:^7 You too, Nik!,â,â
+sp_jup_milbase_cine_yuri,7.91,9.03,^8Laswell:^7 Yuri...,â,â
+sp_jup_milbase_cine_yuri,8.44,9.84,^8Yuri:^7 Watcher...,â,â
+sp_jup_milbase_cine_yuri,10.58,13.08,^8Yuri:^7 I'm impressed, but...,â,â
+sp_jup_milbase_cine_yuri,13.28,15.05,^8Yuri:^7 Not surprised.,â,â
+sp_jup_milbase_cine_yuri,17.29,19.29,^8Yuri:^7 Any issues?,â,â
+sp_jup_milbase_cine_yuri,18.75,20.57,^8Laswell:^7 Several.,â,â
+sp_jup_milbase_cine_yuri,20.09,22.36,^8Yuri:^7 Collateral damage?,â,â
+sp_jup_milbase_cine_yuri,21.92,24.39,^8Laswell:^7 I hope it's worth their sacrifice.,â,â
+sp_jup_milbase_cine_yuri,27.59,29.27,^8Yuri:^7 [chuckles],â,â
+sp_jup_milbase_cine_yuri,28.63,30.23,^8Laswell:^7 What do you have?,â,â
+sp_jup_milbase_cine_yuri,34.84,37.4,^8Yuri:^7 FSB files on Barkov's research.,â,â
+sp_jup_milbase_cine_yuri,38.1,39.97,^8Laswell:^7 Chemical weapons.,â,â
+sp_jup_milbase_cine_yuri,38.87,43.26,^8Yuri:^7 As a soldier, Makarov was... enamored with their potential.,â,â
+sp_jup_milbase_cine_yuri,43.18,45.39,^8Laswell:^7 Can they be neutralized?,â,â
+sp_jup_milbase_cine_yuri,44.24,46.51,^8Yuri:^7 I'm giving you everything we know.,â,â
+sp_jup_milbase_cine_yuri,51.58,52.82,^8Laswell:^7 Why?,â,â
+sp_jup_milbase_cine_yuri,54.22,60.69,^8Yuri:^7 Russia and the West face similar threats from within. It is imperative we collaborate to control them.,â,â
+sp_jup_milbase_cine_yuri,61.23,65.46,^8Yuri (Russian):^7 The opponent of my opponent is my ally.,â,1
+sp_jup_milbase_cine_yuri,68.74,71.99,^8Laswell:^7 Nikolai would agree.,â,1
+sp_jup_milbase_cine_yuri,71.5,73.41,^8Yuri:^7 [laughs],â,â
+sp_jup_milbase_cine_yuri,74.64,77.41,^8Yuri:^7 A true patriot.,â,1
+sp_jup_milbase_cine_yuri,80.48,83.58,^8Yuri:^7 The Kremlin is not behind these chemicals.,â,â
+sp_jup_milbase_cine_yuri,84.05,87.28,^8Laswell:^7 That doesn't mean Makarov isn't working with Moscow.,â,â
+sp_jup_milbase_cine_yuri,86.19,91.03,^8Yuri\:^7 There are extremists in both our governments...,â,â
+sp_jup_milbase_cine_yuri,90.29,93.43,^8Price (over comms):^7 6 to Watcher... 6 to Watcher!,â,â
+sp_jup_milbase_cine_yuri,94.13,96.72,^8Laswell:^7 Come again, Bravo?,â,â
+sp_jup_milbase_cine_yuri,95.73,96.93,^8Price:^7 Kate!,â,â
+sp_jup_milbase_cine_yuri,98.16,99.91,^8Price:^7 Laswell, are you there!?,â,â
+sp_jup_milbase_cine_yuri,100.17,102.34,^8Laswell:^7 Bravo, your signal's weak. Come again.,â,â
+sp_jup_milbase_cine_yuri,101.5,106.39,^8Price:^7 This is 6, in the blind! We have two missiles incoming to the Arklov Base!,â,â
+sp_jup_milbase_cine_yuri,105.81,109,^8Price:^7 They have chemical warheads! If you are there, get out!,â,â
+sp_jup_post_cine,31.76,32.59,^8Shepherd:^7 John.,â,â
+sp_jup_post_cine,32.59,33.63,^8Price:^7 General.,â,â
+sp_jup_post_cine,36.2,38.01,^8Shepherd:^7 How did you get in here?,â,â
+sp_jup_post_cine,39.23,40.69,^8Price:^7 Mutual friend.,â,â
+sp_jup_post_cine,40.69,41.46,^8Shepherd:^7 Hmm...,â,â
+sp_jup_post_cine,41.96,43.42,^8Shepherd:^7 Laswell...,â,â
+sp_jup_post_cine,44.8,45.71,^8Price:^7 Eh-eh...,â,â
+sp_jup_post_cine,50.71,52.38,^8Shepherd:^7 You're better than this, Cap'n.,â,â
+sp_jup_post_cine,54.3,55.69,^8Price:^7 Hmm...,â,â
+sp_jup_post_cine,57.45,58.97,^8Price:^7 We both were...,â,â
+sp_jup_post_cine,59.39,64.81,^8Shepherd:^7 This job is about making sacrifices for the greater good.,â,â
+sp_jup_post_cine,66.54,67.45,^8Price:^7 Agreed.,â,â
+sp_jup_post_cine,67.93,70.57,^8Shepherd:^7 You got a body-count o' your own, John.,â,â
+sp_jup_post_cine,72.23,74.45,^8Shepherd:^7 It'll come back to haunt you...,â,â
+sp_jup_post_cine,76.06,79.53,^8Shepherd:^7 Oh, I am not gonna beg for my life.,â,â
+sp_jup_post_cine,80.15,84.94,^8Shepherd:^7 Not from you or anybody else, Cap'n.,â,â
+sp_jup_post_cine,85.78,87.94,^8Price:^7 Wouldn't do you any good.,â,â
+sp_jup_silo_cine,1.41,3.53,^8Gaz:^7 Laswell. It was chemical weapons.,â,â
+sp_jup_silo_cine,3.53,7.47,^8Gaz:^7 Makarov has highly concentrated Sarin gas.,â,â
+sp_jup_silo_cine,7.47,8.53,^8Laswell:^7 Did you secure it?,â,â
+sp_jup_silo_cine,8.53,9.26,^8Ghost:^7 Negative.,â,â
+sp_jup_silo_cine,9.26,11.38,^8Soap:^7 Captain almost died tryin'...,â,â
+sp_jup_silo_cine,11.38,12.11,^8Laswell:^7 Where is he?,â,â
+sp_jup_silo_cine,12.11,13.76,^8Price:^7 I'm here, Laswell...,â,â
+sp_jup_silo_cine,13.89,15.54,^8Price:^7 Where are the missiles?,â,â
+sp_jup_silo_cine,15.54,20.49,^8Laswell:^7 I've tracked Farah's missiles to an abandoned bunker complex... built during the cold war.,â,â
+sp_jup_silo_cine,21.05,22.26,^8Gaz:^7 We know those bunkers...,â,â
+sp_jup_silo_cine,22.49,23.8,^8Price:^7 So does Farah.,â,â
+sp_jup_silo_cine,24.04,26.96,^8Price:^7 Why does Konni need a silo for portable missiles?,â,â
+sp_jup_silo_cine,26.96,28.22,^8Laswell:^7 Exactly.,â,â
+sp_jup_silo_cine,28.23,31.49,^8Price:^7 We'll split up- I'll RV with Farah just off the X.,â,â
+sp_jup_silo_cine,31.5,35.57,^8Gaz:^7 We'll spread out and sweep the complex. Get those missiles back...,â,â
+sp_jup_silo_cine,35.57,40.11,^8Laswell:^7 Good. I'm heading to Arklov to meet a contact who may be able to help us.,â,â
+sp_jup_silo_cine,40.22,42.34,^8Price:^7 Kastovian military base...?,â,â
+sp_jup_silo_cine,42.33,44.19,^8Price:^7 How you gettin' in there alive?,â,â
+sp_jup_silo_cine,44.19,46.65,^8Laswell:^7 Carefully... I'll report back when I'm able.,â,â
+sp_jup_silo_cine,47.34,48.76,^8Price:^7 Alright. See you on the other side.,â,â
+sp_jup_silo_cine,48.77,50.38,^8Laswell:^7 Good hunting, Bravo.,â,â
+sp_jup_silo_cine,51.42,54.69,^8Price:^7 Six to Ghost- At the rally point, what's you status?,â,â
+sp_jup_silo_cine,54.69,58.65,^8Ghost:^7 On target at Charlie- You got Alpha, Kilo takes Bravo.,â,â
+sp_jup_silo_cine,59,61.34,^8Price:^7 Rog. Stand by.,â,â
+sp_jup_silo_cine,61.35,65.42,^8Price:^7 Fuck sake, Farah...,â,â
+sp_jup_silo_cine,66.11,68.23,^8Farah:^7 Head on a swivel, old man...,â,â
+sp_jup_silo_cine,71.57,73.81,^8Price:^7 Russia's back in Urzikstan.,â,â
+sp_jup_silo_cine,73.81,75.11,^8Farah:^7 Contractors.,â,â
+sp_jup_silo_cine,75.11,76.48,^8Price:^7 Konni group.,â,â
+sp_jup_silo_cine,76.48,79.19,^8Price:^7 Pulled a stash of chemicals from up north yesterday...,â,â
+sp_jup_silo_cine,79.31,81.08,^8Farah:^7 ...Stole my missiles at sunrise.,â,â
+sp_jup_silo_cine,81.08,84.81,^8Price:^7 All less than 24 hours after Vladimir Makarov walked himself out of a prison.,â,â
+sp_jup_silo_cine,84.81,86,^8Farah:^7 Works quickly.,â,â
+sp_jup_silo_cine,86,88.81,^8Price:^7 Yeah... Well, he's makin' up for lost time, isn't he?,â,â
+sp_jup_silo_cine,88.81,90.81,^8Farah:^7 Let's move.,â,â
+sp_jup_silo_cine,94.85,96.62,^8Price:^7 Who sent you the missiles?,â,â
+sp_jup_silo_cine,96.62,98.27,^8Farah:^7 Shadow company.,â,â
+sp_jup_silo_cine,98.27,100.62,^8Price:^7 Shadow Company don't have that kind of firepower.,â,â
+sp_jup_silo_cine,100.62,102.67,^8Price:^7 They're errand boys with tac vests.,â,â
+sp_jup_silo_cine,102.67,104.23,^8Farah:^7 They're allies.,â,â
+sp_jup_silo_cine,104.46,107.04,^8Price:^7 They carried out a hit on my men.,â,â
+sp_jup_silo_cine,108.08,109.96,^8Farah:^7 Commander Graves did this?,â,â
+sp_jup_silo_cine,109.97,111.85,^8Price:^7 Yeah, well, he had orders, yeah.,â,â
+sp_jup_silo_cine,112.89,114.77,^8Farah:^7 From who?,â,â
+sp_jup_silo_cine,115.35,117.47,^8Price:^7 General Shepherd.,â,â
+sp_jup_silo_cine,121.5,123.74,^8Price:^7 Did Shepherd send you those missiles?,â,â
+sp_jup_silo_cine,123.74,125.62,^8Farah:^7 My weapons are my business.,â,â
+sp_jup_silo_cine,125.63,128.16,^8Price:^7 These are very dangerous men, Farah.,â,â
+sp_jup_silo_cine,128.16,130.35,^8Farah:^7 We are all dangerous, Captain.,â,â
+sp_jup_silo_cine,132.66,134.16,^8Farah:^7 Look...,â,â
+sp_jup_silo_cine,134.97,139.01,^8Farah:^7 I never want to lie to you, but I can't tell you everything...,â,â
+sp_jup_silo_cine,139.01,141.77,^8Farah:^7 What you call classified... I call secrets.,â,â
+sp_jup_silo_cine,141.78,144.08,^8Farah:^7 My country is under siege again...,â,â
+sp_jup_silo_cine,144.08,145.35,^8Farah:^7 My brother warned us...,â,â
+sp_jup_silo_cine,145.35,147.2,^8Price:^7 This could go a lot deeper than Urzikstan.,â,â
+sp_jup_silo_cine,147.2,148.7,^8Farah:^7 Well, then let's help each other...,â,â
+sp_jup_silo_cine,149.73,152.27,^8Farah:^7 Like always... I hope you'll trust me.,â,â
+sp_jup_silo_cine,152.74,153.66,^8Price:^7 Implicitly.,â,â
+sp_jup_silo_cine,153.66,154.69,^8Farah:^7 Good...,â,â
+sp_jup_silo_cine,155.85,158.27,^8Farah:^7 I'll see you on the other side.,â,â
+sp_jup_silo_cine_outro,0.86,1.86,^8Price:^7 Oh, fuck...,â,â
+sp_jup_silo_cine_outro,1.87,2.94,^8Price:^7 No!,â,â
+sp_jup_silo_cine_outro,5.65,6.56,^8Price:^7 Six to Watcher-,â,â
+sp_jup_silo_cine_outro,7.03,8.02,^8Price:^7 Six to Watcher...!,â,â
+sp_jup_silo_cine_outro,9.6,10.45,^8Price:^7 Kate...,â,â
+sp_jup_silo_cine_outro,11.97,13.34,^8Price:^7 Laswell, are you there?!,â,â
+sp_jup_silo_cine_outro,15.65,17.35,^8Price:^7 This is Six in the blind-,â,â
+sp_jup_silo_cine_outro,17.47,20.44,^8Price:^7 We have two missiles incoming to the Arklov Base...,â,â
+sp_jup_silo_cine_outro,20.44,22.13,^8Price:^7 They have chemical warheads...,â,â
+sp_jup_silo_cine_outro,22.13,24.93,^8Price:^7 If you're there, get out NOW...!!,â,â
+sp_jup_surge_b_cine,0.28,1.4,^8Price:^7 Flash drive acquired.,â,â
+sp_jup_surge_b_cine,1.89,4.98,^8Price:^7 Whatever was on it uploaded into the station's train network.,â,â
+sp_jup_surge_b_cine,4.98,6.18,^8Laswell:^7 Trojan horse.,â,â
+sp_jup_surge_b_cine,6.18,8.38,^8Gaz:^7 Konni has control of the trains.,â,â
+sp_jup_surge_b_cine,8.38,11.06,^8Laswell:^7 There's more... Face recognition found this...,â,â
+sp_jup_surge_b_cine,11.06,12.98,^8Laswell:^7 They boarded 10 minutes ago.,â,â
+sp_jup_surge_b_cine,12.99,14.39,^8Ghost:^7 Makarov...,â,â
+sp_jup_surge_b_cine,14.39,16.22,^8Gaz:^7 On a train full of civilians...,â,â
+sp_jup_surge_b_cine,16.22,17.18,^8Ghost:^7 Hostages.,â,â
+sp_jup_surge_b_cine,17.18,22.24,^8Price:^7 Victims... That tunnel's 500ft deep and 30 miles long...,â,â
+sp_jup_surge_b_cine,22.34,25.59,^8Soap:^7 There's thousands of people down there at any given time, Bravo...,â,â
+sp_jup_surge_b_cine,25.59,27.03,^8Ghost:^7 He's gonna trap the trains.,â,â
+sp_jup_surge_b_cine,27.04,28.21,^8Gaz:^7 And destroy the tunnel.,â,â
+sp_jup_surge_b_cine,28.21,29.41,^8Laswell:^7 We have no proof of that.,â,â
+sp_jup_surge_b_cine,29.41,30.49,^8Price:^7 Not yet...,â,â
+sp_jup_surge_b_cine,30.49,33.95,^8Laswell:^7 Makarov's train just stopped at a cross-over platform 20 miles in.,â,â
+sp_jup_surge_b_cine,33.96,36.27,^8Gaz:^7 I'll have SFOs dispatch a second team.,â,â
+sp_jup_surge_b_cine,36.27,37.85,^8Soap:^7 We need all the help we can get.,â,â
+sp_jup_surge_b_cine,37.85,39.71,^8Ghost:^7 We'll take the service tunnel.,â,â
+sp_jup_surge_b_cine,39.71,46,^8Price:^7 Let's move. We may already be too late.,â,â
+sp_jup_surge_cine,1.26,11.84,^8Shepherd:^7 ...We owe a debt of gratitude to our Task Force and to the ULF for our success against Vladimir Makarov and his private army.,â,â
+sp_jup_surge_cine,11.84,18.24,^3Congress Person:^7 Much has been said about the ULF. Are Farah Karim and her soldiers a terror organization?,â,â
+sp_jup_surge_cine,18.25,26.04,^8Shepherd:^7 No. Farah Karim is and always has been an ally to the United States and our Western partners in the region.,â,â
+sp_jup_surge_cine,26.9,31.25,^3Congress Person:^7 How did Commander Karim obtain American armaments?,â,â
+sp_jup_surge_cine,31.25,40.92,^8Shepherd:^7 For nearly a decade, I sent weapons to Commander Karim to support her missions against Al-Qatala and Russian incursions into Urzikstan.,â,â
+sp_jup_surge_cine,40.92,42.65,^3Congress Person:^7 Were those shipments legal...?,â,â
+sp_jup_surge_cine,42.65,51.58,^8Shepherd:^7 No... In order to save lives, I commissioned illegal shipments with funds I approved myself.,â,â
+sp_jup_surge_cine,53.99,55.9,^3Congress Person:^7 Quiet... Quiet please...,â,â
+sp_jup_surge_cine,55.91,66.13,^3Congress Person:^7 General Shepherd, in October of 2022 did you authorize Shadow Company to fire on a task-force under your command in Las Almas Mexico...?,â,â
+sp_jup_surge_cine,67.06,68.88,^8Shepherd:^7 No, I did not.,â,â
+sp_jup_surge_cine,70,77.11,^3Congress Person:^7 Mr. Graves, were you given orders to use lethal force against TF-141?,â,â
+sp_jup_surge_cine,78.51,79.72,^8Graves:^7 Yes, I was.,â,â
+sp_jup_surge_cine,81.21,83.6,^3Congress Person:^7 Quiet. Quiet in this chamber...,â,â
+sp_jup_surge_cine,84.11,86.49,^3Congress Person:^7 Who gave you those orders?,â,â
+sp_jup_surge_cine,87.2,89.39,^8Graves:^7 General Herschel Shepherd.,â,â
+sp_jup_surge_cine,89.39,92.84,^3Congress Person:^7 Did you act on those orders, Mr. Graves?,â,â
+sp_jup_surge_cine,92.85,95.88,^8Graves:^7 No... Absolutely not, sir.,â,â
+sp_jup_surge_cine,97.23,99.76,^3Congress Person:^7 Quiet... Quiet...,â,â
+sp_jup_surge_cine,104.53,107.84,^8Gaz:^7 Fuck me. They stabbed each other in the back...,â,â
+sp_jup_surge_cine,107.84,109.76,^8Soap:^7 Still saving their own skins.,â,â
+sp_jup_surge_cine,109.76,111.39,^8Ghost:^7 Every man for himself.,â,â
+sp_jup_surge_cine,111.39,114.28,^8Farah:^7 That's the difference between us... and them.,â,â
+sp_jup_surge_cine,115.26,117.74,^8Ghost:^7 We gonna let this stand, Boss?,â,â
+sp_jup_surge_cine,119,120.64,^8Price:^7 Best way to end a war...,â,â
+sp_jup_surge_cine,121.38,123.28,^8Price:^7 is to win it.,â,â
+sp_jup_surge_cine,123.86,125.35,^8Farah:^7 No prisoners...,â,â
+sp_jup_surge_cine,126.33,128.38,^8Price:^7 Good hunting, Commander.,â,â
+sp_jup_surge_cine,128.39,129.88,^8Farah:^7 You too, Captain.,â,â
+sp_jup_surge_cine,129.88,131.65,^8Price:^7 Nik- Take Farah back, will ya?,â,â
+sp_jup_surge_cine,131.65,133.42,^8Nikolai:^7 Straight away, Captain.,â,â
+sp_jup_surge_cine,133.42,134.77,^8Price:^7 Alright- Let's prep for exfil...,â,â
+sp_jup_surge_cine,135.7,137.75,^8Price:^7 We're going home...,â,â
+sp_jup_surge_cine,144.07,145.89,^8Laswell:^7 Watcher to Bravo...,â,â
+sp_jup_surge_cine,145.89,147.19,^8Price:^7 Send traffic, Watcher.,â,â
+sp_jup_surge_cine,147.19,150.64,^8Laswell:^7 MI6 is relaying waves of Konni chatter to us...,â,â
+sp_jup_surge_cine,150.65,152.56,^8Price:^7 Bottom line it, Kate- where are they?,â,â
+sp_jup_surge_cine,152.56,154.05,^8Laswell:^7 Konni's in London.,â,â
+sp_jup_surge_cine,154.05,155.68,^8Soap:^7 Steamin' hell--,â,â
+sp_jup_surge_cine,155.68,157.92,^8Soap:^7 Is Makarov alive?,â,â
+sp_jup_surge_cine,157.92,160.54,^8Laswell:^7 There's comms from a Czar 9-0...,â,â
+sp_jup_surge_cine,160.54,162.31,^8Ghost:^7 That's his callsign.,â,â
+sp_jup_surge_cine,162.31,163.94,^8Gaz:^7 What are they doing in London, Laswell?,â,â
+sp_jup_surge_cine,163.94,169.22,^8Laswell:^7 Signals intelligence shows Konni's meeting with a known black hat tomorrow in Greensbury Park.,â,â
+sp_jup_surge_cine,169.22,170.57,^8Gaz:^7 A hacker...,â,â
+sp_jup_surge_cine,170.57,172.06,^8Ghost:^7 That's our mark.,â,â
+sp_jup_surge_cine,172.06,173.36,^8Soap:^7 What's Konni want access to?,â,â
+sp_jup_surge_cine,173.36,175.47,^8Laswell:^7 We need to find that out and stop it.,â,â
+sp_jup_surge_cine,175.47,178.28,^8Price:^7 That hacker can lead us to Makarov.,â,â
+sp_jup_surge_cine,178.28,181.36,^8Soap:^7 Konni's in London, he can't be far behind...,â,â
+sp_jup_surge_cine,181.37,183.75,^8Ghost:^7 We get solid intel we'll have to move quickly...,â,â
+sp_jup_surge_cine,183.75,186.56,^8Gaz:^7 I'll coordinate with London Metro and get SFO standing by...,â,â
+sp_jup_surge_cine,186.56,189.79,^8Price:^7 Ghost, you plug into London's CCTV network, be our eyes.,â,â
+sp_jup_surge_cine,189.79,191.47,^8Price:^7 The rest of us tail the mark on the ground.,â,â
+sp_jup_surge_cine,192.46,194.56,^8Price:^7 Makarov could be in our backyard.,â,â
+sp_jup_surge_cine,195.27,197.74,^8Price:^7 We get wind of where he is, we'll move on it.,â,â
+sp_jup_surge_cine,197.74,202,^8Price:^7 For now... let's follow our mark and find him...,â,â
+sp_jup_tundra_cine,0.66,2.35,^8Laswell:^7 What's the state of play with Nolan?,â,â
+sp_jup_tundra_cine,2.51,4.35,^8Gaz:^7 He's less conversational than he was...,â,â
+sp_jup_tundra_cine,4.67,6.19,^8Price:^7 More o' the silent type now...,â,â
+sp_jup_tundra_cine,6.35,8.78,^8Gaz:^7 They're at war with the world. That's for sure.,â,â
+sp_jup_tundra_cine,8.79,10.84,^8Price:^7 He's got blind faith in Makarov.,â,â
+sp_jup_tundra_cine,10.9,11.99,^8Laswell:^7 Makarov needs him.,â,â
+sp_jup_tundra_cine,11.99,14.63,^8Laswell:^7 Been contacting him non-stop. He knows something's wrong.,â,â
+sp_jup_tundra_cine,14.93,16.24,^8Gaz:^7 You intercepted their comms...,â,â
+sp_jup_tundra_cine,16.24,17.52,^8Laswell:^7 Affirmative.,â,â
+sp_jup_tundra_cine,17.52,21.99,^8Laswell:^7 Nolan got quiet but his radio and phone speak volumes...,â,â
+sp_jup_tundra_cine,22.15,23.24,^8Price:^7 What do we know?,â,â
+sp_jup_tundra_cine,23.35,27.44,^8Laswell:^7 They're delivering someone or something to an abandoned Soviet Prison complex.,â,â
+sp_jup_tundra_cine,27.65,28.53,^8Gaz:^7 Where?,â,â
+sp_jup_tundra_cine,28.59,29.36,^8Laswell:^7 Siberia.,â,â
+sp_jup_tundra_cine,29.47,30.35,^8Price:^7 When?,â,â
+sp_jup_tundra_cine,30.51,31.33,^8Laswell:^7 Tomorrow.,â,â
+sp_jup_tundra_cine,31.34,32.75,^8Price:^7 This is our shot at Makarov.,â,â
+sp_jup_tundra_cine,32.75,34.41,^8Gaz:^7 No guarantees he's there...,â,â
+sp_jup_tundra_cine,34.51,35.96,^8Price:^7 I'll take that chance.,â,â
+sp_jup_tundra_cine,35.96,37.14,^8Laswell:^7 I knew you would...,â,â
+sp_jup_tundra_cine,37.14,38.9,^8Laswell:^7 Nik can get you in and out.,â,â
+sp_jup_tundra_cine,38.9,40.29,^8Price:^7 I want everyone on this...,â,â
+sp_jup_tundra_cine,40.3,43.58,^8Price:^7 Including Farah. Next to Ghost, she's the best sniper I know.,â,â
+sp_jup_tundra_cine,43.58,46.28,^8Laswell:^7 You can pick her up on the way. I'll relay.,â,â
+sp_jup_tundra_cine,46.29,48.53,^8Price:^7 We'll need C-4 and dry gear.,â,â
+sp_jup_tundra_cine,48.54,49.66,^8Gaz:^7 We're gettin' wet...,â,â
+sp_jup_tundra_cine,49.66,51.58,^8Price:^7 So is Makarov...,â,â
+sp_jup_tundra_cine,53.83,56.58,^8Laswell:^7 Watcher to 0-7, gimme a sitrep...,â,â
+sp_jup_tundra_cine,57.76,61.74,^8Ghost:^7 0-7 in position with Kilo. Bravo's in the water.,â,â
+sp_jup_tundra_cine,62.2,65.14,^8Laswell:^7 Copy. Where's our incoming?,â,â
+sp_jup_tundra_cine,65.14,67.89,^8Farah:^7 Convoy approaching southeast, four vehicles.,â,â
+sp_jup_tundra_cine,68.53,70.59,^8Laswell:^7 Any sign of Makarov?,â,â
+sp_jup_tundra_cine,70.74,73.84,^8Farah:^7 No PID but high security on the third vehicle.,â,â
+sp_jup_tundra_cine,74.38,76.78,^8Ghost:^7 Ghost to all Bravo, how copy?,â,â
+sp_jup_tundra_cine_outro,6.83,7.97,^8Price:^7 Put him here.,â,â
+sp_jup_tundra_cine_outro,7.97,9.1,^8Shepherd:^7 What the hell's this...?,â,â
+sp_jup_tundra_cine_outro,9.1,10.09,^8Price:^7 The crossroads...,â,â
+sp_jup_tundra_cine_outro,12.5,13.77,^8Shepherd:^7 Laswell...,â,â
+sp_jup_tundra_cine_outro,13.78,17.24,^8Laswell:^7 Without the stars and bars, you look like frozen shit, General.,â,â
+sp_jup_tundra_cine_outro,19.14,22.75,^8Shepherd:^7 The best of the best... all in one place.,â,â
+sp_jup_tundra_cine_outro,22.75,24.32,^8Gaz:^7 With one glaring exception.,â,â
+sp_jup_tundra_cine_outro,24.98,28.52,^8Shepherd:^7 What is the agenda of this little pow wow?,â,â
+sp_jup_tundra_cine_outro,28.52,29.36,^8Soap:^7 A choice.,â,â
+sp_jup_tundra_cine_outro,29.36,30.28,^8Shepherd:^7 Do I have one?,â,â
+sp_jup_tundra_cine_outro,30.28,31.12,^8Ghost:^7 No.,â,â
+sp_jup_tundra_cine_outro,32.58,34.07,^8Shepherd:^7 I'm all ears...,â,â
+sp_jup_tundra_cine_outro,34.36,38.64,^8Laswell:^7 Own up... tell us everything...,â,â
+sp_jup_tundra_cine_outro,38.64,40.06,^8Shepherd:^7 You know everything.,â,â
+sp_jup_tundra_cine_outro,40.06,43.38,^8Laswell:^7 Congress doesn't... And I bet they'd be...,â,â
+sp_jup_tundra_cine_outro,43.38,44.88,^8Price:^7 Well, they'd be all ears. Wouldn't they, eh?,â,â
+sp_jup_tundra_cine_outro,45.17,46.23,^8Shepherd:^7 That's it?,â,â
+sp_jup_tundra_cine_outro,46.23,46.92,^8Farah:^7 No.,â,â
+sp_jup_tundra_cine_outro,46.92,50.36,^8Farah:^7 You clear my name. Tell them who I am.,â,â
+sp_jup_tundra_cine_outro,50.36,52.46,^8Farah:^7 What you gave me... and why.,â,â
+sp_jup_tundra_cine_outro,52.46,57.11,^8Shepherd:^7 No one else had the balls to do what I did for you...For all of you...,â,â
+sp_jup_tundra_cine_outro,57.25,59.25,^8Gaz:^7 Then do the right thing, General.,â,â
+sp_jup_tundra_cine_outro,59.25,62.82,^8Soap:^7 All your intel on Makarov, and your boy Graves on a leash.,â,â
+sp_jup_tundra_cine_outro,63.55,66.69,^8Laswell:^7 Say yes, you get a warm ride home...,â,â
+sp_jup_tundra_cine_outro,66.69,70.19,^8Soap:^7 Or take a little "me time"... And freeze to death.,â,â
+sp_jup_tundra_cine_outro,70.2,72.38,^8Ghost:^7 That's the one I'm partial to.,â,â
+sp_jup_tundra_cine_outro,74.14,82.31,^8Shepherd:^7 "Keep the prisoner focused on their own self-preservation and eventually they will break.",â,â
+sp_jup_tundra_cine_outro,83.33,85.59,^8Price:^7 Good to see you remembered your training, eh...,â,â
+sp_jup_tundra_cine_outro,86.47,88,^8Price:^7 General.,â,â
+sp_jup_tundra_cine_outro,88.07,90.55,^8Shepherd:^7 You screw me on this, John...,â,â
+sp_jup_tundra_cine_outro,91.36,95.22,^8Shepherd:^7 And you'll be sorry you kept me alive...,â,â
+sp_jup_tundra_cine_outro,101.9,103.39,^8Price:^7 Let's move.,â,â
+sp_jup_vip_cine,51.38,53.05,^8Alpha-1:^7 Alpha Team clear.,â,â
+sp_jup_vip_cine,55.42,57.02,^8Alpha-1:^7 Heading to surface.,â,â
+sp_jup_vip_cine,68.47,71.64,^8Alpha-2-1:^7 All teams, eyes on target. Phase 1 complete.,â,â
+sp_jup_vip_cine,71.77,73.54,^8Charlie-1:^7 Charlie copies. We're set.,â,â
+sp_jup_vip_cine,73.81,75.94,^8Alpha-1:^7 Roger that. Moving to Phase 2.,â,â
+sp_jup_vip_cine,76.04,78.44,^8Alpha-1:^7 Patrol boat, 2 o'clock. Get under.,â,â
+sp_mtg_cine_intro,0.98,2.68,^8Shepherd:^7 All right, clear the room.,â,â
+sp_mtg_cine_intro,4.01,6.46,^8Shepherd:^7 Let's go - everybody out, now.,â,â
+sp_mtg_cine_intro,16.42,19.82,^8Shepherd:^7 Iran is in possession of American missiles.,â,â
+sp_mtg_cine_intro,19.94,22.38,^8Laswell:^7 American missiles in AQ's hands.,â,â
+sp_mtg_cine_intro,22.5,29.07,^8Shepherd:^7 Hassan has been passing out our ballistic missiles like it's fucking Halloween and we didn't know about it?,â,â
+sp_mtg_cine_intro,29.79,31.38,^8Laswell:^7 Gives Iran plausible deniability.,â,â
+sp_mtg_cine_intro,31.5,38.19,^8Shepherd:^7 Oh, deniability my ass- Iran's all over this. I wanna know how many they have and where they intend to use 'em.,â,â
+sp_mtg_cine_intro,38.67,41.59,^8Laswell:^7 If Hassan is moving missiles he has a smuggling partner.,â,â
+sp_mtg_cine_intro,41.96,46.21,^8Shepherd:^7 Well then, I would advise you to find out who that is.,â,â
+sp_mtg_cine_intro,46.56,48.52,^8Laswell:^7 Give my team two hours with those missiles, sir.,â,â
+sp_mtg_cine_intro,48.77,51.09,^8Laswell:^7 I will know everybody who's ever breathed on them.,â,â
+sp_mtg_cine_intro,51.09,53.51,^8Shepherd:^7 Negative. I want 'em destroyed.,â,â
+sp_mtg_cine_intro,53.53,56.55,^8Laswell:^7 General, there's valuable intel there.,â,â
+sp_mtg_cine_intro,56.79,61.9,^8Shepherd:^7 This is an intelligence failure, Laswell... It's not gonna be a tactical one.,â,â
+sp_mtg_cine_intro,61.9,68.97,^8Shepherd:^7 There will be 500 enemy soldiers on that site by sunrise. We need a win fast.,â,â
+sp_mtg_cine_intro,70.66,77.35,^8Shepherd:^7 Gold Eagle Actual to Ghost- Move your team and call for fire, I want those weapons destroyed.,â,â
+sp_mtg_cine_intro,77.7,79.17,^8Ghost:^7 Roger that, Actual.,â,â
+sp_mtg_cine_intro,79.18,80.63,^8Laswell:^7 Amsterdam.,â,â
+sp_mtg_cine_intro,81.85,85.01,^8Shepherd:^7 What the hell's Amsterdam got to do with this?,â,â
+sp_mtg_cine_intro,85.1,86.6,^8Laswell:^7 It's a smuggling hub.,â,â
+sp_mtg_cine_intro,87.32,89.99,^8Laswell:^7 Ports and canals are insecure. Iran has friends there...,â,â
+sp_mtg_cine_intro,90.85,92.3,^8Laswell:^7 We do too.,â,â
+sp_mtg_cine_intro,92.31,93.28,^8Shepherd:^7 Who?,â,â
+sp_mtg_cine_intro,93.28,94.68,^8Laswell:^7 The Captain.,â,â
+sp_mtg_cine_intro,95.46,98.51,^8Laswell:^7 He's tracking an AQ cell in country as we speak.,â,â
+sp_mtg_cine_intro,99.11,102.88,^8Shepherd:^7 Well, that's the first good news I've heard all day.,â,â
+sp_mtg_cine_intro,104.34,106.65,^8Laswell:^7 I'll link up with him and handle this myself, sir.,â,â
+sp_mtg_cine_intro,107.14,109.7,^8Shepherd:^7 Kate Laswell back in the field...?,â,â
+sp_mtg_cine_intro,109.94,111.28,^8Laswell:^7 I want this done right.,â,â
+sp_mtg_cine_intro,111.64,113.11,^8Laswell:^7 No mistakes.,â,â
+sp_mtg_cine_intro,113.12,115.29,^8Shepherd:^7 My sentiments exactly.,â,â
+sp_mtg_cine_intro,115.3,116.52,^8Shepherd:^7 Kate...,â,â
+sp_mtg_cine_intro,117.01,122.59,^8Shepherd:^7 I want Hassan boxed up and gift-wrapped. Until then...,â,â
+sp_mtg_cine_intro,122.95,125.03,^8Shepherd:^7 you keep this tight.,â,â
+sp_mtg_cine_intro,126.35,129.15,^8Laswell:^7 Naturally. Sir.,â,â
+sp_mtg_cine_intro,133.05,136.08,AMSTERDAM,â,â
+sp_mtg_cine_intro,136.08,137.54,^8Price:^7 What's your ETA?,â,â
+sp_mtg_cine_intro,137.55,139.88,^8Laswell:^7 Less than an hour. Where are you now?,â,â
+sp_mtg_cine_intro,139.88,142.94,^8Price:^7 Canals. Under a bridge, watching an AQ boat.,â,â
+sp_mtg_cine_intro,142.94,145.15,^8Laswell:^7 Is it carrying a missile container?,â,â
+sp_mtg_cine_intro,145.89,147.88,^8Price:^7 Negative, not this one.,â,â
+sp_mtg_cine_intro,148.01,150.8,^8Laswell:^7 Well, let's hope it leads us to the one that does.,â,â
+sp_mtg_cine_intro,150.8,152.01,^8Price:^7 I'll be in touch.,â,â
+sp_mtg_cine_intro,153.23,154.32,^8Price:^7 Gaz-,â,â
+sp_mtg_cine_intro,154.33,155.78,^8Price:^7 You set?,â,â
+sp_mtg_cine_intro,155.79,157,^8Gaz:^7 Good here, Cap.,â,â
+sp_mtg_cine_intro,157,159.31,^8Price:^7 Let's get after it.,â,â
+sp_nwr_cine_intro,5.25,7.1,^8Ghost:^7 Bloody fucking hell.,â,â
+sp_nwr_cine_intro,9.17,11.92,^8Ghost:^7 Direct... Target destroyed...,â,â
+sp_nwr_cine_intro,14.68,19.46,MODERN WARFARE II,â,â
+sp_nwr_cine_intro,22.13,25.24,SEVERAL MONTHS LATER,â,â
+sp_nwr_cine_intro,25.55,27.06,^8Shepherd:^7 Come in.,â,â
+sp_nwr_cine_intro,28.52,29.58,^8Shepherd:^7 Laswell.,â,â
+sp_nwr_cine_intro,29.58,30.64,^8Laswell:^7 General Shepherd.,â,â
+sp_nwr_cine_intro,31.09,35.3,^8Shepherd:^7 Boy, I know that look. Are we at war?,â,â
+sp_nwr_cine_intro,36.32,37.6,^8Laswell:^7 You would be the first to know, sir.,â,â
+sp_nwr_cine_intro,37.83,39.79,^8Shepherd:^7 Damn right I would. Talk to me.,â,â
+sp_nwr_cine_intro,40.91,42.76,^8Laswell:^7 We have a hit on Ghorbrani's second-in-command.,â,â
+sp_nwr_cine_intro,44.34,47.98,^8Shepherd:^7 Hassan Zyani. Quds Force Major.,â,â
+sp_nwr_cine_intro,49.34,50.7,^8Laswell:^7 He's taken up the mantle for Iran.,â,â
+sp_nwr_cine_intro,50.7,52.24,^8Shepherd:^7 Supplying terrorists.,â,â
+sp_nwr_cine_intro,52.81,54.43,^8Laswell:^7 Money, weapons, intel.,â,â
+sp_nwr_cine_intro,54.43,55.61,^8Shepherd:^7 Well, he's ambitious.,â,â
+sp_nwr_cine_intro,55.63,58.94,^8Laswell:^7 He's dangerous, sir. He wants retaliation for the Ghorbrani strike.,â,â
+sp_nwr_cine_intro,59.48,61.49,^8Laswell:^7 He's planning something.,â,â
+sp_nwr_cine_intro,61.5,63.58,^8Shepherd:^7 We can't take him in Iran.,â,â
+sp_nwr_cine_intro,67.4,72.06,^8Laswell:^7 He's not in Iran, sir. He's on the ground in Al Mazrah.,â,â
+sp_nwr_cine_intro,72.06,74.36,^8Shepherd:^7 What the hell is he doing in Al Mazrah?,â,â
+sp_nwr_cine_intro,74.36,76.1,^8Laswell:^7 There is only one way to find out, sir.,â,â
+sp_nwr_cine_intro,77.56,78.73,^8Shepherd:^7 Well, let's get him.,â,â
+sp_nwr_cine_intro,79.91,80.92,^8Laswell:^7 When?,â,â
+sp_nwr_cine_intro,81.26,82.77,^8Shepherd:^7 What time is it now?,â,â
+sp_nwr_cine_intro,85.92,87.09,^8Laswell:^7 Who do we send?,â,â
+sp_nwr_cine_intro,92.94,94.57,^8Shepherd:^7 You're wheels-up in five.,â,â
+sp_nwr_cine_intro,94.67,95.52,^8Ghost:^7 Roger.,â,â
+sp_nwr_cine_intro,95.53,99.4,^8Shepherd:^7 Marines are loading in now. You and the Sergeant are leading the way on this.,â,â
+sp_nwr_cine_intro,99.56,100.53,^8Ghost:^7 The Sergeant?,â,â
+sp_nwr_cine_intro,100.73,101.94,^8Shepherd:^7 Soap MacTavish.,â,â
+sp_nwr_cine_intro,101.94,104.34,^8Soap:^7 Let's get ourselves a win, yeah, Lt.?,â,â
+sp_nwr_cine_intro,104.54,106.36,^8Soap:^7 Save ya a seat, sir...,â,â
+sp_nwr_cine_intro,107.63,109.46,^8Ghost:^7 Fucking hell...,â,â
+sp_nwr_cine_intro,109.68,110.78,^8Shepherd:^7 Ghost- you copy?,â,â
+sp_nwr_cine_intro,111.13,112.3,^8Ghost:^7 Yes, sir.,â,â
+sp_nwr_cine_intro,112.3,112.99,^8Shepherd:^7 Any issues?,â,â
+sp_nwr_cine_intro,113,114.16,^8Ghost:^7 Negative, sir.,â,â
+sp_nwr_cine_intro,114.16,115.91,^8Ghost:^7 Out here.,â,â
+sp_nwr_cine_intro,116.2,119.08,^8Laswell:^7 Airstrikes are hitting enemy positions bordering Al Mazrah.,â,â
+sp_nwr_cine_intro,119.16,125.56,^8Laswell:^7 Intel confirms a concentration of AQ fighters converging in the valley. We believe they're protecting something.,â,â
+sp_nwr_cine_intro,125.57,128.79,^8Laswell:^7 Surveillance indicates soldiers guarding three structures.,â,â
+sp_nwr_cine_intro,128.95,131.23,^8Laswell:^7 Major Hassan may be holed up inside.,â,â
+sp_nwr_cine_intro,131.28,136.05,^8Laswell:^7 Ghost and Soap will lead a Marine Special Operations unit to kill or capture Hassan, tonight.,â,â
+sp_nwr_cine_intro,136.18,140.92,^8Laswell:^7 One helo will insert two teams at separate offset points bordering the target area.,â,â
+sp_nwr_cine_intro,140.93,146.34,^8Laswell:^7 Bravo Team will sweep and clear buildings one and two. Alpha Team takes building three.,â,â
+sp_nwr_cine_intro,146.35,151.79,^8Laswell:^7 All shooters have execute authority but we want Hassan alive for interrogation.,â,â
+sp_nwr_cine_intro,152.11,155.66,^8Laswell:^7 And be advised. Major Hassan is AQ's lifeline.,â,â
+sp_nwr_cine_intro,155.67,158.44,^8Laswell:^7 If he is there, they will die for him.,â,â
+sp_nwr_cine_intro,158.55,160,^8Laswell:^7 Good Hunting...,â,â
+sp_pri_cine_intro,4.45,5.25,^8Soap:^7 Where are we?,â,â
+sp_pri_cine_intro,5.67,7.34,^8Ghost:^7 Alejandro's safehouse.,â,â
+sp_pri_cine_intro,7.35,9.54,^8Ghost:^7 Gave me the location just in case.,â,â
+sp_pri_cine_intro,9.56,10.6,^8Soap:^7 Why didn't he tell me?,â,â
+sp_pri_cine_intro,10.72,11.89,^8Ghost:^7 It was need to know.,â,â
+sp_pri_cine_intro,12.75,13.67,^8Soap:^7 What if I needed to know--?,â,â
+sp_pri_cine_intro,13.67,14.59,^8Ghost:^7 ---Shhh.,â,â
+sp_pri_cine_intro,23.3,24.22,^8Soap:^7 Pressure plate...,â,â
+sp_pri_cine_intro,24.22,25.63,^8Ghost:^7 Alejandro rigged it.,â,â
+sp_pri_cine_intro,26.37,28.15,^8Soap:^7 Smart bastard.,â,â
+sp_pri_cine_intro,28.65,29.57,^8Ghost:^7 There.,â,â
+sp_pri_cine_intro,35.14,36.55,^8Ghost:^7 Don't move.,â,â
+sp_pri_cine_intro,39.15,40.06,^8Rodolfo:^7 Who's there?,â,1
+sp_pri_cine_intro,40.43,41.6,^8Soap:^7 Rodolfo!,â,â
+sp_pri_cine_intro,42.11,42.78,^8Rodolfo:^7 Soap!,â,â
+sp_pri_cine_intro,43.15,44.07,^8Rodolfo:^7 Ghost!,â,â
+sp_pri_cine_intro,44.07,44.87,^8Rodolfo:^7 You're alive!,â,â
+sp_pri_cine_intro,44.99,46.16,^8Ghost:^7 Affirmative.,â,â
+sp_pri_cine_intro,49.5,50.79,^8Rodolfo:^7 Good to see you, amigos.,â,â
+sp_pri_cine_intro,50.79,52,^8Soap:^7 Same, friend.,â,1
+sp_pri_cine_intro,52.5,53.29,^8Rodolfo:^7 Nice throw.,â,â
+sp_pri_cine_intro,54.78,55.82,^8Rodolfo:^7 Where were you guys?,â,â
+sp_pri_cine_intro,55.94,57.23,^8Ghost:^7 On the run.,â,â
+sp_pri_cine_intro,57.23,58.16,^8Soap:^7 I was on the run.,â,â
+sp_pri_cine_intro,58.17,59.66,^8Soap:^7 Ghost waited for me.,â,â
+sp_pri_cine_intro,59.76,60.92,^8Rodolfo:^7 Of course, no?,â,â
+sp_pri_cine_intro,61.17,61.6,^8Soap:^7 No.,â,â
+sp_pri_cine_intro,61.6,62.84,^8Ghost:^7 Yes-,â,â
+sp_pri_cine_intro,62.9,64.25,^8Ghost:^7 We're a team...,â,â
+sp_pri_cine_intro,64.26,65.44,^8Ghost:^7 All of us.,â,â
+sp_pri_cine_intro,66.1,69.15,^8Ghost:^7 This happened on my watch and I'll need help to fix it.,â,â
+sp_pri_cine_intro,69.81,71.72,^8Ghost:^7 No one fights alone.,â,â
+sp_pri_cine_intro,72.71,74.12,^8Rodolfo:^7 Why did Graves turn?,â,â
+sp_pri_cine_intro,74.12,75.29,^8Soap:^7 We don't know.,â,â
+sp_pri_cine_intro,75.29,76.94,^8Rodolfo:^7 Las Almas can corrupt anyone.,â,â
+sp_pri_cine_intro,76.95,77.99,^8Soap:^7 Not us.,â,â
+sp_pri_cine_intro,78.04,83.91,^8Ghost:^7 For now, General Shepherd, Laswell and anyone else outside this room is considered a hostile.,â,â
+sp_pri_cine_intro,83.99,84.99,^8Ghost:^7 With one exception.,â,â
+sp_pri_cine_intro,85,86.31,^8Soap:^7 Alejandro...?,â,â
+sp_pri_cine_intro,86.43,87.82,^8Ghost:^7 We need him back.,â,â
+sp_pri_cine_intro,87.83,88.94,^8Rodolfo:^7 Come...,â,1
+sp_pri_cine_intro,90.79,92.65,^8Rodolfo:^7 Graves is holding him here.,â,â
+sp_pri_cine_intro,92.66,94.76,^8Soap:^7 His own personal black site prison.,â,â
+sp_pri_cine_intro,94.76,96.49,^8Rodolfo:^7 My team is locked in there too.,â,â
+sp_pri_cine_intro,96.49,97.6,^8Soap:^7 How do we get 'em back?,â,â
+sp_pri_cine_intro,97.6,99.2,^8Ghost:^7 By breaking in.,â,â
+sp_pri_cine_intro,99.21,100.94,^8Soap:^7 And that's why I love the Ghost.,â,â
+sp_pri_cine_intro,100.94,103.16,^8Ghost:^7 It's gonna take more than this.,â,â
+sp_pri_cine_intro,107.86,109.22,^8Rodolfo:^7 It's well stocked.,â,â
+sp_pri_cine_intro,109.35,110.21,^8Ghost:^7 Alright.,â,â
+sp_pri_cine_intro,110.22,112.81,^8Soap:^7 My man- We're gonna need new wheels.,â,â
+sp_pri_cine_intro,112.93,114.67,^8Soap:^7 Preferably up-armored.,â,â
+sp_pri_cine_intro,119.49,121.84,^8Ghost:^7 Alejandro thought of everything.,â,â
+sp_pri_cine_intro,121.84,124.07,^8Soap:^7 Yeah he did.,â,â
+sp_pri_cine_intro,125.3,127.34,^8Soap:^7 Let's go get him.,â,â
+sp_pri_cine_intro,127.97,131,^8Rodolfo:^7 The old prison is in a remote area outside Las Almas.,â,â
+sp_pri_cine_intro,131.01,135.06,^8Rodolfo:^7 It was maximum security until the narcos took over, and it was permanently closed.,â,â
+sp_pri_cine_intro,135.06,139.04,^8Rodolfo:^7 There is no airstrip but expect helos for security and resupply.,â,â
+sp_pri_cine_intro,139.04,142.24,^8Ghost:^7 We'll drive to an offset and ruck up to our infil- here.,â,â
+sp_pri_cine_intro,142.24,146.77,^8Ghost:^7 If the security towers are manned we'll need to take them out first and rope up the wall for entry.,â,â
+sp_pri_cine_intro,146.77,147.78,^8Soap:^7 What about cameras?,â,â
+sp_pri_cine_intro,147.78,149.39,^8Rodolfo:^7 There's CCTV's in the security room.,â,â
+sp_pri_cine_intro,149.4,153.01,^8Ghost:^7 We'll use them to locate Alejandro and the rest of your men.,â,â
+sp_pri_cine_intro,153.01,154.8,^8Soap:^7 Let's divide and conquer.,â,â
+sp_pri_cine_intro,154.8,159.45,^8Soap:^7 While Rudy finds Al, I'll use the cams to help Ghost plant charges in key areas.,â,â
+sp_pri_cine_intro,159.45,161.53,^8Ghost:^7 Diversions and sabotage.,â,â
+sp_pri_cine_intro,161.53,162.54,^8Ghost:^7 Nice, Johnny.,â,â
+sp_pri_cine_intro,162.55,164.28,^8Soap:^7 I learned from the best, Lt..,â,â
+sp_pri_cine_intro,164.28,169.9,^8Soap:^7 Once we pinpoint Alejandro and Los Vaqueros, we regroup and pry 'em loose.,â,â
+sp_pri_cine_intro,169.9,173.88,^8Rodolfo:^7 We'll carry extra guns in to arm my men and fight our way out the way we came in.,â,â
+sp_pri_cine_intro,173.88,175.53,^8Ghost:^7 Any questions?,â,â
+sp_pri_cine_intro,175.54,178,^8Soap:^7 What are we waiting for...?,â,â
+sp_prty_cine_intro,1.65,2.64,^8Laswell:^7 Farah, thank you.,â,â
+sp_prty_cine_intro,2.64,3.49,^8Farah:^7 I owed you one.,â,â
+sp_prty_cine_intro,3.5,4.6,^8Price:^7 It was the other way around.,â,â
+sp_prty_cine_intro,4.93,5.79,^8Farah:^7 We're even then.,â,â
+sp_prty_cine_intro,6.48,8.13,^8Farah:^7 May good luck find us all.,â,1
+sp_prty_cine_intro,8.42,9.58,^8Farah:^7 Until next time, Captain.,â,â
+sp_prty_cine_intro,9.97,11.42,^8Farah:^7 My fighters, mount up! Let's clear out...!,â,1
+sp_prty_cine_intro,11.81,12.76,^8Price:^7 I'm sorry. I couldn't let them--,â,â
+sp_prty_cine_intro,12.66,13.62,^8Laswell:^7 --John... It's okay.,â,â
+sp_prty_cine_intro,13.62,14.77,^8Price:^7 No, this was my fault, I should never have let--,â,â
+sp_prty_cine_intro,14.97,16.02,^8Laswell:^7 John- Stop...,â,â
+sp_prty_cine_intro,16.13,16.55,^8Laswell:^7 I'm fine.,â,â
+sp_prty_cine_intro,16.61,18.06,^8Price:^7 Okay.,â,â
+sp_prty_cine_intro,18.56,20,^8Laswell:^7 We've got bigger problems.,â,â
+sp_prty_cine_intro,20.53,23.36,^8Laswell:^7 Missiles were never in Spain. The guidance systems were.,â,â
+sp_prty_cine_intro,23.66,24.92,^8Price:^7 Guidance systems...?,â,â
+sp_prty_cine_intro,24.92,26.44,^8Price:^7 Where the hell did they get those?,â,â
+sp_prty_cine_intro,26.46,27.93,^8Laswell:^7 Russians.,â,â
+sp_prty_cine_intro,28.78,30.33,^8Price:^7 Where are they now?,â,â
+sp_prty_cine_intro,31.12,32.07,^8Laswell:^7 They're on the missiles.,â,â
+sp_prty_cine_intro,32.08,35.62,^8Laswell:^7 And aside from Hassan, there's only one person who knows where to find them.,â,â
+sp_prty_cine_intro,37.5,38.75,^8Soap:^7 La casa de Sin Nombre?,â,â
+sp_prty_cine_intro,39.05,41.68,^8Alejandro:^7 No. One of his Lugartenientes.,â,â
+sp_prty_cine_intro,42.07,43.62,^8Soap:^7 A cartel Lieutenant.,â,â
+sp_prty_cine_intro,43.72,46.75,^8Alejandro:^7 Nice, brother. You're learning.,â,1
+sp_prty_cine_intro,47.14,50.56,^8Alejandro:^7 My sources tell me all the VIPs in Las Almas will be there tonight.,â,â
+sp_prty_cine_intro,51.51,53.38,^8Alejandro:^7 Some are invited, others are, umm...,â,â
+sp_prty_cine_intro,53.52,54.28,^8Graves:^7 Volun-told...?,â,â
+sp_prty_cine_intro,54.48,54.94,^8Alejandro:^7 Yes.,â,â
+sp_prty_cine_intro,55.92,57.08,^8Graves:^7 What's the meet about?,â,â
+sp_prty_cine_intro,57.08,58.32,^8Alejandro:^7 Us.,â,1
+sp_prty_cine_intro,59.11,62.96,^8Alejandro:^7 Las Almas is burning, and they want to know who lit the fire.,â,â
+sp_prty_cine_intro,62.96,64.9,^8Ghost:^7 Sin Nombre will be there, yeah?,â,â
+sp_prty_cine_intro,65.2,68.32,^8Alejandro:^7 No guarantees but this is our best shot.,â,â
+sp_prty_cine_intro,68.48,69.67,^8Graves:^7 Then we take it.,â,â
+sp_prty_cine_intro,69.67,71.94,^8Graves:^7 I got enough Shadows here to take over the whole damn country.,â,â
+sp_prty_cine_intro,71.95,73,^8Alejandro:^7 I'd prefer if you didn't.,â,â
+sp_prty_cine_intro,73,75.73,^8Graves:^7 I'm just sayin'... one house shouldn't be a problem.,â,â
+sp_prty_cine_intro,75.73,77.57,^8Ghost:^7 We need Sin Nombre alive.,â,â
+sp_prty_cine_intro,78.2,80.5,^8Graves:^7 Well...,â,â
+sp_prty_cine_intro,81.21,83.28,^8Graves:^7 Then we need to meet him.,â,â
+sp_prty_cine_intro,83.29,84.41,^8Soap:^7 How?,â,â
+sp_prty_cine_intro,84.42,85.96,^8Graves:^7 Give 'em what they want...,â,â
+sp_prty_cine_intro,85.96,87.33,^8Graves:^7 Intel.,â,â
+sp_prty_cine_intro,87.34,89.7,^8Graves:^7 They wanna know who's here. Let's tell 'em.,â,â
+sp_prty_cine_intro,89.7,91.35,^8Alejandro:^7 In person-?,â,â
+sp_prty_cine_intro,91.35,92.5,^8Graves:^7 Correcto...,â,â
+sp_prty_cine_intro,92.51,95.22,^8Graves:^7 Get one of us inside, find the boss...,â,â
+sp_prty_cine_intro,95.62,97.49,^8Graves:^7 roll him up.,â,â
+sp_prty_cine_intro,97.5,98.79,^8Soap:^7 I'll do it.,â,â
+sp_prty_cine_intro,98.79,101.44,^8Alejandro:^7 You go in there, and they'll kill you, hermano.,â,â
+sp_prty_cine_intro,101.84,103.22,^8Soap:^7 I'll take my chances.,â,â
+sp_prty_cine_intro,103.71,107.26,^8Soap:^7 We came here to stop a missile, let's stop it.,â,â
+sp_prty_cine_intro,107.86,110.22,^8Soap:^7 I'll offer intel for a meet with Sin Nombre.,â,â
+sp_prty_cine_intro,110.22,113.28,^8Soap:^7 And if he's there, we pounce.,â,â
+sp_prty_cine_intro,113.48,116.24,^8Alejandro:^7 Hell yeah- You've got balls, you son of a bitch.,â,1
+sp_prty_cine_intro,116.34,119.4,^8Alejandro:^7 You make it in you'll need eyes and ears. I'll go too.,â,â
+sp_prty_cine_intro,119.4,120.98,^8Ghost:^7 I'll take overwatch.,â,â
+sp_prty_cine_intro,120.98,123.84,^8Ghost:^7 Shadow circles the target in a helo.,â,â
+sp_prty_cine_intro,123.84,125.22,^8Graves:^7 Roger that.,â,â
+sp_prty_cine_intro,125.82,128.09,^8Graves:^7 They are going to want proof...,â,â
+sp_prty_cine_intro,128.98,130.95,^8Graves:^7 Show 'em this.,â,â
+sp_prty_cine_intro,134.89,136.47,^8Graves:^7 Call me when you need me.,â,â
+sp_prty_cine_intro,136.48,139.04,^8Graves:^7 Alright, let's gear up and get after it.,â,â
+sp_pstcr_cine_intro,3,8.56,^8Pilot:^7 Ladies and gentlemen, we've reached our cruising altitude. You're free to move about the cabin.,â,â
+sp_pstcr_cine_intro,9,13.39,^8Flight Attendant:^7 We're beginning our meal service. A list of selections can be found in your seat pocket.,â,â
+sp_pstcr_cine_intro,13.61,15.11,^8Flight Attendant:^7 Beef, chicken or fish gentlemen...?,â,â
+sp_pstcr_cine_intro,15.22,16.72,^8Passenger:^7 Salads, please.,â,â
+sp_sb_cine_intro,0.03,0.98,^8Price:^7 You hid this-,â,â
+sp_sb_cine_intro,1.42,2.74,^8Price:^7 Why...?,â,â
+sp_sb_cine_intro,2.75,5.02,^3Shepherd:^7 We all keep secrets, Captain.,â,â
+sp_sb_cine_intro,5.02,6.64,^8Price:^7 Why the hell wasn't I informed?,â,â
+sp_sb_cine_intro,7.44,10.42,^3Shepherd:^7 Consider yourself well informed now, John.,â,â
+sp_sb_cine_intro,10.42,12.7,^8Price:^7 Oh, that's really fuckin' helpful, General. Thank you.,â,â
+sp_sb_cine_intro,12.7,14.36,^8Price:^7 But you're a day late and a missile short.,â,â
+sp_sb_cine_intro,14.36,16.53,^8Price:^7 There's three of them- we only found two.,â,â
+sp_sb_cine_intro,16.63,20.54,^3Shepherd:^7 Then point yourself in that direction and fix it.,â,â
+sp_sb_cine_intro,20.82,23.1,^8Price:^7 And who fixes you, eh?,â,â
+sp_sb_cine_intro,23.92,28.78,^3Shepherd:^7 I don't need fixing. I'm a patriot protecting my country.,â,â
+sp_sb_cine_intro,28.78,30.8,^8Price:^7 You're protecting your own ass.,â,â
+sp_sb_cine_intro,30.81,36.48,^3Shepherd:^7 I do what needs to be done and no one holds me down with a roll of red tape.,â,â
+sp_sb_cine_intro,36.48,38.89,^3Shepherd:^7 I know what's best for the cause.,â,â
+sp_sb_cine_intro,38.89,41.34,^8Price:^7 Haha. You've lost your mind, General.,â,â
+sp_sb_cine_intro,41.34,44.18,^3Shepherd:^7 And you've forgotten what you're fighting for, John.,â,â
+sp_sb_cine_intro,44.9,48.55,^3Shepherd:^7 To do good you gotta do some bad.,â,â
+sp_sb_cine_intro,48.7,51.67,^3Shepherd:^7 When we shit we bury it, that's how it works.,â,â
+sp_sb_cine_intro,51.9,53.51,^8Price:^7 Yeah...,â,â
+sp_sb_cine_intro,53.71,55.73,^8Price:^7 But we don't bury each other with it, do we?,â,â
+sp_sb_cine_intro,56.09,61.9,^3Shepherd:^7 You need to turn off that side o' your head and face down the real enemy.,â,â
+sp_sb_cine_intro,64.07,66.36,^8Price:^7 You need to call off your Shadow.,â,â
+sp_sb_cine_intro,66.85,67.92,^3Shepherd:^7 Graves...?,â,â
+sp_sb_cine_intro,67.93,68.51,^8Price:^7 Yeah.,â,â
+sp_sb_cine_intro,68.51,70.09,^3Shepherd:^7 Hahaha...,â,â
+sp_sb_cine_intro,71.9,77.98,^9Shepherd:^7 He's a dog with a bone, and I highly recommend you don't try and take it.,â,â
+sp_sb_cine_intro,77.99,81.09,^8Price:^7 This is your last chance to change your mind.,â,â
+sp_sb_cine_intro,81.09,82.7,^9Shepherd:^7 Then what?,â,â
+sp_sb_cine_intro,83,84.72,^8Price:^7 Then after I go for him...,â,â
+sp_sb_cine_intro,84.72,86.76,^8Price:^7 I'm coming for you.,â,â
+sp_sb_cine_intro,96.78,101.37,^8Alejandro:^7 [whistle] Hey- Vaqueros, pay attention.,â,1
+sp_sb_cine_intro,101.92,103.39,^8Price:^7 Alright, listen -,â,â
+sp_sb_cine_intro,103.39,105.87,^8Price:^7 We are taking back your HQ.,â,â
+sp_sb_cine_intro,106.14,107.62,^8Price:^7 We are getting our prisoner.,â,â
+sp_sb_cine_intro,107.62,109.23,^8Price:^7 We are killing Commander Graves.,â,â
+sp_sb_cine_intro,109.81,110.69,^8Rodolfo:^7 When?,â,â
+sp_sb_cine_intro,110.69,112.85,^8Ghost:^7 Now.,â,â
+sp_sb_cine_intro,112.98,115.68,^8Price:^7 This is a fight against our own...,â,â
+sp_sb_cine_intro,115.77,119.69,^8Price:^7 We are not 141 and Los Vaqueros on this.,â,â
+sp_sb_cine_intro,119.69,121.17,^8Price:^7 We're a team...,â,â
+sp_sb_cine_intro,123.54,125.71,^8Price:^7 ...Ghost Team.,â,â
+sp_sb_cine_intro,131.52,133.54,^8Price:^7 Good to see you again, Simon.,â,â
+sp_sb_cine_intro,135.03,137.18,^8Price:^7 If you're in, take a mask...,â,â
+sp_sb_cine_intro,137.19,138.12,^8Price:^7 If you're not...,â,â
+sp_sb_cine_intro,138.12,139.87,^8Price:^7 Don't.,â,â
+sp_sb_cine_intro,154.64,158.3,^8Alejandro:^7 My troops know the Fuerzas Especiales facility better than Shadow.,â,â
+sp_sb_cine_intro,158.3,160.44,^8Alejandro:^7 So we'll have the advantage.,â,â
+sp_sb_cine_intro,160.45,164,^8Alejandro:^7 Be advised, they'll be on high alert because of the prison break.,â,â
+sp_sb_cine_intro,164,166.68,^8Alejandro:^7 We'll infiltrate the base with two Ghost Teams.,â,â
+sp_sb_cine_intro,166.69,170.47,^8Alejandro:^7 Team-1 is Captain Price, Gaz, me and one pilot.,â,â
+sp_sb_cine_intro,170.6,173.58,^8Alejandro:^7 Team-2 is Ghost, Soap, Rudy and Los Vaqueros.,â,â
+sp_sb_cine_intro,173.58,177.09,^8Alejandro:^7 Team-1, will use the tunnels to get to the tarmac and commandeer a helo.,â,â
+sp_sb_cine_intro,177.09,178.87,^8Alejandro:^7 My pilot will take the Captain up.,â,â
+sp_sb_cine_intro,178.88,184.53,^8Alejandro:^7 Team-2, will stand by outside until Price fires on the entry gate and let's them in to fight their way to Graves.,â,â
+sp_sb_cine_intro,184.53,188.7,^8Alejandro:^7 I suspect he'll be in my HQ defended by his best shooters.,â,â
+sp_sb_cine_intro,188.7,191.14,^8Alejandro:^7 While Gaz and me locate and secure Valeria...,â,â
+sp_sb_cine_intro,191.14,193.02,^8Alejandro:^7 Ghost Team-2, will find Graves...,â,â
+sp_sb_cine_intro,193.03,195,^8Alejandro:^7 And kill him...,â,â
+sp_sb_cine_midro,2.44,2.97,^8Price:^7 All Ghosts-,â,â
+sp_sb_cine_midro,3.74,5.06,^8Price:^7 I'm wheels up with eyes on.,â,â
+sp_sb_cine_midro,5.81,6.53,^8Ghost:^7 Copy that.,â,â
+sp_sb_cine_midro,7.4,8.74,^8Ghost:^7 Two is inbound to the gate.,â,â
+sp_sb_cine_midro,8.74,10,^8Ghost:^7 You're cleared hot when target is marked.,â,â
+sp_sto_cine_intro,1.62,4.38,TWO MONTHS AGO,â,â
+sp_sto_cine_intro,2.17,5.98,^8Laswell:^7 I uncovered redacted intel regarding a black bag operation.,â,â
+sp_sto_cine_intro,5.98,10,^8Laswell:^7 Conducted by General Shepherd and carried out by Shadow Company.,â,â
+sp_str_cine_intro,8.32,10.28,AL MAZRAH,â,â
+sp_str_cine_intro,21.97,24.7,^8Graves:^7 Gold Eagle Actual, Shadow-1 is weapons hot.,â,â
+sp_str_cine_intro,25.76,27.03,^8Graves:^7 We're burning daylight here...,â,â
+sp_str_cine_intro,27.48,29.23,^8Shepherd:^7 Copy, Graves. Stand by.,â,â
+sp_str_cine_intro,29.33,31,^8Shepherd:^7 Laswell, do we have confirmation?,â,â
+sp_str_cine_midtro,0,3.82,^8Graves:^7 Ghost, you are danger close to the zone. This arrow's gonna pack a punch.,â,â
+sp_str_cine_midtro,3.82,4.97,^8Ghost:^7 Copy. Approved.,â,â
+sp_str_cine_midtro,6.14,6.9,^8Ghost:^7 Send it.,â,â
+sp_str_cine_midtro,7.31,12.31,^8Graves:^7 All stations, Shadow-1. Missile is ready for immediate delivery, stand by for launch.,â,â
+sp_str_cine_midtro,12.31,13.31,^8Graves:^7 Coordinates in...,â,â
+sp_str_cine_midtro,13.5,14.87,^8Graves:^7 Target designated...,â,â
+sp_str_cine_midtro,15.2,15.72,^8Graves:^7 Two...,â,â
+sp_str_cine_midtro,16.06,16.87,^8Graves:^7 One...,â,â
+sp_str_cine_midtro,17.33,18.3,^8Graves:^7 Shot out.,â,â
+sp_str_cine_midtro,19.04,20.74,^8Graves:^7 Missile is loose.,â,â
+sp_wou_cine_intro,12.74,13.5,^8Alejandro:^7 What's this?,â,â
+sp_wou_cine_intro,14.55,16.42,^8Graves:^7 This is the immediate future.,â,â
+sp_wou_cine_intro,16.42,17.68,^8Graves:^7 Step away from the gate.,â,â
+sp_wou_cine_intro,18.67,19.33,^8Soap:^7 What?,â,â
+sp_wou_cine_intro,19.34,20.11,^8Graves:^7 You heard me.,â,â
+sp_wou_cine_intro,20.11,22.69,^8Alejandro:^7 You're crazy, this is my base.,â,â
+sp_wou_cine_intro,22.91,23.83,^8Graves:^7 It's not a base.,â,â
+sp_wou_cine_intro,23.83,29.12,^8Graves:^7 This is a sizable covert facility and I admire it-,â,â
+sp_wou_cine_intro,30.08,31.29,^8Graves:^7 So, I'm taking it.,â,â
+sp_wou_cine_intro,31.51,33.6,^8Graves:^7 You boys have been relieved. Thank you for your service.,â,â
+sp_wou_cine_intro,33.84,35.77,^8Alejandro:^7 No, no, no, I don't take orders from you.,â,â
+sp_wou_cine_intro,36.76,39.56,^8Graves:^7 Didn't Valeria say that?,â,â
+sp_wou_cine_intro,39.64,44.25,^8Graves:^7 Now that makes me wonder what else I don't know about your affiliation with a drug-lord?,â,â
+sp_wou_cine_intro,44.61,46.92,^8Alejandro:^7 What the fuck did you just say to me, pendejo...,â,â
+sp_wou_cine_intro,47.09,48.13,^8Soap:^7 You're out of line, Graves.,â,â
+sp_wou_cine_intro,48.24,51.16,^8Graves:^7 Don't do that. Don't... do that.,â,â
+sp_wou_cine_intro,51.38,53.69,^8Graves:^7 No one needs to get hurt here.,â,â
+sp_wou_cine_intro,54.12,55.61,^8Ghost:^7 Are you threatening us?,â,â
+sp_wou_cine_intro,55.61,57.53,^8Graves:^7 Soldier, I don't make threats.,â,â
+sp_wou_cine_intro,58.64,60.06,^8Graves:^7 I make guarantees.,â,â
+sp_wou_cine_intro,60.06,62.26,^8Graves:^7 So let's not do this.,â,â
+sp_wou_cine_intro,63.24,64.95,^8Soap:^7 I'm calling Shepherd.,â,â
+sp_wou_cine_intro,64.95,67.2,^9Graves:^7 General Shepherd sends his regards.,â,â
+sp_wou_cine_intro,67.63,69.5,^9Graves:^7 He told me y'all wouldn't take this well.,â,â
+sp_wou_cine_intro,69.62,71.54,^8Ghost:^7 He knows about this?,â,â
+sp_wou_cine_intro,71.55,74.02,^9Graves:^7 He's put me in command of this operation from here on out.,â,â
+sp_wou_cine_intro,74.02,78.4,^9Graves:^7 So, y'all need to stand down. It's time to let the pros finish this.,â,â
+sp_wou_cine_intro,78.4,82.97,^9Graves:^7 And why the hell are we talking like this is some kind of a negotiation? It's not.,â,â
+sp_wou_cine_intro,82.98,85.86,^9Graves:^7 I've got my orders and now you have yours.,â,â
+sp_wou_cine_intro,85.86,88.3,^8Alejandro:^7 And who the fuck do you think you are, cabr√≥n?,â,â
+sp_wou_cine_intro,88.82,90.69,^8Alejandro:^7 My men are inside!,â,â
+sp_wou_cine_intro,90.72,91.98,^9Graves:^7 I'm afraid not.,â,â
+sp_wou_cine_intro,92.23,94.1,^9Graves:^7 Your men have been...,â,â
+sp_wou_cine_intro,95.63,97.5,^9Graves:^7 detained.,â,â
+sp_wou_cine_intro,98.79,100.39,^8Alejandro:^7 Cabr√≥n!,â,â
+sp_wou_cine_intro,100.63,103.14,^8Soap:^7 Graves, what the fuck?!,â,â
+sp_wou_cine_intro,109.63,111.44,^8Alejandro:^7 Get your fucking hands off of me---,â,â
+sp_wou_cine_intro,114.58,115.84,^8Soap:^7 Argh!!,â,â
+sp_wou_cine_intro,117.05,118.65,^8Ghost:^7 Go Johnny, get out of there!,â,â
+sp_wou_cine_intro,118.93,120.74,^8Ghost:^7 Soap - Go!,â,â
+sp_wou_cine_intro,124.07,125.83,^9Graves:^7 Get him - Now!,â,â
+sp_wou_cine_intro,130.55,132.42,^8Soap:^7 Fuck!,â,â
+sp_wou_cine_intro,139.66,141.42,^9Graves:^7 You there, Ghost?,â,â
+sp_wou_cine_intro,141.43,144.38,^9Graves:^7 That was a big mistake, brother.,â,â
+sp_wou_cine_intro,144.93,147.35,^9Graves:^7 It did not have to be like this.,â,â
+sp_wou_cine_intro,149.87,151.96,^9Graves:^7 Sonovabitch...,â,â
+sp_wou_cine_intro,152.29,154.6,^9Graves:^7 Find 'em!,â,â
+wz_s2_cine_intro,3.16,7,^8Ronin:^7 For warriors... there's only one way...,â,â
+wz_s2_cine_intro,12.57,14.63,^8Ronin:^7 Know your enemy.,â,â
+wz_s2_cine_intro,29.98,31.7,^8Ronin:^7 Master your weapons.,â,â
+wz_s2_cine_intro,37.7,39.56,^8Ronin:^7 Choose your shots...,â,â
+wz_s2_cine_intro,46.9,48.69,^8Ronin:^7 See the unseen...,â,â
+wz_s2_cine_intro,53.69,58.23,^8Ronin:^7 When the enemy flinches... you have already won...,â,â
+wz_s2_cine_intro,68.67,71.14,^8Ronin:^7 The only reason the warrior fights-,â,â
+wz_s2_cine_intro,72.31,73.94,^8Ronin:^7 Is to win...,â,â
+wz_s3_cine_intro,17.47,19.19,^8Guard:^7 [Huh... What was that?],â,1
+wz_s3_cine_intro,36.54,38.37,^8Guard:^7 [Enemy soldier!],â,1
+wz_s3_cine_intro,38.38,39.24,^8Guard:^7 [Where?],â,1
+wz_s3_cine_intro,42.58,43.74,^8Guard:^7 [Right here!],â,1
+wz_s3_cine_intro,48.14,50.55,^8Guard:^7 [Move on 'em. Go!],â,1
+wz_s3_cine_intro,50.56,51.42,^8Guard:^7 [Contact!],â,1
+wz_s3_cine_intro,51.78,53.52,^8Guard:^7 [Ahead of us!],â,1
+wz_s3_cine_intro,55.43,56.31,^8Guard:^7 [Did you get them?],â,1
+wz_s3_cine_intro,60.77,62.31,^9Cartel Soldier 1:^7 [El Sin Nombre...],â,1
+wz_s3_cine_intro,63.66,66.73,^9Valeria:^7 [Where the fuck have you been, assholes?],â,1
+wz_s3_cine_intro,66.74,70.8,^9Valeria:^7 [Try and stop me, Alejandro.],â,1
+wz_s3_cine_intro,73.11,76.85,^8Alejandro:^7 Laswell, Valeria's escaped. We lost her.,â,â
+wz_s3_cine_intro,77.06,80.03,^8Laswell:^7 I found her. Las Almas Cartel's been seen in Al Mazrah.,â,â
+wz_s3_cine_intro,80.53,82.16,^8Alejandro:^7 What does she want in Al Mazrah?,â,â
+wz_s3_cine_intro,82.26,83.99,^8Laswell:^7 New territory.,â,â
+wz_s3_cine_intro,83.99,86.02,^8Alejandro:^7 I'm going after Valeria.,â,â
+wz_s3_cine_intro,86.69,90.73,^8Alejandro:^7 [My girl... You're coming with me.],â,1
+wz_s3_cine_intro,91.03,93.52,^8Rodolfo:^7 [The cartel will have serious hardware...],â,1
+wz_s3_cine_intro,93.53,95.74,^8Alejandro:^7 [So will we, hermano.],â,1
+wz_s3_cine_intro,96.8,98.74,^8Rodolfo:^7 [What do you need from me, Colonel?],â,1
+wz_s3_cine_intro,98.75,103.29,^8Alejandro:^7 [You hold it down here. I won't be alone.],â,1
+wz_s3_cine_intro,103.96,105.7,^8Rodolfo:^7 [Long live the Los Vaqueros.],â,1
+wz_s3_cine_intro,105.7,107.84,^8Alejandro:^7 [Long live Las Almas, compa.],â,1
+wz_s3_cine_intro,108.32,110.25,^8Rodolfo:^7 [Move!],â,1
+wz_s3_cine_intro,110.26,113.24,^8Laswell:^7 There's cartel activity at Hafid Port.,â,â
+wz_s3_cine_intro,113.24,115.21,^8Alejandro:^7 They'll have to go through me.,â,â
+wz_s4_cine_intro,0.02,5.02,^8Laswell:^7 Seventy-two hours ago there were reports of a possible chemical attack in the city of Vondel.,â,â
+wz_s4_cine_intro,5.02,10.23,^8Laswell:^7 A resident philanthropist we believe to be Milena Romonova, a Russian real estate magnate,,â,â
+wz_s4_cine_intro,10.24,14.57,^8Laswell:^7 tasked a private security force to protect the city and prevent an attack.,â,â
+wz_s4_cine_intro,17.54,22.44,^8Laswell:^7 They set up perimeters and cordoned off areas for the safety of the civilians.,â,â
+wz_s4_cine_intro,22.9,27.16,^8Laswell:^7 Many have been evactuated and others have chosen to leave.,â,â
+wz_s4_cine_intro,27.32,32.9,^8Laswell:^7 Questions about the intentions of the security force are being answered before our eyes-,â,â
+wz_s4_cine_intro,33.64,36.78,^8Laswell:^7 Enemy soldiers have been seen within the city limits...,â,â
+wz_s4_cine_intro,37.57,40.46,^8Laswell:^7 There is something very wrong in Vondel.,â,â
+wz_s4_cine_intro,48.85,53.54,^8Laswell:^7 At this hour conflict is breaking out in the streets, waterways and city centers.,â,â
+wz_s4_cine_intro,56.2,60.61,^8Laswell:^7 We need soldiers on the ground to re-secure the area and prevent the collapse of Vondel.,â,â
+wz_s4_cine_intro,60.61,62.71,^8Laswell:^7 This looks like a war...,â,â
+wz_s4_cine_intro,63.01,64.93,^8Laswell:^7 We need you in it...,â,â

@@ -1,0 +1,5 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,,,
+reqAdd,,1,,,# 1 item legendary
+reqAdd,valuable,3,,,# 2 items
+reqAdd,health,2,,,# 2 Armor Plates
+reqAdd,plunder,3,,,# 1 plunder

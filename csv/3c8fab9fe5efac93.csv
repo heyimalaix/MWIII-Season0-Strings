@@ -1,0 +1,5 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,,,
+reqAdd,weapon&[4],1,,,# 1 weapon
+reqAdd,plunder,1,,,
+reqAdd,defensive,2,,,# 1 killstreak
+reqAdd,valuable,2,3,,# any item of epic or lege rarity

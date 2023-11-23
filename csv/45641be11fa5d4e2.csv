@@ -1,0 +1,11 @@
+ui_target_health,1,,c,i,-1,-1,2000000,,
+ui_target_max_health,1,,c,i,0,0,2000000,,
+ui_target_health_notify,1,,c,n,,,,,# notify lua health change
+ui_target_entity_num,1,,c,i,-1,-1,4047,,
+ui_target_enemy_type,1,,c,i,-1,-1,1000,,
+ui_target_enemy_state,1,,c,i,0,0,7,,
+ui_target_state_notify,1,,c,n,,,,,# notify lua state change
+ui_target_enemy_difficulty,1,,c,i,-1,-1,10,,
+ui_target_enemy_name_index,1,,c,i,0,0,128,,
+ui_target_nameplate_vis,1,,c,b,0,,,,# lua nameplate visbility
+ui_target_healthbar_vis,1,,c,b,0,,,,# lua healthbar visbility

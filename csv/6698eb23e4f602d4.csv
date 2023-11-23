@@ -1,0 +1,15 @@
+ui_owned_capture_bot_capturing,1,,c,i,-1,-1,1
+ui_owned_capture_bot_index,1,,c,i,-1,-1,2147483646
+ui_owned_player_capturing_index,1,,c,i,-1,-1,2147483646
+ui_objective_1_capture_bot_team_count,1,,g,a,0,0,
+ui_objective_1_capture_bot_index,1,,g,i,-1,-1,2147483646
+ui_objective_2_capture_bot_team_count,1,,g,a,0,0,
+ui_objective_2_capture_bot_index,1,,g,i,-1,-1,2147483646
+ui_objective_3_capture_bot_team_count,1,,g,a,0,0,
+ui_objective_3_capture_bot_index,1,,g,i,-1,-1,2147483646
+ui_objective_4_capture_bot_team_count,1,,g,a,0,0,
+ui_objective_4_capture_bot_index,1,,g,i,-1,-1,2147483646
+ui_objective_5_capture_bot_team_count,1,,g,a,0,0,
+ui_objective_5_capture_bot_index,1,,g,i,-1,-1,2147483646
+ui_objective_6_capture_bot_team_count,1,,g,a,0,0,
+ui_objective_6_capture_bot_index,1,,g,i,-1,-1,2147483646

@@ -1,0 +1,4 @@
+legend,icon_minimap_player,MPUI/PLAYER_ICON,
+legend,ui_mp_br_mapmenu_ping_navigation_squadleader,MPUI/PLAYER_PING_ICON,
+legend,ui_mp_br_ping_icon_domination,MP_ARM/HQ,dom
+legend,icon_waypoint_hq,MP_ARM/HQ,hq

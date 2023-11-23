@@ -1,0 +1,7 @@
+inherit,mp/loot/br/default/lootset_root.csv,,,,
+reqAdd,weapon&[4],1,,,# require a tier 4 weapon
+reqAdd,plunder,3,4,,
+reqAdd,super,2,3,,
+reqAdd,gear|plate_carrier|perkpack,2,4,,
+reqLimit,perkpack,2,,,
+reqLimit,gear,1,,,

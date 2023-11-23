@@ -1,0 +1,2 @@
+ui_plasma_launcher_light_color,1,,c,i,0,0,1,,# light color of plasma launcher ww. 0 is red, 1 is green
+ui_plasma_launcher_charge_time,1,,c,i,1,1,100000,,# amount of time to fully charge weapon

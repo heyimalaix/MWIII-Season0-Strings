@@ -1,0 +1,7 @@
+1,MP_BR_INGAME/PLUNDER_REWARD,ui_mp_br_loot_icon_plunder,1,1000
+2,EQUIPMENT/ARMOR_PLATE_BR,ui_mp_br_loot_icon_health_armor_plates,2,
+3,MP_BR_INGAME/PLUNDER_REWARD,ui_mp_br_loot_icon_plunder,3,2000
+4,EQUIPMENT/AMMO_DROP,hud_icon_fieldupgrade_ammo_box,4,
+5,EQUIPMENT/AMMO_DROP,hud_icon_fieldupgrade_ammo_box,5,
+6,EQUIPMENT/GASMASK,ui_mp_br_loot_icon_gear_helmet,6,
+7,KILLSTREAKS/UAV,hud_icon_killstreak_uav,7,

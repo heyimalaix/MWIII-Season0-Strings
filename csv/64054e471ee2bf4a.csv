@@ -1,0 +1,12 @@
+rigging_0,0,
+rigging_1,0,# all weapons have at least one attachment, the receiver. From a player facing view, this is 0
+rigging_2,0,
+rigging_3,0,
+rigging_4,0,
+rigging_5,0,
+rigging_6,0,# see above; from a playe facing perspecitve, this is a 5 attachment gun
+rigging_7,0,
+rigging_8,0,
+base_attachment_price,0,#attachment
+base_weapon_price,250,#weapon
+firesale_weapon_discount,30,#percent discount; final price will be 100%-(<value to left as percent>)

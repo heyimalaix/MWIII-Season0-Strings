@@ -1,0 +1,5 @@
+inherit,mp/loot/br/dmz/lootset_fridge_a.csv
+tagReject,sealion
+tagReject,nosaba
+tagReject,delta
+tagReject,biobunker

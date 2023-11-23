@@ -1,0 +1,10 @@
+13532,268,battlepass_pass,0,4,,20,1000,1000,,13532,1,iw9_activate_battlepass,8872,iw9_battle_pass_purchase,IW9_AE_KIND_BATTLEPASS,BATTLEPASS/BATTLEPASS_PREMIUM,battlepass_purchase_image,mgl_battlepass_pass
+13538,275,battlepass_map_token,1,2,,20,150,100,,13538,1,iw9_battlemap_token_purchase,4130,,IW9_AE_KIND_BATTLEMAP_TOKEN_PURCHASE,BATTLEPASS/1_TIER_SKIP,battlepass_purchase_image,mgl_battlepass_map_token
+13540,273,battlepass_bundle,2,0,,20,2400,2400,,13532|13538,1|20,,,,,BATTLEPASS/BATTLEPASS_PREMIUM_BUNDLE,battlepass_purchase_image_bundle,mgl_battlepass_bundle
+13952,329,battlepass_bundle_sony,2,0,,20,2400,2400,,13532|13538,1|25,,,,,BATTLEPASS/BATTLEPASS_PREMIUM_BUNDLE,battlepass_purchase_image_bundle,
+13534,271,battlepass_tracker_s1,3,,1,,,,,,,,,,,,,
+13537,276,battlepass_tracker_s2,3,,2,,,,,,,,,,,,,
+13535,274,battlepass_tracker_s3,3,,3,,,,,,,,,,,,,
+13539,272,battlepass_tracker_s4,3,,4,,,,,,,,,,,,,
+13533,269,battlepass_tracker_s5,3,,5,,,,,,,,,,,,,
+13536,270,battlepass_tracker_s6,3,,6,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+inherit,mp/loot/br/dmz/lootset_root.csv,,
+option,no_points_ground,1,
+chance,point,30,#     % of non-clustered points that will be populated
+chance,cluster,25,#     % of clusters that will be populated
+chance,clusterSolo,70,#     % of clusters that will become invalid after spawning one item (with dependencies)
+reqAdd,,1,
+reqAdd,brloot_armor_plate,1,

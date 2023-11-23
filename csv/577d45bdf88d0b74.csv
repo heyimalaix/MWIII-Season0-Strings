@@ -1,0 +1,4 @@
+inherit,mp/loot/br/default/lootset_root.csv,
+tagReject,nogulag,100
+reqAdd,gear,1
+reqAdd,tactical,3

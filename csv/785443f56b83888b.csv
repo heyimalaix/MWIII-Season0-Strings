@@ -1,0 +1,7 @@
+ui_raid_lua_render_stage,1,,g,i,0,0,10,,#stage for releasing and rendering in world lua rtt_textures
+ui_raid_number_screen_a,1,,g,i,0,0,999999999,,
+ui_raid_number_screen_b,1,,g,i,0,0,999999999,,
+ui_raid_number_screen_c,1,,g,i,0,0,999999999,,
+ui_raid_number_russian_chars_1_3,1,,g,i,0,0,999999,,
+ui_raid_number_russian_chars_4_5,1,,g,i,0,0,9999,,
+ui_raid_number_retries,1,,g,i,0,0,4,,#Num of retries on a code in the numbers puzzle

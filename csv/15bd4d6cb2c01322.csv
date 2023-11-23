@@ -1,0 +1,6 @@
+inherit,mp/loot/br/dmz/lootset_dmz_crate_wood.csv
+tagReject,biolab
+tagReject,saba
+tagReject,sabacrashsite
+tagReject,delta
+tagReject,biobunker

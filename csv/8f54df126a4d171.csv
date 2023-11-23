@@ -1,0 +1,8 @@
+include,omnvars/mp/omnvars_scorestreaks.csv,,,,,,
+include,omnvars/mp/omnvars_team_revive.csv,,,,,,
+include,omnvars/mp/omnvars_no_respawn_warning.csv,,,,,,
+ui_allies_lives_remaining,1,,g,i,0,0,100
+ui_axis_lives_remaining,1,,g,i,0,0,100
+ui_num_dom_flags,1,,g,i,3,0,5
+ui_segment_captured,1,,c,i,0,0,3
+ui_control_axis_defending,1,,g,i,0,0,1

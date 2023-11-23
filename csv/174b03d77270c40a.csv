@@ -1,0 +1,4 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,,,
+reqAdd,weapon,1,,,# Required Weapon
+reqAdd,ammo,1,,,# Required Weapon
+reqAdd,offensive,1,,,

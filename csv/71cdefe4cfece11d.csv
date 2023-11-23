@@ -1,0 +1,3 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,
+reqAdd,brloot_plunder_cash_epic_1,1,1
+reqAdd,brloot_self_revive,1,1

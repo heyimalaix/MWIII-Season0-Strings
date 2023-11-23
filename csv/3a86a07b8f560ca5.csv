@@ -1,0 +1,3 @@
+inherit,mp/loot/br/dmz/biobunker/lootset_root.csv,,
+reqLimit,brloot_health_adrenaline,,1
+reqAdd,,2,

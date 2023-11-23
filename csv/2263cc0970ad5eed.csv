@@ -1,0 +1,13 @@
+include,omnvars/cp/gametypes/omnvars_missions.csv,,,,,,,,,,,,
+ui_safe_combination,1,,c,i,-1,-1,999999,,,,,,
+ui_safe_hands_resetting,1,,c,b,0,0,1,,,,,,
+ui_keypad_data,1,,c,i,0,0,16383,,,,,,#packed: 2 bits (Keypad State); 4 bits (Code Length); 4 bits (Most Recent Digit Index); 4 bits (Objective ID);
+ui_vault_code_known_digits,1,,c,a,0,,,,,,,,#bit field of exgm vault code digits 4 bits per digit [0-9 plus 10 represents character # for unkowns]; 4 bit for objective ID
+ui_raid_lua_render_stage,1,,g,i,0,0,10,,#stage for releasing and rendering in world lua rtt_textures,,,,
+ui_raid_number_screen_a,1,,g,i,0,0,999999999,,,,,,
+ui_raid_number_screen_b,1,,g,i,0,0,999999999,,,,,,
+ui_raid_number_screen_c,1,,g,i,0,0,999999999,,,,,,
+ui_raid_number_russian_chars_1_3,1,,g,i,0,0,999999,,,,,,
+ui_raid_number_russian_chars_4_5,1,,g,i,0,0,9999,,,,,,
+ui_raid_number_retries,1,,g,i,0,0,4,,#Num of retries on a code in the numbers puzzle,,,,
+ui_stealth_compass_highest_threat_in_state_ents,1,,c,a,0,,,,,,,,#ai in the current highest stealth state, 3 ents packed as uint, each ent is 10 bits

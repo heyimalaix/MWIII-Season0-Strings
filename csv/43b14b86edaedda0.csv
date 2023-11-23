@@ -1,0 +1,7 @@
+inherit,mp/loot/br/dmz/lootset_comm_fridge_02.csv,
+tagReject,biolab,
+tagReject,saba,
+tagReject,sabacrashsite,
+tagReject,delta,
+tagReject,biobunker,
+item,brloot_valuable_sealion_liquor,20

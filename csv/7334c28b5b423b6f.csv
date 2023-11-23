@@ -1,0 +1,3 @@
+inherit,mp/loot/br/dmz/biolab/lootset_root.csv,,,
+reqAdd,,1,1,
+reqAdd,loot_key_blue_door_worn,1,,4

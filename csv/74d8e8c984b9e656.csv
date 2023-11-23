@@ -1,0 +1,11 @@
+choose,4,,,,,
+zone,mp_stronghold_test_area_04,fortress,mp/loot/br/dmz/lootset_hotzone.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone
+zone,mp_stronghold_test_area_02,fortress,mp/loot/br/dmz/lootset_hotzone.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone
+zone,mp_stronghold_test_area_03,fortress,mp/loot/br/dmz/lootset_hotzone.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone
+choose,1,,,,,
+zone,mp_br_mechanics_hotzone_01,fortress,mp/loot/br/dmz/lootset_hotzone.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone
+choose,2,,,,,
+zone,me_controltower_01,fortress,mp/loot/br/dmz/lootset_hotzone.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone
+zone,mp_stronghold_test_area_01,fortress,mp/loot/br/dmz/lootset_hotzone.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone
+choose,1,,,,,
+zone,cargo_mission_hotzone,fortress,mp/loot/br/dmz/lootset_hotzone.csv,mp/loot/br/dmz/lootset_cache_spawns_hotzone.csv,,#Zone

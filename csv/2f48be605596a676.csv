@@ -1,0 +1,8 @@
+inherit,mp/loot/br/default/lootset_root.csv,,,,
+tagReject,plate_carrier,,,,
+reqAdd,weapon,1,,,# 1 weapon
+reqAdd,ammo,2,,,# 1 ammo
+reqAdd,brloot_armor_plate,1,,,# 1 armor plate
+reqAdd,recon,2,,,# 1 item of rarity 1
+reqAdd,recon&!(lethal|tactical),1,,33,# chance for any item of high quality
+reqLimit,weapon,,1,,

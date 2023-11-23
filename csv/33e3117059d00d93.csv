@@ -1,0 +1,6 @@
+inherit,mp/loot/br/dmz/biobunker/lootset_root.csv,,
+option,no_points_ground,,
+chance,point,80,#     % of non-clustered points that will be populated
+chance,cluster,80,#     % of clusters that will be populated
+chance,clusterSolo,10,#     % of clusters that will become invalid after spawning one item (with dependencies)
+reqAdd,,1,

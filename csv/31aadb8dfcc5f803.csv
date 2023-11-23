@@ -1,0 +1,6 @@
+reqAdd,br_loot_cache,chest,3
+chance,cachePoint,80,
+chance,cache,100,
+item,br_loot_cache,60,
+item,br_loot_cache_lege,10,
+item,br_reusable_loot_cache,30,

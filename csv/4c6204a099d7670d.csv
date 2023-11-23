@@ -1,0 +1,11 @@
+include,omnvars/mp/omnvars_scorestreaks.csv,,,,,,
+ui_havoc_show_mod,1,,g,i,-1,-1,99
+ui_havoc_score_threshold,1,,g,i,0,0,10
+ui_havoc_threshold_progress,1,,g,f,0,0,1
+ui_havoc_countdown_time,1,,g,t,0,,
+ui_havoc_countdown_progress,1,,g,f,0,0,1
+ui_havoc_mod_status_1,1,,g,i,-1,-1,99
+ui_havoc_mod_status_2,1,,g,i,-1,-1,99
+ui_havoc_mod_status_3,1,,g,i,-1,-1,99
+ui_havoc_mod_status_4,1,,g,i,-1,-1,99
+ui_havoc_mod_status_5,1,,g,i,-1,-1,99

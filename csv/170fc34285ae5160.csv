@@ -1,0 +1,33 @@
+2,navigation,(triangle),(waypoint),,,
+3,danger,,,,,
+4,gsc_objective,?,?,?,,
+5,request,?,?,?,,
+6,vehicle,,,(box? Idk),,
+7,lethal,,,,,
+8,supply box,,,,,
+9,ammo_restock,,,,,
+10,enemy,n/a,n/a,n/a,,
+11,gascan_entity,,,,,
+12,cuav,,,,,
+13,sentry_turret,,,,,
+14,civilian,n/a,n/a,n/a,,
+15,dropped_weapon,,,,,
+16,join_enemy_team,,,,,
+17,join_my_team,,,,,
+18,loot,,,,,
+19,kiosk,,,,,
+20,tablet,,,,,
+21,gascan_scriptable,,,,,
+22,scriptable_objective,,,,,
+23,attraction,,,,,
+24,door,,,,,
+25,open_cache,,,,,
+26,fulton,,,,,
+27,go_here,(triangle),(actual icon),,,1
+28,defending_here,,,,,2
+29,watching_here,,,,,3
+30,attacking_here,,,,,4
+31,regroup_here,,,,,5
+32,looting_here,,,,,6
+33,stay_quiet,,,,,7
+34,help_me,,,,,8

@@ -1,0 +1,7 @@
+inherit,mp/loot/br/default/lootset_root.csv,,,,
+reqAdd,weapon&[4],1,,,# 1 weapon
+reqAdd,plunder&[1],1,2,,# 1 plunder
+reqAdd,brloot_super_munitionsbox,1,,,# 2 ammo
+reqAdd,brloot_super_armorbox,1,,,# 3 armor plates
+reqAdd,gear,2,,,# 1 item of rarity 1
+reqAdd,offensive,2,,,# any item of epic or lege rarity

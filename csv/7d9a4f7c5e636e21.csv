@@ -1,0 +1,7 @@
+inherit,mp/loot/br/resurgence/lootset_root.csv,,,,
+reqAdd,weapon&[2-4],1,,,# Required Weapon
+reqAdd,gear|plate_carrier,1,,,# Chance of Killstreak
+reqAdd,plunder & [2],1,,,# Chance of Plunder
+reqAdd,,2,,,
+reqLimit,gear,1,,,
+reqLimit,plate_carrier,1,,,

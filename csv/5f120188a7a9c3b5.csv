@@ -1,0 +1,9 @@
+legend,exfil,ui_map_icon_cp_mp_exfil,,DMZ/EXFIL,,,,,0
+legend,activityStarter,ui_map_icon_ph_bg,,DMZ/CONTRACTS,,,,,0
+legend,radiationArea,jup_ui_map_icon_obj_radiation,,DMZ/RADIATION_AREA,,,,,0
+legend,armoryKiosk,ui_map_icon_poi_shop,,MP_BR_INGAME/ARMORY_KIOSK,,,,,0
+legend,packapunch,ui_icon_minimap_weaponupgrade,,LUA_MENU_ZM/PAP,,,,,0
+legend,perkstation,ui_map_icon_obj_bg,,CODCASTER/KB_PERKS,,,,,0
+legend,fortress,ui_map_icon_fortress,,MP_BR_INGAME/FORTRESS,,,,,0
+legend,wallbuy,ui_icon_minimap_wallbuys,,CP_ZMB/PING_WALLBUY,,,,,0
+legend,mysteryBox,ui_icon_minimap_mysterybox,,CP_ZMB/PING_MYSTERY_BOX,,,,,0

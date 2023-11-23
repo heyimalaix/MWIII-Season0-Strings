@@ -1,0 +1,5 @@
+include,omnvars/mp/omnvars_scorestreaks.csv,,,,,,
+include,omnvars/mp/omnvars_bombtimer.csv,,,,,,
+include,omnvars/mp/omnvars_team_revive.csv,,,,,,
+include,omnvars/mp/omnvars_mgl.csv,,,,,,
+ui_reset_joystick,1,,c,i,0,0,1

@@ -1,0 +1,4 @@
+choose,1,,,,,
+zone,jup_industrial_powerplant_02,fortress,mp/loot/br/default/strongholds/lootset_stronghold_black.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_blacksite.csv,,#Zone, blacksite
+choose,3,,,,,
+zone,tier2_gas_station_03,fortress,mp/loot/br/default/strongholds/lootset_stronghold_high.csv,mp/loot/br/default/strongholds/lootset_cache_spawns_stronghold.csv,,#Zone
